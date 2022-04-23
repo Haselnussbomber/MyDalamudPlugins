@@ -1,0 +1,40 @@
+name: Update Repo
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+  repository_dispatch:
+    types: [new-release]
+
+jobs:
+  update:
+    name: Update Repo
+    runs-on: ubuntu-latest
+    steps:
+      - uses: denoland/setup-deno@v1
+        with:
+          deno-version: 1.x
+
+      - uses: actions/checkout@v3
+
+      - name: Update Repo
+        run: deno run --allow-net=api.github.com --allow-write=repo.json main.ts
+
+      - name: Verify Changed files
+        uses: tj-actions/verify-changed-files@v9
+        id: verify-changed-files
+        with:
+          files: repo.json
+
+      - name: Commit files
+        if: steps.verify-changed-files.outputs.files_changed == 'true'
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: Update Repo
+          committer_name: GitHub Actions
+          committer_email: actions@github.com
+
+      - name: Push changes
+        if: steps.verify-changed-files.outputs.files_changed == 'true'
+        uses: ad-m/github-push-action@master
