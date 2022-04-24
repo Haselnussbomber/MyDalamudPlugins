@@ -3,13 +3,13 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "0.0.2",
+    "AssemblyVersion": "0.0.3",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 6,
-    "DownloadCount": 11,
-    "LastUpdate": 1650737121,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.0.2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.0.2/latest.zip"
+    "DownloadCount": 0,
+    "LastUpdate": 1650801344,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.0.3/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.0.3/latest.zip"
   }
 ]
