@@ -8,7 +8,7 @@
     "Changelog": "- [CharacterClassSwitcher] basic controller support\r\n  - only tested with a Xbox 360 Controller\r\n  - desynthesis window still only opens when holding shift on a keyboard\r\n- [CharacterClassSwitcher] hover/pointer effect only for unlocked jobs\r\n- [CharacterClassSwitcher] now plays ui click sound on click",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 6,
-    "DownloadCount": 175,
+    "DownloadCount": 188,
     "LastUpdate": 1651354466,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.0.11/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.0.11/latest.zip"
