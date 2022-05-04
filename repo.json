@@ -5,7 +5,7 @@
     "InternalName": "HaselTweaks",
     "AssemblyVersion": "0.1.0",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-    "Changelog": "",
+    "Changelog": "### New Tweak: ScrollableTabs\r\n\r\nEnables mouse wheel to switch tabs (like with LB/RB on controllers) in the following windows:\r\n\r\n- Aether Currents\r\n- Armoury Chest\r\n- Blue Magic Spellbook\r\n- Fashion Accessories\r\n- Fish Guide\r\n- Gold Saucer -> Card List\r\n- Gold Saucer -> Decks -> Edit Deck\r\n- Gold Saucer -> Lord of Verminion -> Minion Hotbar\r\n- Inventory\r\n- Minions\r\n- Mounts\r\n- Retainer Inventory\r\n- Shared FATE\r\n- Sightseeing Log",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 6,
     "DownloadCount": 0,
