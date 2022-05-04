@@ -5,7 +5,7 @@
     "InternalName": "HaselTweaks",
     "AssemblyVersion": "0.1.1",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-    "Changelog": "",
+    "Changelog": "- [RevealDungeonRequirements] renamed to RevealDutyRequirements 🙄 \r\n- auto-adjust renamed tweaks in config",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 6,
     "DownloadCount": 0,
