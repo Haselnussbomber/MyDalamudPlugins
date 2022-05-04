@@ -12,7 +12,7 @@ const output = await Promise.all(repos.map(async (repo) => {
     InternalName: repo,
     AssemblyVersion: data.tag_name.replace(/^v/, ""),
     RepoUrl: `https://github.com/${user}/${repo}`,
-    Changelog: data.body,
+    Changelog: data.body.replace(/\p{Emoji}/gu, ""),
     ApplicableVersion: "any",
     DalamudApiLevel: 6,
     DownloadCount: data.assets[0].download_count,
