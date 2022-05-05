@@ -5,7 +5,7 @@
     "InternalName": "HaselTweaks",
     "AssemblyVersion": "0.1.2",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-    "Changelog": "",
+    "Changelog": "- [WondrousTailsDutySelector] tweak removed, use ezWondrousTails instead\r\n- bugfixes and other uninteresting developer stuff ",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 6,
     "DownloadCount": 0,
