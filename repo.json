@@ -3,14 +3,14 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "0.1.2",
+    "AssemblyVersion": "0.1.1",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-    "Changelog": "- [WondrousTailsDutySelector] tweak removed, use ezWondrousTails instead\r\n- bugfixes and other uninteresting developer stuff ",
+    "Changelog": "- [RevealDungeonRequirements] renamed to RevealDutyRequirements  \r\n- auto-adjust renamed tweaks in config",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 6,
-    "DownloadCount": 0,
-    "LastUpdate": 1651708855,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.1.2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.1.2/latest.zip"
+    "DownloadCount": 103,
+    "LastUpdate": 1651675139,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.1.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.1.1/latest.zip"
   }
 ]
