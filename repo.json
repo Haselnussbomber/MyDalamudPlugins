@@ -8,7 +8,7 @@
     "Changelog": " New \"Tweak\": Commands\r\n\r\nA variety of useful chat commands.\r\n\r\nStarting with:\r\n\r\n- `/itemlink <id>`  \r\n  Prints an item link for the given item id in chat.\r\n- `/whatmount`  \r\n  Target a player and execute the command to see what mount your target is riding and which item teaches this mount.\r\n\r\n Other changes\r\n- [DTR] Entries are now created on load (instead on setup) and removed on unload (instead on dispose)\r\n- A better tweak tooltip has been added to the tweaks list\r\n- A tweak is now marked as outdated if the signature fails",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 6,
-    "DownloadCount": 41,
+    "DownloadCount": 56,
     "LastUpdate": 1652218430,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.2.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.2.0/latest.zip"
