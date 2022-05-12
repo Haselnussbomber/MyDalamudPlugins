@@ -3,14 +3,14 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "0.2.1",
+    "AssemblyVersion": "0.2.2",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-    "Changelog": "- [CharacterClassSwitcher] added config option to disable Tooltips",
+    "Changelog": "",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 6,
     "DownloadCount": 0,
-    "LastUpdate": 1652370748,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.2.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.2.1/latest.zip"
+    "LastUpdate": 1652379103,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.2.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.2.2/latest.zip"
   }
 ]
