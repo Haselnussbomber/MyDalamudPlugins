@@ -3,14 +3,14 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "0.2.2",
+    "AssemblyVersion": "0.2.3",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-    "Changelog": "- [KeepInstantPortrait] hotfix for copy pasta mistake that crashes the game",
+    "Changelog": "",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 6,
-    "DownloadCount": 597,
-    "LastUpdate": 1652379103,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.2.2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.2.2/latest.zip"
+    "DownloadCount": 0,
+    "LastUpdate": 1655726065,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.2.3/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.2.3/latest.zip"
   }
 ]
