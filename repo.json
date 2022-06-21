@@ -3,14 +3,14 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "0.2.3",
+    "AssemblyVersion": "0.2.4",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-    "Changelog": "",
+    "Changelog": "- adjusted code to accommodate FFXIVClientStructs changes",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 6,
-    "DownloadCount": 253,
-    "LastUpdate": 1655727212,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.2.3/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.2.3/latest.zip"
+    "DownloadCount": 0,
+    "LastUpdate": 1655844146,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.2.4/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.2.4/latest.zip"
   }
 ]
