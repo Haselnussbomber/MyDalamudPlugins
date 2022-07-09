@@ -3,14 +3,14 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "0.2.4",
+    "AssemblyVersion": "0.2.5",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-    "Changelog": "- adjusted code to accommodate FFXIVClientStructs changes",
+    "Changelog": "- [CharacterClassSwitcher] added detection for \"Select Target/Confirm\" controller button binding",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 6,
-    "DownloadCount": 514,
-    "LastUpdate": 1655844146,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.2.4/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.2.4/latest.zip"
+    "DownloadCount": 0,
+    "LastUpdate": 1657372981,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.2.5/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.2.5/latest.zip"
   }
 ]
