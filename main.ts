@@ -1,6 +1,7 @@
 const user = "Haselnussbomber";
 const repos = [
   "HaselTweaks",
+  "LeveHelper",
 ];
 
 const output = await Promise.all(repos.map(async (repo) => {
