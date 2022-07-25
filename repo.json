@@ -8,9 +8,23 @@
     "Changelog": "- [CharacterClassSwitcher] added support for PvP Character window",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 6,
-    "DownloadCount": 545,
+    "DownloadCount": 546,
     "LastUpdate": 1657542947,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.2.6/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.2.6/latest.zip"
+  },
+  {
+    "Author": "Haselnussbomber",
+    "Name": "LeveHelper",
+    "InternalName": "LeveHelper",
+    "AssemblyVersion": "0.0.3",
+    "RepoUrl": "https://github.com/Haselnussbomber/LeveHelper",
+    "Changelog": "",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 6,
+    "DownloadCount": 0,
+    "LastUpdate": 1658751694,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.0.3/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.0.3/latest.zip"
   }
 ]
