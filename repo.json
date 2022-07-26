@@ -8,7 +8,7 @@
     "Changelog": "- [CharacterClassSwitcher] added support for PvP Character window",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 6,
-    "DownloadCount": 546,
+    "DownloadCount": 551,
     "LastUpdate": 1657542947,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.2.6/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.2.6/latest.zip"
@@ -22,7 +22,7 @@
     "Changelog": "",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 6,
-    "DownloadCount": 1,
+    "DownloadCount": 16,
     "LastUpdate": 1658751694,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.0.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.0.3/latest.zip"
