@@ -8,7 +8,7 @@
     "Changelog": "- [CharacterClassSwitcher] added support for PvP Character window",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 6,
-    "DownloadCount": 589,
+    "DownloadCount": 593,
     "LastUpdate": 1657542947,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.2.6/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.2.6/latest.zip"
@@ -17,14 +17,14 @@
     "Author": "Haselnussbomber",
     "Name": "LeveHelper",
     "InternalName": "LeveHelper",
-    "AssemblyVersion": "0.0.4",
+    "AssemblyVersion": "0.0.5",
     "RepoUrl": "https://github.com/Haselnussbomber/LeveHelper",
-    "Changelog": "- corrected allowance days calculation\r\n- class filter is now type filter and grouped into categories",
+    "Changelog": "- added icons to type filter\r\n- increased filter table width a bit\r\n- reset invalid filter states (locations and levemetes only)",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 6,
     "DownloadCount": 0,
-    "LastUpdate": 1659190569,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.0.4/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.0.4/latest.zip"
+    "LastUpdate": 1659210720,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.0.5/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.0.5/latest.zip"
   }
 ]
