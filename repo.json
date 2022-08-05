@@ -3,15 +3,15 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "0.2.6",
+    "AssemblyVersion": "0.3.0",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-    "Changelog": "- [CharacterClassSwitcher] added support for PvP Character window",
+    "Changelog": " New Tweak: Search the markets\r\n\r\nAdds a context menu entry to items in Inventory, Crafting Log, Recipe Tree or Materials List to quickly search for it on the Market Board. Only visible when Market Board is open.\r\n",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 6,
-    "DownloadCount": 637,
-    "LastUpdate": 1657542947,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.2.6/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.2.6/latest.zip"
+    "DownloadCount": 0,
+    "LastUpdate": 1659724630,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.3.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.3.0/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
