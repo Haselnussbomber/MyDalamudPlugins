@@ -8,7 +8,7 @@
     "Changelog": " New Tweak: Search the markets\r\n\r\nAdds a context menu entry to items in Inventory, Crafting Log, Recipe Tree or Materials List to quickly search for it on the Market Board. Only visible when Market Board is open.\r\n",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 6,
-    "DownloadCount": 340,
+    "DownloadCount": 371,
     "LastUpdate": 1659724630,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.3.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.3.0/latest.zip"
@@ -22,7 +22,7 @@
     "Changelog": "- added icons to type filter\r\n- increased filter table width a bit\r\n- reset invalid filter states (locations and levemetes only)",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 6,
-    "DownloadCount": 108,
+    "DownloadCount": 112,
     "LastUpdate": 1659210720,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.0.5/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.0.5/latest.zip"
