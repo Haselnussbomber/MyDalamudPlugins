@@ -8,7 +8,7 @@
     "Changelog": "- fix DTR busy status text",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 6,
-    "DownloadCount": 75,
+    "DownloadCount": 204,
     "LastUpdate": 1659999076,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.3.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.3.1/latest.zip"
@@ -22,7 +22,7 @@
     "Changelog": "- added icons to type filter\r\n- increased filter table width a bit\r\n- reset invalid filter states (locations and levemetes only)",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 6,
-    "DownloadCount": 115,
+    "DownloadCount": 121,
     "LastUpdate": 1659210720,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.0.5/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.0.5/latest.zip"
