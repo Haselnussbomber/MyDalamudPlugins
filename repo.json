@@ -8,7 +8,7 @@
     "Changelog": "- when the config file can't be read, the plugin now creates a new one",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 6,
-    "DownloadCount": 0,
+    "DownloadCount": 21,
     "LastUpdate": 1660092471,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.3.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.3.2/latest.zip"
