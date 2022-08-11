@@ -8,7 +8,7 @@
     "Changelog": "- when the config file can't be read, the plugin now creates a new one",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 6,
-    "DownloadCount": 174,
+    "DownloadCount": 306,
     "LastUpdate": 1660092471,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.3.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.3.2/latest.zip"
@@ -22,7 +22,7 @@
     "Changelog": "- added icons to type filter\r\n- increased filter table width a bit\r\n- reset invalid filter states (locations and levemetes only)",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 6,
-    "DownloadCount": 128,
+    "DownloadCount": 135,
     "LastUpdate": 1659210720,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.0.5/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.0.5/latest.zip"
