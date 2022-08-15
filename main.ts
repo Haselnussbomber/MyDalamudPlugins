@@ -4,6 +4,15 @@ const repos = [
   "LeveHelper",
 ];
 
+const clearText = (str) => {
+  return str
+    .replace(/\p{Extended_Pictographic}/gu, "")
+    .replace(/\*\*(.*)\*\*/g, "$1")
+    .split(/\r?\n/g)
+    .map(line => line.replace(/^#+\s+/g, ""))
+    .join("\n");
+};
+
 const output = await Promise.all(repos.map(async (repo) => {
   const res = await fetch(`https://api.github.com/repos/${user}/${repo}/releases/latest`);
   const data = await res.json();
@@ -13,7 +22,7 @@ const output = await Promise.all(repos.map(async (repo) => {
     InternalName: repo,
     AssemblyVersion: data.tag_name.replace(/^v/, ""),
     RepoUrl: `https://github.com/${user}/${repo}`,
-    Changelog: data.body.replace(/\p{Extended_Pictographic}/gu, ""),
+    Changelog: clearText(data.body),
     ApplicableVersion: "any",
     DalamudApiLevel: 6,
     DownloadCount: data.assets[0].download_count,
