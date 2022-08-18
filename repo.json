@@ -11,7 +11,7 @@
     "LoadPriority": 0,
     "Punchline": "Some FFXIV tweaks.",
     "Changelog": "- Added: A proper changelog! :D Releases will share the same format.\n\nScrollable Tabs\n- Added: Support for the Bozjan Field Records window.\n- Added: Support for scrolling in and out of the favorites tab in the Mounts and Minions windows.\n- Added: Support for scrolling between the normal sized Inventory and the Key Items window.\n  - While at it, scrolling through tabs in Key Items window has been added, but not tested. Sorry for not having over 35 key items handy to have a second tab. :P\n- Changed: On fresh installations the Inventory option is now enabled by default.\n- Fixed: Scrolling too fast doesn't skip tabs anymore. Don't ask.\n",
-    "DownloadCount": 447,
+    "DownloadCount": 461,
     "LastUpdate": 1660392556,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.3.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.3.3/latest.zip"
@@ -28,7 +28,7 @@
     "LoadPriority": 0,
     "Punchline": "A little helper for Levequests.",
     "Changelog": "- Added: Type filter now has icons.\n- Fixed: Location and Levemete filters will now reset when not available.",
-    "DownloadCount": 164,
+    "DownloadCount": 166,
     "LastUpdate": 1659210720,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.0.5/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.0.5/latest.zip"
