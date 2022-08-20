@@ -32,5 +32,22 @@
     "LastUpdate": 1661027007,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.0/latest.zip"
+  },
+  {
+    "Author": "Haselnussbomber",
+    "Name": "AetherCurrentHelper",
+    "InternalName": "AetherCurrentHelper",
+    "AssemblyVersion": "0.0.1",
+    "Description": "Find your aether currents.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Haselnussbomber/AetherCurrentHelper",
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "Punchline": "Find your aether currents.",
+    "Changelog": "First release! \n\nCouldn't test the unlock status yet, but it should work. ",
+    "DownloadCount": 0,
+    "LastUpdate": 1661029993,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/AetherCurrentHelper/releases/download/v0.0.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/AetherCurrentHelper/releases/download/v0.0.1/latest.zip"
   }
 ]
