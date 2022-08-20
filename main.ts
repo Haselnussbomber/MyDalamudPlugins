@@ -2,6 +2,7 @@ const user = "Haselnussbomber";
 const repos = [
   "HaselTweaks",
   "LeveHelper",
+  "AetherCurrentHelper",
 ];
 
 const clearText = (str) => {
