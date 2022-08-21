@@ -11,7 +11,7 @@
     "LoadPriority": 0,
     "Punchline": "Some FFXIV tweaks.",
     "Changelog": "New Tweak: Series Exp Bar\n\nThe experience bar shows series rank and experience instead. A little * after the rank indicates a claimable reward.\n\n> Note\n> In order for this tweak to work properly, please make sure to disable \"Show Experience Percentage\" in Simple Tweaks first.\n",
-    "DownloadCount": 4,
+    "DownloadCount": 112,
     "LastUpdate": 1661028575,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.4.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.4.0/latest.zip"
@@ -28,7 +28,7 @@
     "LoadPriority": 0,
     "Punchline": "A little helper for Levequests.",
     "Changelog": "- Added: Wanted Target and Treasure Coffer notifications!\n  - Simply click on the name in the chat notification to open up the map with a flag set to its location.\n- Added: A proper changelog!\n- Added: The Dalamud Plugin Installer now has a button to visit the plugins GitHub repository.\n- Added: The repository now has a sponsor link to my [Ko-Fi](https://ko-fi.com/haselnussbomber) page.\n- Fixed: Levemete names are now properly formatted by the games name formatter. Not sure if this was needed, but I did it anyway.^^\n\nPlease report if you found something is not working or if you discover a wanted target, that the plugin didn't notify you for. Thank you!",
-    "DownloadCount": 6,
+    "DownloadCount": 45,
     "LastUpdate": 1661027007,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.0/latest.zip"
@@ -45,7 +45,7 @@
     "LoadPriority": 0,
     "Punchline": "Find your aether currents.",
     "Changelog": "First release! \n\nCouldn't test the unlock status yet, but it should work. ",
-    "DownloadCount": 0,
+    "DownloadCount": 9,
     "LastUpdate": 1661029993,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/AetherCurrentHelper/releases/download/v0.0.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/AetherCurrentHelper/releases/download/v0.0.1/latest.zip"
