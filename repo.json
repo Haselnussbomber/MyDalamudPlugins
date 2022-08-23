@@ -11,7 +11,7 @@
     "LoadPriority": 0,
     "Punchline": "Some FFXIV tweaks.",
     "Changelog": "- Preliminary update for Patch 6.2",
-    "DownloadCount": 0,
+    "DownloadCount": 3,
     "LastUpdate": 1661221948,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.4.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.4.1/latest.zip"
@@ -20,18 +20,18 @@
     "Author": "Haselnussbomber",
     "Name": "LeveHelper",
     "InternalName": "LeveHelper",
-    "AssemblyVersion": "0.1.1",
+    "AssemblyVersion": "0.1.2",
     "Description": "A little helper to check which Levequests have been completed and which are missing.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/LeveHelper",
     "DalamudApiLevel": 7,
     "LoadPriority": 0,
     "Punchline": "A little helper for Levequests.",
-    "Changelog": "- Updated for Patch 6.2",
+    "Changelog": "- Updated for Patch 6.2 (Updated Signatures)",
     "DownloadCount": 0,
-    "LastUpdate": 1661221718,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.1/latest.zip"
+    "LastUpdate": 1661253735,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.2/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
