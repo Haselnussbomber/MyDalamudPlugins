@@ -4,6 +4,5 @@ https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.jso
 
 ## Plugins
 
-- [AetherCurrentHelper](https://github.com/Haselnussbomber/AetherCurrentHelper)
 - [HaselTweaks](https://github.com/Haselnussbomber/HaselTweaks)
 - [LeveHelper](https://github.com/Haselnussbomber/LeveHelper)
