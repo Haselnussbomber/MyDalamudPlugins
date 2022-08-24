@@ -11,7 +11,7 @@
     "LoadPriority": 0,
     "Punchline": "Some FFXIV tweaks.",
     "Changelog": "Scrollable Tabs\n\n- Fix: Scrolling state is now reset each frame.",
-    "DownloadCount": 0,
+    "DownloadCount": 89,
     "LastUpdate": 1661353319,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.5.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.5.1/latest.zip"
@@ -28,7 +28,7 @@
     "LoadPriority": 0,
     "Punchline": "A little helper for Levequests.",
     "Changelog": "- Updated for Patch 6.2 (Updated Signatures)",
-    "DownloadCount": 22,
+    "DownloadCount": 25,
     "LastUpdate": 1661253735,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.2/latest.zip"
