@@ -11,7 +11,7 @@
     "LoadPriority": 0,
     "Punchline": "Some FFXIV tweaks.",
     "Changelog": "- Preliminary update for Patch 6.2",
-    "DownloadCount": 11,
+    "DownloadCount": 96,
     "LastUpdate": 1661221948,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.4.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.4.1/latest.zip"
@@ -28,7 +28,7 @@
     "LoadPriority": 0,
     "Punchline": "A little helper for Levequests.",
     "Changelog": "- Updated for Patch 6.2 (Updated Signatures)",
-    "DownloadCount": 0,
+    "DownloadCount": 18,
     "LastUpdate": 1661253735,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.2/latest.zip"
