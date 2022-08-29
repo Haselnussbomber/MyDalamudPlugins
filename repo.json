@@ -11,7 +11,7 @@
     "LoadPriority": 0,
     "Punchline": "Some FFXIV tweaks.",
     "Changelog": "Scrollable Tabs\n\n- Fixed: Scrolling state is now reset each frame.",
-    "DownloadCount": 619,
+    "DownloadCount": 631,
     "LastUpdate": 1661353319,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.5.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.5.1/latest.zip"
@@ -20,17 +20,17 @@
     "Author": "Haselnussbomber",
     "Name": "LeveHelper",
     "InternalName": "LeveHelper",
-    "AssemblyVersion": "0.1.2",
+    "AssemblyVersion": "0.1.3",
     "Description": "A little helper to check which Levequests have been completed and which are missing.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/LeveHelper",
     "DalamudApiLevel": 7,
     "LoadPriority": 0,
     "Punchline": "A little helper for Levequests.",
-    "Changelog": "- Updated for Patch 6.2 (Updated Signatures)",
-    "DownloadCount": 154,
-    "LastUpdate": 1661253735,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.2/latest.zip"
+    "Changelog": "Wanted Targets\n\n- Added: Zaghnal",
+    "DownloadCount": 0,
+    "LastUpdate": 1661805305,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.3/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.3/latest.zip"
   }
 ]
