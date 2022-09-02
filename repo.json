@@ -11,7 +11,7 @@
     "LoadPriority": 0,
     "Punchline": "Some FFXIV tweaks.",
     "Changelog": "- Changed: The configuration window has been reworked.\n\nReworked Tweak: Series Exp Bar -> Enhanced Experience Bar\n\n- Added: Sanctuary Bar for the new Island, because why not?\n- Added: Max Level Override setting.\n  - Will switch to the selected bar if your current job is on max level and none of the other settings apply.\n  - *Note:* Sanctuary Bar is not available as Max Level Override, because data is only loaded once you travel to the island. PvP Season data is always available.\n- Added: Option to disable color change.\n\nNew Tweak: Requisite Materials\n\nAlways opens the Island Sanctuarys \"Requisite Materials\" window on the \"Current & Next Season\" tab.\n\nAether Current Helper\n\n- Added: An option to always show distance (if in same zone) despite being unlocked.",
-    "DownloadCount": 608,
+    "DownloadCount": 624,
     "LastUpdate": 1661875121,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.6.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.6.0/latest.zip"
@@ -28,7 +28,7 @@
     "LoadPriority": 0,
     "Punchline": "A little helper for Levequests.",
     "Changelog": "Wanted Targets\n\n- Added: Zaghnal",
-    "DownloadCount": 155,
+    "DownloadCount": 156,
     "LastUpdate": 1661805305,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.3/latest.zip"
