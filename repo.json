@@ -11,7 +11,7 @@
     "LoadPriority": 0,
     "Punchline": "Some FFXIV tweaks.",
     "Changelog": "Enhanced Experience Bar\n\n- Fixed: Island Sanctuary experience broke in last update. It's fixed now.",
-    "DownloadCount": 523,
+    "DownloadCount": 547,
     "LastUpdate": 1662149053,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.7.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.7.1/latest.zip"
@@ -28,7 +28,7 @@
     "LoadPriority": 0,
     "Punchline": "A little helper for Levequests.",
     "Changelog": "Wanted Targets\n\n- Added: Zaghnal",
-    "DownloadCount": 171,
+    "DownloadCount": 176,
     "LastUpdate": 1661805305,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.3/latest.zip"
