@@ -11,7 +11,7 @@
     "LoadPriority": 0,
     "Punchline": "Some FFXIV tweaks.",
     "Changelog": "- Improved Tweak Descriptions\n\nRenamed Tweak: Requisite Materials -> Material Allocation\n\nI play with the german client and picked the wrong window title from the games sheets.  Sorry for the confusion.",
-    "DownloadCount": 664,
+    "DownloadCount": 683,
     "LastUpdate": 1662298597,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.7.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.7.2/latest.zip"
@@ -28,7 +28,7 @@
     "LoadPriority": 0,
     "Punchline": "A little helper for Levequests.",
     "Changelog": "Wanted Targets\n\n- Added: Zaghnal",
-    "DownloadCount": 192,
+    "DownloadCount": 194,
     "LastUpdate": 1661805305,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.3/latest.zip"
