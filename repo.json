@@ -11,7 +11,7 @@
     "LoadPriority": 0,
     "Punchline": "Some FFXIV tweaks.",
     "Changelog": "Aether Current Helper\n\n- Fix: Some AetherCurrent entries link to the wrong quest. Added 3 of 5 as special case in the plugin. (see issue #15)",
-    "DownloadCount": 704,
+    "DownloadCount": 716,
     "LastUpdate": 1665072365,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.7.4/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.7.4/latest.zip"
