@@ -14,7 +14,7 @@
     "Punchline": "Some FFXIV tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Enhanced Experience Bar\n\n- Fixed: The Experience Bar should now update as intended (just another thing that broke in Patch 6.3).",
-    "DownloadCount": 0,
+    "DownloadCount": 382,
     "LastUpdate": 1673976809,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.7.11/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.7.11/latest.zip"
@@ -34,7 +34,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Preliminary update for Patch 6.3 Hotfix 1.\n\n- Fixed: Future-proofed reading the number of allowances and active levequests.",
-    "DownloadCount": 171,
+    "DownloadCount": 173,
     "LastUpdate": 1673676205,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.5/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.5/latest.zip"
