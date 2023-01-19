@@ -22,7 +22,7 @@ jobs:
         run: deno run --allow-net=api.github.com,github.com,objects.githubusercontent.com --allow-write=repo.json main.ts
 
       - name: Verify Changed files
-        uses: tj-actions/verify-changed-files@v9
+        uses: tj-actions/verify-changed-files@v13
         id: verify-changed-files
         with:
           files: repo.json
