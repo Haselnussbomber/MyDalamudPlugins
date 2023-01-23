@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "0.7.13",
+    "AssemblyVersion": "0.7.14",
     "Description": "Included Tweaks:\n\n- Aether Current Helper\n- Auto Sort Armoury Chest\n- Character Class Switcher\n- Commands\n- Custom Chat Timestamp\n- DTR\n- Expert Deliveries\n- Forced Cutscene Music\n- Hide MSQ Complete\n- Keep Screen Awake\n- Minimap Adjustments\n- Refresh Material List\n- Reveal Duty Requirements\n- Scrollable Tabs\n- Search the markets\n- Series Exp Bar\n",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -13,11 +13,11 @@
     "LoadPriority": 0,
     "Punchline": "Some FFXIV tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Search the markets\n\n- Fixed: Searching via Recipe Tree or Materials List doesn't crash the game anymore.",
-    "DownloadCount": 939,
-    "LastUpdate": 1674175752,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.7.13/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.7.13/latest.zip"
+    "Changelog": "Refresh Material List\n\n- Fixed: Possible crash fix.\n\nScrollable Tabs\n\n- Fixed: Minions and Mounts windows should be able to scroll out of favorites again (bug introduced in v0.7.12).\n- Changed: The plugin now uses the game's UI collision system to detect which window is being hovered instead of finding a match based on cursor and window position.",
+    "DownloadCount": 0,
+    "LastUpdate": 1674441746,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.7.14/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.7.14/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
