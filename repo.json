@@ -14,7 +14,7 @@
     "Punchline": "Some FFXIV tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Refresh Material List\n\n- Fixed: Possible crash fix.\n\nScrollable Tabs\n\n- Fixed: Minions and Mounts windows should be able to scroll out of favorites again (bug introduced in v0.7.12).\n- Changed: The plugin now uses the game's UI collision system to detect which window is being hovered instead of finding a match based on cursor and window position.",
-    "DownloadCount": 718,
+    "DownloadCount": 761,
     "LastUpdate": 1674441746,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.7.14/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.7.14/latest.zip"
@@ -34,7 +34,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Preliminary update for Patch 6.3 Hotfix 1.\n\n- Fixed: Future-proofed reading the number of allowances and active levequests.",
-    "DownloadCount": 213,
+    "DownloadCount": 214,
     "LastUpdate": 1673676205,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.5/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.5/latest.zip"
