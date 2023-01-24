@@ -3,8 +3,8 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "0.7.14",
-    "Description": "Included Tweaks:\n\n- Aether Current Helper\n- Auto Sort Armoury Chest\n- Character Class Switcher\n- Commands\n- Custom Chat Timestamp\n- DTR\n- Expert Deliveries\n- Forced Cutscene Music\n- Hide MSQ Complete\n- Keep Screen Awake\n- Minimap Adjustments\n- Refresh Material List\n- Reveal Duty Requirements\n- Scrollable Tabs\n- Search the markets\n- Series Exp Bar\n",
+    "AssemblyVersion": "0.8.0",
+    "Description": "Included Tweaks:\n\n- Aether Current Helper\n- Auto Sort Armoury Chest\n- Auto Sort Inventory\n- Character Class Switcher\n- Commands\n- Custom Chat Timestamp\n- DTR\n- Expert Deliveries\n- Forced Cutscene Music\n- Hide MSQ Complete\n- Keep Screen Awake\n- Minimap Adjustments\n- Refresh Material List\n- Reveal Duty Requirements\n- Scrollable Tabs\n- Search the markets\n- Series Exp Bar\n",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
     "DalamudApiLevel": 8,
@@ -13,11 +13,11 @@
     "LoadPriority": 0,
     "Punchline": "Some FFXIV tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Refresh Material List\n\n- Fixed: Possible crash fix.\n\nScrollable Tabs\n\n- Fixed: Minions and Mounts windows should be able to scroll out of favorites again (bug introduced in v0.7.12).\n- Changed: The plugin now uses the game's UI collision system to detect which window is being hovered instead of finding a match based on cursor and window position.",
-    "DownloadCount": 761,
-    "LastUpdate": 1674441746,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.7.14/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.7.14/latest.zip"
+    "Changelog": "Some internal restructuring and performance optimizations.\n\nNew Tweak: Auto Sort Inventory\n\nJust like \"Auto Sort Armoury Chest\", but for inventory. ([PR](https://github.com/Haselnussbomber/HaselTweaks/pull/22) by [53m1k0l0n](https://github.com/53m1k0l0n). Thanks!)",
+    "DownloadCount": 0,
+    "LastUpdate": 1674604050,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.8.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.8.0/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
