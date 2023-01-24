@@ -6,8 +6,9 @@ const repos = [
 
 const clearText = (str) => {
   return str
-    .replace(/\p{Extended_Pictographic}/gu, "")
-    .replace(/\*\*(.*)\*\*/g, "$1")
+    .replace(/\p{Extended_Pictographic}/gu, "") // remove emojis
+    .replace(/\*\*(.*)\*\*/g, "$1") // extract markdown bold text
+    .replace(/\[([^\)]+)\]\([^\)]+\)/g, "$1") // extract markdown link label
     .split(/\r?\n/g)
     .map(line => line.replace(/^#+\s+/g, ""))
     .join("\n");
