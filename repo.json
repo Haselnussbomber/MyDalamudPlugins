@@ -13,8 +13,8 @@
     "LoadPriority": 0,
     "Punchline": "Some FFXIV tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Some internal restructuring and performance optimizations.\n\nNew Tweak: Auto Sort Inventory\n\nJust like \"Auto Sort Armoury Chest\", but for inventory. ([PR](https://github.com/Haselnussbomber/HaselTweaks/pull/22) by [53m1k0l0n](https://github.com/53m1k0l0n). Thanks!)",
-    "DownloadCount": 0,
+    "Changelog": "Some internal restructuring and performance optimizations.\n\nNew Tweak: Auto Sort Inventory\n\nJust like \"Auto Sort Armoury Chest\", but for inventory. (PR by 53m1k0l0n. Thanks!)",
+    "DownloadCount": 13,
     "LastUpdate": 1674604050,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.8.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.8.0/latest.zip"
