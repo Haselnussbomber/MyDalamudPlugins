@@ -3,8 +3,8 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "0.8.2",
-    "Description": "Included Tweaks:\n\n- Aether Current Helper\n- Auto Sort Armoury Chest\n- Auto Sort Inventory\n- Character Class Switcher\n- Commands\n- Custom Chat Timestamp\n- DTR\n- Expert Deliveries\n- Forced Cutscene Music\n- Hide MSQ Complete\n- Keep Screen Awake\n- Minimap Adjustments\n- Refresh Material List\n- Reveal Duty Requirements\n- Scrollable Tabs\n- Search the markets\n- Series Exp Bar\n",
+    "AssemblyVersion": "0.9.0",
+    "Description": "Included Tweaks:\n\n- Aether Current Helper\n- Auto Sorter\n- Character Class Switcher\n- Commands\n- Custom Chat Timestamp\n- DTR\n- Expert Deliveries\n- Forced Cutscene Music\n- Hide MSQ Complete\n- Keep Screen Awake\n- Minimap Adjustments\n- Refresh Material List\n- Reveal Duty Requirements\n- Scrollable Tabs\n- Search the markets\n- Series Exp Bar\n",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
     "DalamudApiLevel": 8,
@@ -13,11 +13,11 @@
     "LoadPriority": 0,
     "Punchline": "Some FFXIV tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "DTR\n\n- Fixed: DTRs without data will be hidden again.\n\nEnhanced Experience Bar\n\n- Fixed: Messed up signature for PvP Stats.",
+    "Changelog": "New Tweak: Auto Sorter\n\nThis one replaces \"Auto Sort Armoury Chest\" and \"Auto Sort Inventory\", which didn't last long, in a more general Auto Sorter (hence the name). I just couldn't resist. :D  \nSince I can't easily convert the configurations, you have to add rules yourself.",
     "DownloadCount": 0,
-    "LastUpdate": 1674613860,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.8.2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.8.2/latest.zip"
+    "LastUpdate": 1674624973,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.9.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.9.0/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -34,7 +34,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Preliminary update for Patch 6.3 Hotfix 1.\n\n- Fixed: Future-proofed reading the number of allowances and active levequests.",
-    "DownloadCount": 214,
+    "DownloadCount": 215,
     "LastUpdate": 1673676205,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.5/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.5/latest.zip"
