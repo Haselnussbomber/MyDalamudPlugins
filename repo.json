@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "0.9.0",
+    "AssemblyVersion": "0.9.1",
     "Description": "Included Tweaks:\n\n- Aether Current Helper\n- Auto Sorter\n- Character Class Switcher\n- Commands\n- Custom Chat Timestamp\n- DTR\n- Expert Deliveries\n- Forced Cutscene Music\n- Hide MSQ Complete\n- Keep Screen Awake\n- Minimap Adjustments\n- Refresh Material List\n- Reveal Duty Requirements\n- Scrollable Tabs\n- Search the markets\n- Series Exp Bar\n",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -13,11 +13,11 @@
     "LoadPriority": 0,
     "Punchline": "Some FFXIV tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "New Tweak: Auto Sorter\n\nThis one replaces \"Auto Sort Armoury Chest\" and \"Auto Sort Inventory\", which didn't last long, in a more general Auto Sorter (hence the name). I just couldn't resist. :D  \nSince I can't easily convert the configurations, you have to add rules yourself.",
-    "DownloadCount": 587,
-    "LastUpdate": 1674624973,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.9.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.9.0/latest.zip"
+    "Changelog": "Auto Sorter\n\n- Changed: It's now possible to add more rules for the same category, allowing to sort with multiple conditions.\n- Added: A \"Run All\" button for easy testing.",
+    "DownloadCount": 0,
+    "LastUpdate": 1674691108,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.9.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.9.1/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
