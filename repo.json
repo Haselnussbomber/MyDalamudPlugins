@@ -14,7 +14,7 @@
     "Punchline": "Some FFXIV tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "New Tweak: Auto Sorter\n\nThis one replaces \"Auto Sort Armoury Chest\" and \"Auto Sort Inventory\", which didn't last long, in a more general Auto Sorter (hence the name). I just couldn't resist. :D  \nSince I can't easily convert the configurations, you have to add rules yourself.",
-    "DownloadCount": 307,
+    "DownloadCount": 587,
     "LastUpdate": 1674624973,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.9.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.9.0/latest.zip"
@@ -34,7 +34,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Preliminary update for Patch 6.3 Hotfix 1.\n\n- Fixed: Future-proofed reading the number of allowances and active levequests.",
-    "DownloadCount": 218,
+    "DownloadCount": 220,
     "LastUpdate": 1673676205,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.5/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.5/latest.zip"
