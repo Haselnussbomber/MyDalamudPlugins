@@ -14,7 +14,7 @@
     "Punchline": "Some FFXIV tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Auto Sorter\n\n- Changed: It's now possible to add more rules for the same category, allowing to sort with multiple conditions.\n- Added: A \"Run All\" button for easy testing.",
-    "DownloadCount": 0,
+    "DownloadCount": 100,
     "LastUpdate": 1674691108,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.9.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.9.1/latest.zip"
