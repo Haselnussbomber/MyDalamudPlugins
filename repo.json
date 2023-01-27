@@ -14,7 +14,7 @@
     "Punchline": "Some FFXIV tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Auto Sorter\n\n- Changed: It's now possible to add more rules for the same category, allowing to sort with multiple conditions.\n- Added: A \"Run All\" button for easy testing.",
-    "DownloadCount": 526,
+    "DownloadCount": 769,
     "LastUpdate": 1674691108,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.9.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.9.1/latest.zip"
@@ -34,7 +34,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Preliminary update for Patch 6.3 Hotfix 1.\n\n- Fixed: Future-proofed reading the number of allowances and active levequests.",
-    "DownloadCount": 222,
+    "DownloadCount": 225,
     "LastUpdate": 1673676205,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.5/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.5/latest.zip"
