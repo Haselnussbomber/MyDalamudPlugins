@@ -14,7 +14,7 @@
     "Punchline": "Some FFXIV tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Auto Sorter\n\n- Added: To prevent the right saddlebag sorter from running and returning an error a detection was added whether the player is subscribed to the Companion Premium Service.\n- Added: To prevent the retainer sorter from running and returning an error a detection was added whether the retainer window is open.\n- Changed: A queue system was implemented, so the game has time between each frame to complete its sorting.\n- Fixed: The armoury category and its subcategories will now wait for completion of the in-games sorting mechanism before running.\n- Fixed: A copy-paste mistake has been corrected for the HQ condition for the Japanese client.\n",
-    "DownloadCount": 9,
+    "DownloadCount": 269,
     "LastUpdate": 1675094419,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.9.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.9.2/latest.zip"
