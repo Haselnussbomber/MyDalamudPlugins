@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "0.9.2",
+    "AssemblyVersion": "0.9.3",
     "Description": "Included Tweaks:\n\n- Aether Current Helper\n- Auto Sorter\n- Character Class Switcher\n- Commands\n- Custom Chat Timestamp\n- DTR\n- Expert Deliveries\n- Forced Cutscene Music\n- Hide MSQ Complete\n- Keep Screen Awake\n- Minimap Adjustments\n- Refresh Material List\n- Reveal Duty Requirements\n- Scrollable Tabs\n- Search the markets\n- Series Exp Bar\n",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -13,11 +13,11 @@
     "LoadPriority": 0,
     "Punchline": "Some FFXIV tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Auto Sorter\n\n- Added: To prevent the right saddlebag sorter from running and returning an error a detection was added whether the player is subscribed to the Companion Premium Service.\n- Added: To prevent the retainer sorter from running and returning an error a detection was added whether the retainer window is open.\n- Changed: A queue system was implemented, so the game has time between each frame to complete its sorting.\n- Fixed: The armoury category and its subcategories will now wait for completion of the in-games sorting mechanism before running.\n- Fixed: A copy-paste mistake has been corrected for the HQ condition for the Japanese client.\n",
-    "DownloadCount": 700,
-    "LastUpdate": 1675094419,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.9.2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.9.2/latest.zip"
+    "Changelog": "Auto Sorter\n\n- Added: To prevent accidentally deleting a rule, you must now hold down the shift key to make the button clickable.\n- Changed: Run rule buttons are now disabled when the Tweak is disabled or rules are queued.\n- Changed: When a rule is disabled (for example, when the needed window isn't open), the Run button is disabled instead of displaying an error.\n- Changed: All in-game armoury sorters are now checked for readiness before sorting.\n- Fixed: Disabling the tweak now clears the queue.",
+    "DownloadCount": 0,
+    "LastUpdate": 1675172599,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.9.3/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.9.3/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
