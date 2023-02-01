@@ -14,7 +14,7 @@
     "Punchline": "Some FFXIV tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Auto Sorter\n\n- Added: To prevent accidentally deleting a rule, you must now hold down the shift key to make the button clickable.\n- Changed: When a rule is disabled (for example, when the needed window isn't open), the Run button is disabled instead of displaying an error.\n- Changed: Run rule buttons are now disabled when the Tweak is disabled or rules are queued.\n- Changed: All in-game armoury sorters are now checked for readiness before sorting.\n- Fixed: Disabling the Tweak now clears the queue.",
-    "DownloadCount": 494,
+    "DownloadCount": 516,
     "LastUpdate": 1675172599,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.9.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.9.3/latest.zip"
