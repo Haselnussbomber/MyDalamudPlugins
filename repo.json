@@ -14,7 +14,7 @@
     "Punchline": "Some FFXIV tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Auto Sorter\n\n- Added: It's now possible to disable rules.\n- Fixed: When text commands are unavailable, for example when placing housing furniture, sorting operations will be skipped.\n- Fixed: The delete button now also work with the right shift key.\n\nEnhanced Experience Bar\n\n- Fixed: In Update 6.3 the current rank and claimed rank were swapped. Updated the code to reflect the change.",
-    "DownloadCount": 645,
+    "DownloadCount": 675,
     "LastUpdate": 1675333786,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.9.4/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.9.4/latest.zip"
@@ -23,7 +23,7 @@
     "Author": "Haselnussbomber",
     "Name": "LeveHelper",
     "InternalName": "LeveHelper",
-    "AssemblyVersion": "0.1.6",
+    "AssemblyVersion": "0.1.7",
     "Description": "A little helper to check which Levequests have been completed and which are missing.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/LeveHelper",
@@ -33,10 +33,10 @@
     "LoadPriority": 0,
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
-    "Changelog": "- Added: Accepted levequests will now be shown in yellow text.\n- Added: A button to quickly set the filter \"Type\" to the current players job.\n- Changed: The button to set the filter \"Location\" to the current zone will now only show when the zone is different.",
+    "Changelog": "- Added: Added the option to filter for Accepted levequests to the \"Status\" filter.",
     "DownloadCount": 0,
-    "LastUpdate": 1675393329,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.6/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.6/latest.zip"
+    "LastUpdate": 1675399152,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.7/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.7/latest.zip"
   }
 ]
