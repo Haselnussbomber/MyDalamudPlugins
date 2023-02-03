@@ -14,7 +14,7 @@
     "Punchline": "Some FFXIV tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Auto Sorter\n\n- Added: It's now possible to disable rules.\n- Fixed: When text commands are unavailable, for example when placing housing furniture, sorting operations will be skipped.\n- Fixed: The delete button now also work with the right shift key.\n\nEnhanced Experience Bar\n\n- Fixed: In Update 6.3 the current rank and claimed rank were swapped. Updated the code to reflect the change.",
-    "DownloadCount": 132,
+    "DownloadCount": 604,
     "LastUpdate": 1675333786,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.9.4/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.9.4/latest.zip"
@@ -34,7 +34,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Preliminary update for Patch 6.3 Hotfix 1.\n\n- Fixed: Future-proofed reading the number of allowances and active levequests.",
-    "DownloadCount": 261,
+    "DownloadCount": 266,
     "LastUpdate": 1673676205,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.5/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.5/latest.zip"
