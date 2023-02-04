@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "0.9.4",
+    "AssemblyVersion": "0.9.5",
     "Description": "Included Tweaks:\n\n- Aether Current Helper\n- Auto Sorter\n- Character Class Switcher\n- Commands\n- Custom Chat Timestamp\n- DTR\n- Expert Deliveries\n- Forced Cutscene Music\n- Hide MSQ Complete\n- Keep Screen Awake\n- Minimap Adjustments\n- Refresh Material List\n- Reveal Duty Requirements\n- Scrollable Tabs\n- Search the markets\n- Series Exp Bar\n",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -13,11 +13,11 @@
     "LoadPriority": 0,
     "Punchline": "Some FFXIV tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Auto Sorter\n\n- Added: It's now possible to disable rules.\n- Fixed: When text commands are unavailable, for example when placing housing furniture, sorting operations will be skipped.\n- Fixed: The delete button now also work with the right shift key.\n\nEnhanced Experience Bar\n\n- Fixed: In Update 6.3 the current rank and claimed rank were swapped. Updated the code to reflect the change.",
-    "DownloadCount": 919,
-    "LastUpdate": 1675333786,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.9.4/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.9.4/latest.zip"
+    "Changelog": "Fix for game crash caused by FFXIVClientStructs changes.",
+    "DownloadCount": 0,
+    "LastUpdate": 1675537082,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.9.5/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.9.5/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -34,7 +34,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: Added the option to filter for Accepted levequests to the \"Status\" filter.",
-    "DownloadCount": 174,
+    "DownloadCount": 178,
     "LastUpdate": 1675399152,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.7/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.7/latest.zip"
