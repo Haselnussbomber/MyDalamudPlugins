@@ -14,7 +14,7 @@
     "Punchline": "Some FFXIV tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Search the markets\n\n- Added: Support for items in Chat.\n\nDTR\n\n- Fixed: Adjusted conditions for Busy status, so it is no longer immediately hidden after being shown.",
-    "DownloadCount": 163,
+    "DownloadCount": 535,
     "LastUpdate": 1676205215,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.9.6/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.9.6/latest.zip"
