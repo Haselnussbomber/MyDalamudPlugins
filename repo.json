@@ -14,7 +14,7 @@
     "Punchline": "Some FFXIV tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Search the markets\n\n- Added: Support for items in Chat.\n\nDTR\n\n- Fixed: Adjusted conditions for Busy status, so it is no longer immediately hidden after being shown.",
-    "DownloadCount": 0,
+    "DownloadCount": 163,
     "LastUpdate": 1676205215,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.9.6/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.9.6/latest.zip"
@@ -34,7 +34,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: Added the option to filter for Accepted levequests to the \"Status\" filter.",
-    "DownloadCount": 255,
+    "DownloadCount": 258,
     "LastUpdate": 1675399152,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.7/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.7/latest.zip"
