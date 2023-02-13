@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "0.9.6",
+    "AssemblyVersion": "0.9.7",
     "Description": "Included Tweaks:\n\n- Aether Current Helper\n- Auto Sorter\n- Character Class Switcher\n- Commands\n- Custom Chat Timestamp\n- DTR\n- Expert Deliveries\n- Forced Cutscene Music\n- Hide MSQ Complete\n- Keep Screen Awake\n- Minimap Adjustments\n- Refresh Material List\n- Reveal Duty Requirements\n- Scrollable Tabs\n- Search the markets\n- Series Exp Bar\n",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -13,11 +13,11 @@
     "LoadPriority": 0,
     "Punchline": "Some FFXIV tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Search the markets\n\n- Added: Support for items in Chat.\n\nDTR\n\n- Fixed: Adjusted conditions for Busy status, so it is no longer immediately hidden after being shown.",
-    "DownloadCount": 535,
-    "LastUpdate": 1676205215,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.9.6/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.9.6/latest.zip"
+    "Changelog": "DTR\n\n- Fixed: Adjusted conditions for Instance indicator, so it is no longer immediately hidden after being shown.",
+    "DownloadCount": 0,
+    "LastUpdate": 1676309425,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.9.7/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.9.7/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
