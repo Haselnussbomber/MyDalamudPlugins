@@ -14,7 +14,7 @@
     "Punchline": "Some FFXIV tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "DTR\n\n- Fixed: Adjusted conditions for Instance indicator, so it is no longer immediately hidden after being shown.",
-    "DownloadCount": 0,
+    "DownloadCount": 359,
     "LastUpdate": 1676309425,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.9.7/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.9.7/latest.zip"
