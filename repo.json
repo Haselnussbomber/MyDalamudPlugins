@@ -14,7 +14,7 @@
     "Punchline": "Some FFXIV tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "DTR\n\n- Fixed: Initial values changed to -1 instead of 0, so it wont show empty DTRs after starting the game/enabling the tweak.",
-    "DownloadCount": 0,
+    "DownloadCount": 59,
     "LastUpdate": 1676374313,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.9.8/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.9.8/latest.zip"
