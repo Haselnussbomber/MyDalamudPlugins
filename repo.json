@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "0.10.0",
+    "AssemblyVersion": "0.11.0",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -13,11 +13,11 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "New Tweak: Lock Window Position\n\nLock window positions so they can't move.\n\nAdds a context menu entry for the title bar to \"Lock/Unlock Position\" (can be disabled).  \nAlternatively it's possible to add windows by using the window picker in the configuration.\n\nAuto Sorter\n\n- Fixed: After clicking the Enable/Disable checkbox, the configuration is saved.\n\nDTR\n\n- Fixed: Changed the conditions for the busy state so that it no longer disappears immediately after switching zones.\n\nMaterial Allocation\n\n- Changed: Tweak reworked, so that the game doesn't fire an extra network packet on opening the window.\n\nSearch the markets\n\n- Changed: Added an orange H for HaselTweaks in front of the context menu entry.",
-    "DownloadCount": 764,
-    "LastUpdate": 1677061167,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.10.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.10.0/latest.zip"
+    "Changelog": "Reworked Tweak: Material Allocation\n\n- Added: A config option to enable clicking on gatherable items to open the Sanctuary Gathering Log (enabled by default).\n- Changed: Since this tweak now does two things, the previous function has been reworked and added as config option. Instead of always selecting the third tab, it now opens the window with the last selected tab, saved between game sessions.",
+    "DownloadCount": 0,
+    "LastUpdate": 1677169861,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.11.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.11.0/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -34,7 +34,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: Added the option to filter for Accepted levequests to the \"Status\" filter.",
-    "DownloadCount": 298,
+    "DownloadCount": 299,
     "LastUpdate": 1675399152,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.7/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.7/latest.zip"
