@@ -14,7 +14,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Reworked Tweak: Material Allocation\n\n- Added: A config option to enable clicking on gatherable items to open the Sanctuary Gathering Log (enabled by default).\n- Changed: Since this tweak now does two things, the previous function has been reworked and added as config option. Instead of always selecting the third tab, it now opens the window with the last selected tab, saved between game sessions.",
-    "DownloadCount": 882,
+    "DownloadCount": 965,
     "LastUpdate": 1677169861,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.11.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.11.0/latest.zip"
@@ -34,7 +34,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: Added the option to filter for Accepted levequests to the \"Status\" filter.",
-    "DownloadCount": 304,
+    "DownloadCount": 306,
     "LastUpdate": 1675399152,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.7/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.7/latest.zip"
