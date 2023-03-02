@@ -14,7 +14,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Lock Window Position\n\n- Added: A config option to invert the logic (locks all windows).\n- Added: A \"Toggle All\" button to easily toggle all locked window states.",
-    "DownloadCount": 607,
+    "DownloadCount": 652,
     "LastUpdate": 1677694422,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.11.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.11.1/latest.zip"
@@ -37,6 +37,8 @@
     "DownloadCount": 319,
     "LastUpdate": 1675399152,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.7/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.7/latest.zip"
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.7/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Haselnussbomber/LeveHelper/releases/download/prerelease/latest.zip",
+    "TestingAssemblyVersion": "0.2.0.0"
   }
 ]
