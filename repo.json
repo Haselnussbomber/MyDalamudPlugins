@@ -14,7 +14,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Preliminary update for Patch 6.35.\n\nLock Window Position\n\n- Fixed: Configuration will now save when toggling the enable state of a window lock.  \n  This wasn't really worth a hotfix, since the configuration is saved when the plugin unloads (e.g. when closing the game).",
-    "DownloadCount": 0,
+    "DownloadCount": 25,
     "LastUpdate": 1678203210,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.11.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.11.2/latest.zip"
