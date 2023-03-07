@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "0.11.1",
+    "AssemblyVersion": "0.11.2",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -13,11 +13,11 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Lock Window Position\n\n- Added: A config option to invert the logic (locks all windows).\n- Added: A \"Toggle All\" button to easily toggle all locked window states.",
-    "DownloadCount": 1186,
-    "LastUpdate": 1677694422,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.11.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.11.1/latest.zip"
+    "Changelog": "Preliminary update for Patch 6.35.\n\nLock Window Position\n\n- Fixed: Configuration will now save when toggling the enable state of a window lock.  \n  This wasn't really worth a hotfix, since the configuration is saved when the plugin unloads (e.g. when closing the game).",
+    "DownloadCount": 0,
+    "LastUpdate": 1678203210,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.11.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.11.2/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
