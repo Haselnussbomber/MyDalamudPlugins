@@ -14,7 +14,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Reworked Tweak: Refresh Material List -> Enhanced Material List\n\n- Added: Enable Zone Names: Displays a zone name underneath the item name indicating where it can be gathered. Only the zone with the lowest teleportation cost is displayed. If the name is green it means it's the current zone. Since space is limited it has to shorten the item and zone name.\n  - An option is available to disable this for Crystals.\n- Added: Enable click to open Map: Allows you to open the map with the gathering marker in said zone.\n  - An option is available to disable this for Crystals.\n- Changed: Auto-refresh Material List/Auto-refresh Recipe Tree separated and converted to options.\n\nCharacter Class Switcher\n\n- Fixed: The game no longer crashes when checking which button was pressed.  \n  *Dev Note:* This is a result of config IDs changing with each patch. I've reworked the function to find the config option by name and no longer rely on ClientStructs being updated with the correct IDs.",
-    "DownloadCount": 178,
+    "DownloadCount": 589,
     "LastUpdate": 1678316708,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.12.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.12.0/latest.zip"
@@ -34,7 +34,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: Added the option to filter for Accepted levequests to the \"Status\" filter.",
-    "DownloadCount": 343,
+    "DownloadCount": 345,
     "LastUpdate": 1675399152,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.7/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.7/latest.zip",
