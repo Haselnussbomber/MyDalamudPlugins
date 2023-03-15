@@ -14,7 +14,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Forgot to update the plugin version in the last release, so please check out the 0.12.0 changes regarding \"Refresh Material List\", which is now \"Enhanced Material List\"!\n\nEnhanced Experience Bar\n\n- Fixed: Max Level Override should work again. I confused the type of nodes involved.\n\nEnhanced Material List\n\n- Added: Auto-refresh upon closing for Market Board Search Results and Vendor windows.\n- Added: Restore Material List on Login: The material list will reopen with the same recipe and quantity each time you log in as long as the window is locked.",
-    "DownloadCount": 763,
+    "DownloadCount": 926,
     "LastUpdate": 1678726232,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.12.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.12.1/latest.zip"
@@ -34,7 +34,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: Added the option to filter for Accepted levequests to the \"Status\" filter.",
-    "DownloadCount": 364,
+    "DownloadCount": 366,
     "LastUpdate": 1675399152,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.7/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.7/latest.zip",
