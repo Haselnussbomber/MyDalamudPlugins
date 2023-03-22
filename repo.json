@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Auto-open Recipe\n\n- Added: Support for older daily quests (Ixal and Moogle), which did not return item ids on their objectives.\n- Changed: Restricted the tweak to daily quests. Just to make sure it doesn't do anything weird.\n- Changed: Just in case if the player is not on a crafter job, the recipe search will now open. Technically, you shouldn't be able to talk to the NPC/progress the quest in the first place, if you're not a crafter.\n- Fixed: The check if all materials are available (in your inventory) will now include HQ materials and be calculated correctly when the objective requires you to craft more than one of an item.\n\nCharacter Class Switcher\n\n- Changed: Now using Dalamuds GameConfig service to detect which button is bound to \"Accept\".\n\nSearch the markets\n\n- Fixed: Item names were not always plain text, causing the search input to bug out.",
-    "DownloadCount": 0,
+    "DownloadCount": 423,
     "LastUpdate": 1679416537,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.13.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.13.1/latest.zip"
@@ -35,7 +35,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: Added the option to filter for Accepted levequests to the \"Status\" filter.",
-    "DownloadCount": 388,
+    "DownloadCount": 390,
     "LastUpdate": 1675399152,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.7/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.7/latest.zip",
