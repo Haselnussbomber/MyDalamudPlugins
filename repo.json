@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "0.13.3",
+    "AssemblyVersion": "0.13.4",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Character Class Switcher\n\n- Fixed: The tweak now enables DoH buttons when desynthesis is not unlocked.\n\nEnhanced Experience Bar\n\n- Fixed: The experience bar will refresh after level syncing for a FATE to remove leftover PvP Series data set by the Max Level Override.\n\nMaterial Allocation\n\n- Fixed: Sanctuary Gathering Log now correctly switches to the item you clicked on in the Material Allocation window.",
-    "DownloadCount": 208,
-    "LastUpdate": 1680212705,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.13.3/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.13.3/latest.zip"
+    "Changelog": "Auto Sorter\n\n- Fixed: Inventory and Armoury will auto sort again.",
+    "DownloadCount": 0,
+    "LastUpdate": 1680226865,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.13.4/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.13.4/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
