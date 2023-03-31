@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "0.13.5",
+    "AssemblyVersion": "0.13.6",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Auto Sorter\n\n- Fixed: Game should no longer crash when EventFramework wasn't available during tweak setup.",
+    "Changelog": "Hide MSQ Complete\n\n- Fixed: Accidentally flipped a check in v0.13.5.",
     "DownloadCount": 0,
-    "LastUpdate": 1680293955,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.13.5/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.13.5/latest.zip"
+    "LastUpdate": 1680294829,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.13.6/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.13.6/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
