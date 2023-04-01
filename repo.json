@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Lock Window Position\n\n- Fixed: Fixed a game crash caused by an infinite loop due to an overload function removed in v0.13.5 as part of a code cleanup.",
-    "DownloadCount": 0,
+    "DownloadCount": 526,
     "LastUpdate": 1680312440,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.13.7/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.13.7/latest.zip"
@@ -35,7 +35,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: Added the option to filter for Accepted levequests to the \"Status\" filter.",
-    "DownloadCount": 421,
+    "DownloadCount": 424,
     "LastUpdate": 1675399152,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.7/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.7/latest.zip",
