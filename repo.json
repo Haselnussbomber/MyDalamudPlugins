@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "0.13.6",
+    "AssemblyVersion": "0.13.7",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Hide MSQ Complete\n\n- Fixed: Accidentally flipped a check in v0.13.5.",
-    "DownloadCount": 302,
-    "LastUpdate": 1680294829,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.13.6/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.13.6/latest.zip"
+    "Changelog": "Lock Window Position\n\n- Fixed: Fixed a game crash caused by an infinite loop due to an overload function removed in v0.13.5 as part of a code cleanup.",
+    "DownloadCount": 0,
+    "LastUpdate": 1680312440,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.13.7/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.13.7/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
