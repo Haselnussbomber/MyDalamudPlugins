@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Lock Window Position\n\n- Fixed: Fixed a game crash caused by an infinite loop due to an overload function removed in v0.13.5 as part of a code cleanup.",
-    "DownloadCount": 1230,
+    "DownloadCount": 1265,
     "LastUpdate": 1680312440,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.13.7/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.13.7/latest.zip"
