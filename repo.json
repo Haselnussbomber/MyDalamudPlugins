@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Tweak reworked: Portrait Helper\n\nUpdated UI and features!\n\n- Added: A reset button has been added. This returns the portrait to the state it was in when the window was opened.\n- Added: Its now possible to save portraits into presets. Use the brand-new preset browser to load presets and organize them using tags. A double click on the preset will load it and you can drag and drop them to easily change their order or add them to tags!\n  - *Please note:* As the list of presets is shared by all tags, but filtered by the selected tag, reordering a preset will change the order across all tags.\n- Changed: The copy and paste buttons have been replaced by export and import buttons, which make use of the clipboard and export the portrait as a short base64-encoded string.\n\nEnhanced Material List\n\n- Fixed: Due to a condition check being evaluated too late, some gatherable items did not have a zone name.\n\nMaterial Allocation\n\n- Fixed: Restored a hook to correctly switch tabs when opening the window. Since v0.13.3, it looked like it changed the tabs, but it only updated the buttons, not the content.",
-    "DownloadCount": 0,
+    "DownloadCount": 142,
     "LastUpdate": 1680993651,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.14.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.14.0/latest.zip"
@@ -35,7 +35,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: Added the option to filter for Accepted levequests to the \"Status\" filter.",
-    "DownloadCount": 446,
+    "DownloadCount": 447,
     "LastUpdate": 1675399152,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.7/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.7/latest.zip",
