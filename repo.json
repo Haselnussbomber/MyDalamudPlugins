@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "0.14.1",
+    "AssemblyVersion": "0.14.2",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Portrait Helper\n\n- Added: An Advanced Edit Mode to precisely set camera position and target, eye and head directions and the animation timestamp, but don't get your hopes up too high - I think the camera uses a spherical coordinate system. Good luck!\n- Fixed: Some game UI elements did not reappear after closing the Advanced Import or Preset Browser.",
+    "Changelog": "Portrait Helper\n\n- Changed: Instead of raw Camera and Camera Target Positions the Advanced Edit Mode now has Yaw, Pitch, Distance, X and Y controls.\n  - *Note:* Due to a bug, I had to disable the input fields for all of them except for Distance. Dragging the fields while holding down the left mouse button should still be fine enough for accurate positioning, even though values might flicker a bit.\n- Added: Zoom and Rotation controls added to Advanced Edit Mode.",
     "DownloadCount": 0,
-    "LastUpdate": 1681060063,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.14.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.14.1/latest.zip"
+    "LastUpdate": 1681087032,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.14.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.14.2/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -35,7 +35,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: Added the option to filter for Accepted levequests to the \"Status\" filter.",
-    "DownloadCount": 448,
+    "DownloadCount": 449,
     "LastUpdate": 1675399152,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.7/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.7/latest.zip",
