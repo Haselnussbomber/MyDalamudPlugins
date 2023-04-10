@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "0.14.2",
+    "AssemblyVersion": "0.14.3",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Portrait Helper\n\n- Changed: Instead of raw Camera and Camera Target Positions the Advanced Edit Mode now has Yaw, Pitch, Distance, X and Y controls.\n  - *Note:* Due to a bug, I had to disable the input fields for all of them except for Distance. Dragging the fields while holding down the left mouse button should still be fine enough for accurate positioning, even though values might flicker a bit.\n- Added: Zoom and Rotation controls added to Advanced Edit Mode.",
-    "DownloadCount": 559,
-    "LastUpdate": 1681087032,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.14.2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.14.2/latest.zip"
+    "Changelog": "Portrait Helper\n\n- Added: The preset context menu in the Preset Browser has been expanded to include a \"Copy Image\" function.\n- Fixed: To avoid an error when reading the contents of the clipboard, a check has been added to see if any text is present (because you can actually copy other stuff with it, who knew).\n- Fixed: Restore UI visibility when in Advanced Edit Mode and a game popup was opened (e.g. the close confirmation window or context menu of title bar).",
+    "DownloadCount": 0,
+    "LastUpdate": 1681169042,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.14.3/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.14.3/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
