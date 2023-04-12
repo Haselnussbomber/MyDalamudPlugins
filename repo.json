@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Portrait Helper\n\n- Fixed: Last version introduced a \"Copy Image\" function to the Preset Browser and apparently copying an image to the clipboard is harder than I thought. Updated the code for better compatibility with programs like Paint and Discord.",
-    "DownloadCount": 530,
+    "DownloadCount": 872,
     "LastUpdate": 1681173699,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.14.4/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.14.4/latest.zip"
