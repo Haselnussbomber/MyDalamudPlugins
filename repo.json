@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "- Fixed: The \"Configuration\" section title in the Tweak configuration is now hidden when there are no fields to configure.\n\nPortrait Helper\n\n- Added: An Alignment Tool which adds guide lines over the portrait to aid in proper alignment and composition.\n  - Hold Shift when clicking the button to open the settings, where you can change the number and color of the lines.",
-    "DownloadCount": 641,
+    "DownloadCount": 911,
     "LastUpdate": 1681767269,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.14.5/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.14.5/latest.zip"
@@ -35,7 +35,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: Added the option to filter for Accepted levequests to the \"Status\" filter.",
-    "DownloadCount": 467,
+    "DownloadCount": 469,
     "LastUpdate": 1675399152,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.7/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.7/latest.zip",
