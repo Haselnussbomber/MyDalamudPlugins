@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "0.14.5",
+    "AssemblyVersion": "0.14.6",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "- Fixed: The \"Configuration\" section title in the Tweak configuration is now hidden when there are no fields to configure.\n\nPortrait Helper\n\n- Added: An Alignment Tool which adds guide lines over the portrait to aid in proper alignment and composition.\n  - Hold Shift when clicking the button to open the settings, where you can change the number and color of the lines.",
-    "DownloadCount": 1127,
-    "LastUpdate": 1681767269,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.14.5/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.14.5/latest.zip"
+    "Changelog": "Portrait Helper\n\n- Added: New config option \"Auto-update Portrait when Gearset was updated\" (default on).\n  - This updates the gearset hash in the linked portrait when you save your gearset, so it no longer resets to the default portrait when you changed an item.",
+    "DownloadCount": 0,
+    "LastUpdate": 1681996686,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.14.6/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.14.6/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
