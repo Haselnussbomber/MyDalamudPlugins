@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Portrait Helper\n\n- Added: New config option \"Auto-update Portrait when Gearset was updated\" (default on).\n  - This updates the gearset hash in the linked portrait when you save your gearset, so it no longer resets to the default portrait when you changed an item.\n\n---\n\nStarting with the next release, the versioning will change to make things clearer. The major version (currently 0) will increase when I add/remove/rework tweaks, the minor version (currently 14) will increase when I add/remove things to existing tweaks, and the patch version (currently 6) will increase when I fix things. So don't get confused if it suddenly becomes v14.6.1, v14.7.0 or v15.0.0. ",
-    "DownloadCount": 768,
+    "DownloadCount": 830,
     "LastUpdate": 1681996686,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.14.6/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.14.6/latest.zip"
