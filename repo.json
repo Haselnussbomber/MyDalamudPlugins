@@ -14,7 +14,7 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Sorry for the quick updates, but I just came up with this solution:\n\nPortrait Helper\n\n- Added**: \"Re-equip Gearset when it was updated\" option (default **off to prevent confusion).\n  - This option ensures the glamour plate is applied after updating the gearset, which should help with portrait resetting to default. Of course it only works in places where glamour plates are allowed to be applied.",
+    "Changelog": "Sorry for the quick updates, but I just came up with this solution:\n\nPortrait Helper\n\n- Added**: \"Re-equip Gearset when it was updated\" option (default **off to prevent confusion).\n  - This option ensures the glamour plate is applied after updating the gearset by re-equipping it, which should help with portrait resetting to default. Of course it only works in places where glamour plates are allowed to be applied.",
     "DownloadCount": 0,
     "LastUpdate": 1682205258,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.8.0/latest.zip",
