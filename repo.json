@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "14.8.0",
+    "AssemblyVersion": "14.9.0",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Sorry for the quick updates, but I just came up with this solution:\n\nPortrait Helper\n\n- Added**: \"Re-equip Gearset when it was updated\" option (default **off to prevent confusion).\n  - This option ensures the glamour plate is applied after updating the gearset by re-equipping it, which should help with portrait resetting to default. Of course it only works in places where glamour plates are allowed to be applied, if the gearset actually is linked to a glamour plate and if the glamour plate covers the changed slots.",
-    "DownloadCount": 1307,
-    "LastUpdate": 1682205258,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.8.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.8.0/latest.zip"
+    "Changelog": "Custom Chat Timestamp\n\n- Fixed: Errors caused by an invalid format are now caught and don't crash the game anymore.\n\nPortrait Helper\n\nThe tweak will now display a notification whenever the appearance and/or gear doesn't match what was saved in the portait (can be disabled).\n\n- Added: A new option `Notify if appearance and/or gear doesn't match Portait` (default on):\n  - Prints a notification in chat which can be clicked to open the Portrait Editor.\n- Changed: The option `Re-equip Gearset when it was updated` was renamed to `Try to fix by automatically re-equipping Gearset to reapply Glamour Plate` and now depends on the notification option.\n  - The functionality was not changed. Still only works in places where Glamour Plates are allowed to be applied, if the Glamour Plate covers the correct slots and if the gear checksum mismatch was not caused by a mismatch of mainhand/headgear visibility or visor state.",
+    "DownloadCount": 0,
+    "LastUpdate": 1682707605,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.9.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.9.0/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -35,7 +35,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Fixed: To prevent the tab order from being reset, the \"Queue\" and \"Recipe Tree\" tabs are now always displayed.",
-    "DownloadCount": 252,
+    "DownloadCount": 256,
     "LastUpdate": 1682272038,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.2/latest.zip"
