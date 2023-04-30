@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Search the markets\n\n- Fixed: Disabled the context menu entry for collectable items.\n- Fixed: The HQ symbol is now stripped from the item name.\n\nPortrait Helper\n\n- Fixed: Added some extra gearset id checks (only allows 0 - 99; the game may return 255 if the gearset is not found).",
-    "DownloadCount": 244,
+    "DownloadCount": 648,
     "LastUpdate": 1682761181,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.9.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.9.1/latest.zip"
@@ -35,7 +35,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Fixed: To prevent the tab order from being reset, the \"Queue\" and \"Recipe Tree\" tabs are now always displayed.",
-    "DownloadCount": 265,
+    "DownloadCount": 268,
     "LastUpdate": 1682272038,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.2/latest.zip"
