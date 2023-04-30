@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "14.9.1",
+    "AssemblyVersion": "14.9.2",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Search the markets\n\n- Fixed: Disabled the context menu entry for collectable items.\n- Fixed: The HQ symbol is now stripped from the item name.\n\nPortrait Helper\n\n- Fixed: Added some extra gearset id checks (only allows 0 - 99; the game may return 255 if the gearset is not found).",
-    "DownloadCount": 847,
-    "LastUpdate": 1682761181,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.9.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.9.1/latest.zip"
+    "Changelog": "Maintenance update with some internal restructuring and bug fixes.\n\n- Changed: For safety, any drawn text is now drawn with `ImGui.TextUnformatted`.\n- Changed: Configuration fields now have consistent indentation.\n- Changed: The description for dropdown configuration fields is now correctly below the dropdown.\n- Fixed: Reset buttons now work correctly when more than one is displayed.\n\nCustom Chat Timestamp\n\n- Added: The configuration now shows the result of the current format with an example message.\n- Added: The configuration now shows an error if the format is invalid.\n- Added: The format field in the configuration now has a reset to default button.\n- Fixed: The timestamp will not be modified if the format field is empty.",
+    "DownloadCount": 0,
+    "LastUpdate": 1682869036,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.9.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.9.2/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -35,7 +35,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Fixed: To prevent the tab order from being reset, the \"Queue\" and \"Recipe Tree\" tabs are now always displayed.",
-    "DownloadCount": 271,
+    "DownloadCount": 273,
     "LastUpdate": 1682272038,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.2/latest.zip"
