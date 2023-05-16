@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Enhanced Experience Bar\n\n- Fixed: Exiting the Duty Recorder would crash the game, because the experience bar is used immediately after the zone change before it's fully set up.",
-    "DownloadCount": 1653,
+    "DownloadCount": 1663,
     "LastUpdate": 1683142408,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.9.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.9.3/latest.zip"
