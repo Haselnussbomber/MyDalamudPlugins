@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Some text has been translated into French and Japanese by using ChatGPT (commit 2d24063).  \nPlease file a bug if any translation is incorrect.\n\nScrollable Tabs\n\n- Added: Support for the Chocobo Saddlebag window.\n  - The second tab requires a subscription to the Companion Premium Service.\n- Added: Support for the Currency window.\n- Fixed: In the \"Open All\" Inventory, scrolling over the crystal grid now correctly switches tabs.",
-    "DownloadCount": 273,
+    "DownloadCount": 414,
     "LastUpdate": 1684602998,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.10.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.10.0/latest.zip"
