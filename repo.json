@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Some text has been translated into French and Japanese by using ChatGPT (commit 2d24063).  \nPlease file a bug if any translation is incorrect.\n\nScrollable Tabs\n\n- Added: Support for the Chocobo Saddlebag window.\n  - The second tab requires a subscription to the Companion Premium Service.\n- Added: Support for the Currency window.\n- Fixed: In the \"Open All\" Inventory, scrolling over the crystal grid now correctly switches tabs.",
-    "DownloadCount": 414,
+    "DownloadCount": 802,
     "LastUpdate": 1684602998,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.10.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.10.0/latest.zip"
@@ -35,7 +35,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Fixed: To prevent the tab order from being reset, the \"Queue\" and \"Recipe Tree\" tabs are now always displayed.",
-    "DownloadCount": 398,
+    "DownloadCount": 402,
     "LastUpdate": 1682272038,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.2/latest.zip"
