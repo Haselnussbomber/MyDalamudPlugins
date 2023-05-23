@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "14.10.0",
+    "AssemblyVersion": "14.11.0",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Some text has been translated into French and Japanese by using ChatGPT (commit 2d24063).  \nPlease file a bug if any translation is incorrect.\n\nScrollable Tabs\n\n- Added: Support for the Chocobo Saddlebag window.\n  - The second tab requires a subscription to the Companion Premium Service.\n- Added: Support for the Currency window.\n- Fixed: In the \"Open All\" Inventory, scrolling over the crystal grid now correctly switches tabs.",
-    "DownloadCount": 1226,
-    "LastUpdate": 1684602998,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.10.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.10.0/latest.zip"
+    "Changelog": "Preliminary update for Patch 6.4.\n\n- Material Allocation is outdated until I can figure out what happened to it.\n\nScrollable Tabs\n\n- Added: Support for the Character window, including Classes/Jobs and Reputation tabs.",
+    "DownloadCount": 0,
+    "LastUpdate": 1684843062,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.11.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.11.0/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -35,7 +35,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Fixed: To prevent the tab order from being reset, the \"Queue\" and \"Recipe Tree\" tabs are now always displayed.",
-    "DownloadCount": 407,
+    "DownloadCount": 408,
     "LastUpdate": 1682272038,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.2/latest.zip"
