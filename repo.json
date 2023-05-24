@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "14.11.0",
+    "AssemblyVersion": "14.11.1",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Preliminary update for Patch 6.4 (staging).\n\nKnown Issues\n\n- DTR: Busy status and Instance number are not showing until ClientStructs are updated and shipped with a new Dalamud version.\n- Search the markets: Currently disabled until Dalamud.ContextMenu is updated.\n\nScrollable Tabs\n\n- Added: Support for the Character window, including Classes/Jobs and Reputation tabs.",
-    "DownloadCount": 156,
-    "LastUpdate": 1684893759,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.11.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.11.0/latest.zip"
+    "Changelog": "Another update for Patch 6.4 (staging).\n\n- Search the markets: Enabled again, because Dalamud.ContextMenu has been updated.\n\nKnown Issues\n\n- DTR: Busy status and Instance number are not showing until ClientStructs is updated and shipped with a new Dalamud version.",
+    "DownloadCount": 0,
+    "LastUpdate": 1684950098,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.11.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.11.1/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
