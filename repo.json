@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Preliminary update for Patch 6.4 (staging).\n\nKnown Issues\n\n- DTR: Busy status and Instance number are not showing until ClientStructs are updated and shipped with a new Dalamud version.\n- Search the markets: Currently disabled until Dalamud.ContextMenu is updated.\n\nScrollable Tabs\n\n- Added: Support for the Character window, including Classes/Jobs and Reputation tabs.",
-    "DownloadCount": 20,
+    "DownloadCount": 116,
     "LastUpdate": 1684893759,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.11.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.11.0/latest.zip"
