@@ -14,8 +14,8 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Another update for Patch 6.4 (staging).\n\n- Search the markets: Enabled again, because Dalamud.ContextMenu has been updated.\n\nKnown Issues\n\n- DTR: Busy status and Instance number are not showing until ClientStructs is updated and shipped with a new Dalamud version.",
-    "DownloadCount": 262,
+    "Changelog": "Another update for Patch 6.4 (staging).\n\n- Search the markets: Enabled again, because Dalamud.ContextMenu has been updated.\n\nKnown Issues\n\n- ~~DTR: Busy status and Instance number are not showing until ClientStructs is updated and shipped with a new Dalamud version.~~ (Resolved)",
+    "DownloadCount": 427,
     "LastUpdate": 1684950098,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.11.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.11.1/latest.zip"
@@ -35,7 +35,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Fixed: To prevent the tab order from being reset, the \"Queue\" and \"Recipe Tree\" tabs are now always displayed.",
-    "DownloadCount": 408,
+    "DownloadCount": 409,
     "LastUpdate": 1682272038,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.2/latest.zip"
