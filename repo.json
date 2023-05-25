@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Another update for Patch 6.4 (staging).\n\n- Search the markets: Enabled again, because Dalamud.ContextMenu has been updated.\n\nKnown Issues\n\n- DTR: Busy status and Instance number are not showing until ClientStructs is updated and shipped with a new Dalamud version.",
-    "DownloadCount": 0,
+    "DownloadCount": 262,
     "LastUpdate": 1684950098,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.11.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.11.1/latest.zip"
