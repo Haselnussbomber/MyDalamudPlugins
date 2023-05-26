@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Enhanced Material List\n\n- Fixed: After closing the \"Currency Exchange\" window the material list didn't refresh, because I simply forgot to check for this window.\n- Fixed: \"Search for Item by Crafting Method\" context menu entry wasn't shown due to wrong offsets.",
-    "DownloadCount": 0,
+    "DownloadCount": 735,
     "LastUpdate": 1685063934,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.11.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.11.2/latest.zip"
@@ -24,7 +24,7 @@
     "Author": "Haselnussbomber",
     "Name": "LeveHelper",
     "InternalName": "LeveHelper",
-    "AssemblyVersion": "2.0.2",
+    "AssemblyVersion": "2.0.3",
     "Description": "A little helper to check which Levequests have been completed and which are missing.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/LeveHelper",
@@ -34,10 +34,10 @@
     "LoadPriority": 0,
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
-    "Changelog": "- Fixed: To prevent the tab order from being reset, the \"Queue\" and \"Recipe Tree\" tabs are now always displayed.",
-    "DownloadCount": 415,
-    "LastUpdate": 1682272038,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.2/latest.zip"
+    "Changelog": "Updated for Patch 6.4.\n\nSome text has been translated into French and Japanese by using ChatGPT (commit ee6316c).  \nPlease file a bug if any translation is incorrect.",
+    "DownloadCount": 0,
+    "LastUpdate": 1685101682,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.3/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.3/latest.zip"
   }
 ]
