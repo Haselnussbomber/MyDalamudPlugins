@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Maintenance update with optimizations and bug fixes.\n\n- Fixed: Disabled buttons now display their intended tooltips again.\n- Optimized: Multiple hooks now use cached addresses for signatures, which makes the plugin start a bit faster due to less scanning.\n- Optimized: The FPS display in the DTR tweak now only updates when the frame rate has changed to avoid formatting a number into a string on every frame.\n\nScrollable Tabs\n\n- Fixed: It was possible to scroll in windows when they were the last thing the cursor hovered before tabbing out. Now scrolling is disabled when the game isn't focused.",
-    "DownloadCount": 878,
+    "DownloadCount": 1174,
     "LastUpdate": 1685302222,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.11.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.11.3/latest.zip"
@@ -35,7 +35,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Updated for Patch 6.4.\n\nSome text has been translated into French and Japanese by using ChatGPT (commit ee6316c).  \nPlease file a bug if any translation is incorrect.",
-    "DownloadCount": 271,
+    "DownloadCount": 277,
     "LastUpdate": 1685101682,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.3/latest.zip"
