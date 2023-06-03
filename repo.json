@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "14.11.3",
+    "AssemblyVersion": "14.12.0",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Maintenance update with optimizations and bug fixes.\n\n- Fixed: Disabled buttons now display their intended tooltips again.\n- Optimized: Multiple hooks now use cached addresses for signatures, which makes the plugin start a bit faster due to less scanning.\n- Optimized: The FPS display in the DTR tweak now only updates when the frame rate has changed to avoid formatting a number into a string on every frame.\n\nScrollable Tabs\n\n- Fixed: It was possible to scroll in windows when they were the last thing the cursor hovered before tabbing out. Now scrolling is disabled when the game isn't focused.",
-    "DownloadCount": 1494,
-    "LastUpdate": 1685302222,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.11.3/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.11.3/latest.zip"
+    "Changelog": "HaselTweaks\n\n- Optimized: The plugins setup function is now run in an asynchronous thread to reduce startup lag.\n\nAether Current Helper\n\n- Optimized: The window is now created on demand.\n\nDTR\n\n- Fixed: Framerate number now correctly rounds up.\n\nScrollable Tabs\n\n- Added: Support for the Companion window.\n- Added: Support for the Glamour Dresser window (scrolls pages, not tabs).",
+    "DownloadCount": 0,
+    "LastUpdate": 1685798445,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.12.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.12.0/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
