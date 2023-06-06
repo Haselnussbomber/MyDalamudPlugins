@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "HaselTweaks\n\n- Optimized: The plugins setup function is now run in an asynchronous thread to reduce startup lag.\n\nAether Current Helper\n\n- Optimized: The window is now created on demand.\n\nDTR\n\n- Fixed: Framerate number now correctly rounds up.\n\nScrollable Tabs\n\n- Added: Support for the Companion window.\n- Added: Support for the Glamour Dresser window (scrolls pages, not tabs).",
-    "DownloadCount": 1260,
+    "DownloadCount": 1319,
     "LastUpdate": 1685798445,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.12.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.12.0/latest.zip"
