@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "HaselTweaks\n\n- Optimized: Replaced the logo with an SVG, which eliminates the startup lag caused by rebuilding fonts.\n- Fixed: Logo now also respects Dalamuds Global Font Scale setting.",
-    "DownloadCount": 0,
+    "DownloadCount": 397,
     "LastUpdate": 1688101230,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v15.1.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v15.1.1/latest.zip"
