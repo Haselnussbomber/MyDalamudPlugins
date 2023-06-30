@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "HaselTweaks\n\n- Fixed: Various UI elements now respect Dalamuds Global Font Scale setting.\n  > Note\n  > Portrait Helper overlays will open as windows instead if the global font scale is greater than 12pt.\n\nAuto Sorter\n\n- Added: An option \"Sort armoury on job change\" (on by default). Sorts only when the armory is open.\n\nEnhanced Login/Logout\n\n- Added: An option \"Play emote in character selection\" (off by default). Have your character greet you with an emote!  \n  To set an emote, you'll need to log in, click the \"Change\" button, then perform the emote you want to use, and finally click the \"Stop Recording\" button.\n  > Note\n  > Emote settings are per character and not all emotes are supported (e.g. sitting or underwater emotes). What is supported, however, are alternative standing idle poses.",
-    "DownloadCount": 611,
+    "DownloadCount": 984,
     "LastUpdate": 1687994099,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v15.1.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v15.1.0/latest.zip"
@@ -35,7 +35,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Updated for Patch 6.4.\n\nSome text has been translated into French and Japanese by using ChatGPT (commit ee6316c).  \nPlease file a bug if any translation is incorrect.",
-    "DownloadCount": 386,
+    "DownloadCount": 389,
     "LastUpdate": 1685101682,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.3/latest.zip"
