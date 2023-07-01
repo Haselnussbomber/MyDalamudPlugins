@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Character Class Switcher\n\n- Changed: The message \"Couldn't find a suitable gearset.\" has been translated into German, and using ChatGPT into French and Japanese. Please file a bug if the translation is incorrect.\n\nPortrait Helper\n\n- Fixed: The changes in v15.1.0 broke the logic of the menu bar, so I reworked the way it handles the overlays/windows. Hopefully it's bug-free now.",
-    "DownloadCount": 0,
+    "DownloadCount": 57,
     "LastUpdate": 1688173143,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v15.1.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v15.1.2/latest.zip"
