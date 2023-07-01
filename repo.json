@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "15.1.1",
+    "AssemblyVersion": "15.1.2",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "HaselTweaks\n\n- Optimized: Replaced the logo with an SVG, which eliminates the startup lag caused by rebuilding fonts.\n- Fixed: Logo now also respects Dalamuds Global Font Scale setting.",
-    "DownloadCount": 397,
-    "LastUpdate": 1688101230,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v15.1.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v15.1.1/latest.zip"
+    "Changelog": "Character Class Switcher\n\n- Changed: The message \"Couldn't find a suitable gearset.\" has been translated into German, and using ChatGPT into French and Japanese. Please file a bug if the translation is incorrect.\n\nPortrait Helper\n\n- Fixed: The changes in v15.1.0 broke the logic of the menu bar, so I reworked the way it handles the overlays/windows. Hopefully it's bug-free now.",
+    "DownloadCount": 0,
+    "LastUpdate": 1688173143,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v15.1.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v15.1.2/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -35,7 +35,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Updated for Patch 6.4.\n\nSome text has been translated into French and Japanese by using ChatGPT (commit ee6316c).  \nPlease file a bug if any translation is incorrect.",
-    "DownloadCount": 389,
+    "DownloadCount": 392,
     "LastUpdate": 1685101682,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.3/latest.zip"
