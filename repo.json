@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Search the markets\n\n- Added: Support for Ehcatl Nine Delivery Quests items (via `/timers`).",
-    "DownloadCount": 605,
+    "DownloadCount": 1006,
     "LastUpdate": 1688944691,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v15.3.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v15.3.0/latest.zip"
@@ -36,7 +36,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Maintenance update with optimizations and a lot of behind-the-scenes changes:\n\n- The plugin now starts asynchronously, which should result in a slightly faster startup of the game.\n- Instead of loading all item icons at once when opening the window, the icons are now only loaded when they scroll into the viewport.\n- Instead of creating the LeveHelper window when the plugin loads, it's now created only when the player wants to open it. Likewise, the window and it's icons are now unloaded when the window gets closed.\n- Instead of manually caching levequests and items, I extended the Lumina sheets and now let Lumina do most of the caching.",
-    "DownloadCount": 195,
+    "DownloadCount": 220,
     "LastUpdate": 1688853527,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.4/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.4/latest.zip"
