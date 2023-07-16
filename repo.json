@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "- Multiple code adjustments due to ClientStructs and Dalamud additions and minor refactoring.\n- Fixed: An error that occured when unloading the plugin, because a tweak would remove a window from the window system after it has been disposed already.\n- Fixed: A potential issue with loading icon textures if the path was redirected by Penumbra.",
-    "DownloadCount": 1283,
+    "DownloadCount": 1343,
     "LastUpdate": 1689287616,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v15.3.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v15.3.1/latest.zip"
@@ -36,7 +36,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Fixed: Icon textures wouldn't load if the path was redirected by Penumbra.",
-    "DownloadCount": 242,
+    "DownloadCount": 253,
     "LastUpdate": 1689264120,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.5/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.5/latest.zip"
