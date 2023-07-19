@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "15.3.1",
+    "AssemblyVersion": "15.3.2",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "- Multiple code adjustments due to ClientStructs and Dalamud additions and minor refactoring.\n- Fixed: An error that occured when unloading the plugin, because a tweak would remove a window from the window system after it has been disposed already.\n- Fixed: A potential issue with loading icon textures if the path was redirected by Penumbra.",
-    "DownloadCount": 1515,
-    "LastUpdate": 1689287616,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v15.3.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v15.3.1/latest.zip"
+    "Changelog": "Update for Patch 6.45.\n\n- Added: The AGPL 3.0 license has been added to the project.\n- Changed: The texture cache has been reworked to make it suitable for future use.\n- Changed: Debug information are now embedded as Portable PDB.\n- Fixed: A signature to set the portrait frame, that had multiple matches after the patch, was replaced.\n- Fixed: The new Dalamud windows sound effects would play for the portrait helper menu bar and overlays.",
+    "DownloadCount": 0,
+    "LastUpdate": 1689725800,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v15.3.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v15.3.2/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -36,7 +36,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Fixed: Icon textures wouldn't load if the path was redirected by Penumbra.",
-    "DownloadCount": 284,
+    "DownloadCount": 296,
     "LastUpdate": 1689264120,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.5/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.5/latest.zip"
