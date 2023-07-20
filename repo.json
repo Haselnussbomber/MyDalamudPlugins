@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Update for Patch 6.45.\n\n- Added: The AGPL 3.0 license has been added to the project.\n- Changed: The texture cache has been reworked to make it suitable for future use.\n- Changed: Debug information are now embedded as Portable PDB.\n- Fixed: A signature to set the portrait frame, that had multiple matches after the patch, was replaced.\n- Fixed: The new Dalamud windows sound effects would play for the portrait helper menu bar and overlays.",
-    "DownloadCount": 703,
+    "DownloadCount": 1104,
     "LastUpdate": 1689725800,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v15.3.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v15.3.2/latest.zip"
@@ -36,7 +36,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Fixed: Icon textures wouldn't load if the path was redirected by Penumbra.",
-    "DownloadCount": 302,
+    "DownloadCount": 307,
     "LastUpdate": 1689264120,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.5/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.5/latest.zip"
