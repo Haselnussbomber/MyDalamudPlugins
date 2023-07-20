@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "15.3.2",
+    "AssemblyVersion": "15.3.3",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Update for Patch 6.45.\n\n- Added: The AGPL 3.0 license has been added to the project.\n- Changed: The texture cache has been reworked to make it suitable for future use.\n- Changed: Debug information are now embedded as Portable PDB.\n- Fixed: A signature to set the portrait frame, that had multiple matches after the patch, was replaced.\n- Fixed: The new Dalamud windows sound effects would play for the portrait helper menu bar and overlays.",
-    "DownloadCount": 1104,
-    "LastUpdate": 1689725800,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v15.3.2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v15.3.2/latest.zip"
+    "Changelog": "- Fixed: Sometimes the game would freeze, especially when reloading the plugin, due to asynchronously enabling the hooks. Now, the plugin makes sure to enable them on the framework thread.",
+    "DownloadCount": 0,
+    "LastUpdate": 1689819310,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v15.3.3/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v15.3.3/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
