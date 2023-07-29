@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "- Fixed: Sometimes the game would freeze, especially when reloading the plugin, due to asynchronously enabling the hooks. Now, the plugin makes sure to enable them on the framework thread.",
-    "DownloadCount": 1715,
+    "DownloadCount": 1741,
     "LastUpdate": 1689820020,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v15.3.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v15.3.3/latest.zip"
