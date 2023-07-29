@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "- Fixed: Sometimes the game would freeze, especially when reloading the plugin, due to asynchronously enabling the hooks. Now, the plugin makes sure to enable them on the framework thread.",
-    "DownloadCount": 1698,
+    "DownloadCount": 1715,
     "LastUpdate": 1689820020,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v15.3.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v15.3.3/latest.zip"
@@ -36,7 +36,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Fixed: Icon textures wouldn't load if the path was redirected by Penumbra.",
-    "DownloadCount": 348,
+    "DownloadCount": 353,
     "LastUpdate": 1689264120,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.5/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.5/latest.zip"
