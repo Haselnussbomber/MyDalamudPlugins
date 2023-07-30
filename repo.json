@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "- Fixed: Sometimes the game would freeze, especially when reloading the plugin, due to asynchronously enabling the hooks. Now, the plugin makes sure to enable them on the framework thread.",
-    "DownloadCount": 1775,
+    "DownloadCount": 1787,
     "LastUpdate": 1689820020,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v15.3.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v15.3.3/latest.zip"
@@ -24,7 +24,7 @@
     "Author": "Haselnussbomber",
     "Name": "LeveHelper",
     "InternalName": "LeveHelper",
-    "AssemblyVersion": "2.0.5",
+    "AssemblyVersion": "2.0.6",
     "Description": "A little helper to check which Levequests have been completed and which are missing.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/LeveHelper",
@@ -35,10 +35,10 @@
     "LoadPriority": 0,
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
-    "Changelog": "- Fixed: Icon textures wouldn't load if the path was redirected by Penumbra.",
-    "DownloadCount": 359,
-    "LastUpdate": 1689264120,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.5/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.5/latest.zip"
+    "Changelog": "- Changed: Result items are now displayed as HQ items. You don't need to craft them in HQ, but why miss out on bonus rewards? Now it's easier to see when it's an item you have to turn in. :)\n- Fixed: Not all items that can be gathered were categorized as such due to prematurely aborting a loop.",
+    "DownloadCount": 0,
+    "LastUpdate": 1690751919,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.6/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.6/latest.zip"
   }
 ]
