@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "- Fixed: I reworked the way the plugin detects when windows are opened/closed in the last update and forgot to check if the window is fully loaded before interacting with it. This update should fix focus issues with armor chests when auto-sorting is enabled.",
-    "DownloadCount": 0,
+    "DownloadCount": 2,
     "LastUpdate": 1690814694,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v16.0.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v16.0.1/latest.zip"
