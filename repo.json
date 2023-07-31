@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "New Tweak: Background Music Keybind\n\nAdds a configurable keybind to toggle the background music, in addition to the game's existing keybind option to toggle the sound. No more `/bgm` macro. Works in cutscenes.\n\nNew Tweak: Gear Set Grid\n\nA window that displays a grid view of all the items in each gear set, making it easier to figure out which items to upgrade next.  \nThis is not meant to be a replacement for the Gear Set List window, but rather a supplement to it.\n\nCommands\n\n- Added: New Command `/whatbarding`  \n  Target a players chocobo companion and execute the command to see what barding it is wearing.\n\nPortrait Helper\n\n- Fixed: The notification that the gear does not match the portrait did not show up when you were outside of a sanctuary.",
-    "DownloadCount": 0,
+    "DownloadCount": 5,
     "LastUpdate": 1690765689,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v16.0.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v16.0.0/latest.zip"
@@ -36,7 +36,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Changed: Result items are now displayed as HQ items. You don't need to craft them in HQ, but why miss out on bonus rewards? Now it's easier to see when it's an item you have to turn in. :)\n- Fixed: Not all items that can be gathered were categorized as such due to prematurely aborting a loop.",
-    "DownloadCount": 51,
+    "DownloadCount": 52,
     "LastUpdate": 1690751919,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.6/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.6/latest.zip"
