@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "16.0.3",
+    "AssemblyVersion": "16.0.2",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Gear Set Grid\n\n- Fixed: Calculating the item level color caused the table to suddenly stop rendering, because it was using a wrong column in the ClassJob sheet.",
-    "DownloadCount": 0,
-    "LastUpdate": 1690930665,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v16.0.3/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v16.0.3/latest.zip"
+    "Changelog": "Scrollable Tabs\n\n- Fixed: Scrolling in the Blue Magic Spellbook broke with Patch 6.45.",
+    "DownloadCount": 1174,
+    "LastUpdate": 1690819702,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v16.0.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v16.0.2/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
