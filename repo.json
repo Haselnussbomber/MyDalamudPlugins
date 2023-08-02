@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Background Music Keybind\n\n- Fixed: The game would respond to the keybind. Now the key press state is reset after handling it.\n\nGear Set Grid\n\n- Fixed: Calculating the item level color caused the table to suddenly stop rendering, because it was using a wrong column in the ClassJob sheet.",
-    "DownloadCount": 170,
+    "DownloadCount": 734,
     "LastUpdate": 1690930890,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v16.0.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v16.0.3/latest.zip"
@@ -36,7 +36,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Changed: Result items are now displayed as HQ items. You don't need to craft them in HQ, but why miss out on bonus rewards? Now it's easier to see when it's an item you have to turn in. :)\n- Fixed: Not all items that can be gathered were categorized as such due to prematurely aborting a loop.",
-    "DownloadCount": 253,
+    "DownloadCount": 261,
     "LastUpdate": 1690751919,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.6/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.6/latest.zip"
