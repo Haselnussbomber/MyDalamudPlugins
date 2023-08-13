@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Scrollable Tabs\n\n- Fixed: It was not possible to scroll the Chocobo Saddlebag when viewing the retainer inventory.",
-    "DownloadCount": 1732,
+    "DownloadCount": 1756,
     "LastUpdate": 1691190356,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v16.0.4/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v16.0.4/latest.zip"
@@ -36,7 +36,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Fixed: Hidden gatherables weren't categorized as gatherable.",
-    "DownloadCount": 311,
+    "DownloadCount": 316,
     "LastUpdate": 1691276556,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.7/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.7/latest.zip"
