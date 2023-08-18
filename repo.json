@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "16.1.2",
+    "AssemblyVersion": "16.1.3",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "HaselTweaks\n\n- Fixed: Text from the Addon sheet wasn't read in the selected language.\n- Fixed: Text cache was not cleared when switching languages.\n\nPortrait Helper\n\n- Changed: The Animation Timestamp input in the Advanced Edit Mode has been reworked. It is a slider now and supports dragging to scroll through the animation. But, two things:\n  - The flickering has not been fixed yet, as it still relies on the same game function that restart/reloads the animation at the specific timestamp.\n  - As I understand it, the end timestamp used for the slider is based on the duration of the emote, which is different from the duration of the race-specific animation. Since I can't find the actual animation duration for the life of me, we have to use the general emote duration for now.\n- Fixed: The overlays didn't update their position when the window moved.",
+    "Changelog": "Enhanced Login/Logout\n\n- Fixed: Pet glamours should now be applied correctly.",
     "DownloadCount": 0,
-    "LastUpdate": 1692380671,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v16.1.2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v16.1.2/latest.zip"
+    "LastUpdate": 1692397915,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v16.1.3/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v16.1.3/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -36,7 +36,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Last update made things worse, but I hope this time we got the gatherable items all categorized correctly. \n\n- Added: Hidden gatherables are now marked as hidden in the queue.\n- Added: The plugin has been translated into German. I don't understand other languages, so if you want to translate it into French or Japanese (or any other language), pull requests are welcome.\n- Changed: Queue steps now have indentation for better readability.",
-    "DownloadCount": 293,
+    "DownloadCount": 298,
     "LastUpdate": 1691939017,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.8/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.8/latest.zip"
