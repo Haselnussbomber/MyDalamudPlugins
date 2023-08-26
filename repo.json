@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "16.2.0",
+    "AssemblyVersion": "16.2.1",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Auto Sorter\n\n- Fixed: An issue where the `/isort` commands would use parameters based on the plugin language instead of the client language.\n\nPortrait Helper\n\n- Added: A new option \"Automatically update portrait\" has been added. Thanks to @Rycko1 for helping!  \n  This is only for gear sets that do not have a glamour plate linked! It will automatically send a portrait update to the server, when you update the gear set.\n- Fixed: The reset button should now properly reset the portrait to the initial state of the *current* portrait.",
-    "DownloadCount": 1661,
-    "LastUpdate": 1692498150,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v16.2.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v16.2.0/latest.zip"
+    "Changelog": "Commands\n\n- Fixed: The rarity color of item links could have been incorrect depending on the UI theme (I misinterpreted the UI colors sheet).\n\nGear Set Grid\n\n- Changed: The Id column now uses the colored, framed job icon, and the layout has been changed to place the icon above the Id.",
+    "DownloadCount": 0,
+    "LastUpdate": 1693083568,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v16.2.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v16.2.1/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -36,7 +36,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Last update made things worse, but I hope this time we got the gatherable items all categorized correctly. \n\n- Added: Hidden gatherables are now marked as hidden in the queue.\n- Added: The plugin has been translated into German. I don't understand other languages, so if you want to translate it into French or Japanese (or any other language), pull requests are welcome.\n- Changed: Queue steps now have indentation for better readability.",
-    "DownloadCount": 358,
+    "DownloadCount": 359,
     "LastUpdate": 1691939017,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.8/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.8/latest.zip"
