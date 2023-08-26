@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Auto Sorter\n\n- Fixed: An issue where the `/isort` commands would use parameters based on the plugin language instead of the client language.\n\nPortrait Helper\n\n- Added: A new option \"Automatically update portrait\" has been added. Thanks to @Rycko1 for helping!  \n  This is only for gear sets that do not have a glamour plate linked! It will automatically send a portrait update to the server, when you update the gear set.\n- Fixed: The reset button should now properly reset the portrait to the initial state of the *current* portrait.",
-    "DownloadCount": 1591,
+    "DownloadCount": 1638,
     "LastUpdate": 1692498150,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v16.2.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v16.2.0/latest.zip"
@@ -36,7 +36,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Last update made things worse, but I hope this time we got the gatherable items all categorized correctly. \n\n- Added: Hidden gatherables are now marked as hidden in the queue.\n- Added: The plugin has been translated into German. I don't understand other languages, so if you want to translate it into French or Japanese (or any other language), pull requests are welcome.\n- Changed: Queue steps now have indentation for better readability.",
-    "DownloadCount": 349,
+    "DownloadCount": 355,
     "LastUpdate": 1691939017,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.8/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.8/latest.zip"
