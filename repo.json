@@ -40,5 +40,26 @@
     "LastUpdate": 1691939017,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.8/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.8/latest.zip"
+  },
+  {
+    "Author": "Haselnussbomber",
+    "Name": "MogMogCheck",
+    "InternalName": "MogMogCheck",
+    "AssemblyVersion": "0.0.1",
+    "Description": "MogMogCheck is small plugin that lists items from the Moogle Treasure Trove (in German called Mog Mog Kollektion), their collection status and checkmarks to track how many tomestones are needed.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Haselnussbomber/MogMogCheck",
+    "DalamudApiLevel": 8,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "A plugin to assist tracking Moogle Treasure Trove rewards",
+    "AcceptsFeedback": true,
+    "Changelog": "First release. \n\n[unreleased]: https://github.com/Haselnussbomber/MogMogCheck/compare/main...dev\n[0.0.2]: https://github.com/Haselnussbomber/MogMogCheck/compare/v0.0.1...v0.0.2\n[0.0.1]: https://github.com/Haselnussbomber/MogMogCheck/commit/9c91ac6",
+    "DownloadCount": 0,
+    "LastUpdate": 1693167161,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v0.0.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v0.0.1/latest.zip"
   }
 ]
