@@ -14,8 +14,8 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Commands\n\n- Fixed: The rarity color of item links could have been incorrect depending on the UI theme (I misinterpreted the UI colors sheet).\n\nGear Set Grid\n\n- Changed: The Id column now uses the colored, framed job icon, and the layout has been changed to place the icon above the Id.",
-    "DownloadCount": 0,
+    "Changelog": "Commands\n\n- Fixed: The rarity color of item links could have been incorrect depending on the UI theme (I misinterpreted the UIColor sheet).\n\nGear Set Grid\n\n- Changed: The Id column now uses the colored, framed job icon, and the layout has been changed to place the icon above the Id.",
+    "DownloadCount": 249,
     "LastUpdate": 1693083568,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v16.2.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v16.2.1/latest.zip"
