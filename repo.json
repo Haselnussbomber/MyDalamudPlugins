@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Commands\n\n- Fixed: The rarity color of item links could have been incorrect depending on the UI theme (I misinterpreted the UIColor sheet).\n\nGear Set Grid\n\n- Changed: The Id column now uses the colored, framed job icon, and the layout has been changed to place the icon above the Id.",
-    "DownloadCount": 249,
+    "DownloadCount": 779,
     "LastUpdate": 1693083568,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v16.2.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v16.2.1/latest.zip"
@@ -36,7 +36,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Last update made things worse, but I hope this time we got the gatherable items all categorized correctly. \n\n- Added: Hidden gatherables are now marked as hidden in the queue.\n- Added: The plugin has been translated into German. I don't understand other languages, so if you want to translate it into French or Japanese (or any other language), pull requests are welcome.\n- Changed: Queue steps now have indentation for better readability.",
-    "DownloadCount": 359,
+    "DownloadCount": 360,
     "LastUpdate": 1691939017,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.8/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.8/latest.zip"
