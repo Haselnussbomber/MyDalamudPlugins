@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Commands\n\n- Fixed: The rarity color of item links could have been incorrect depending on the UI theme (I misinterpreted the UIColor sheet).\n\nGear Set Grid\n\n- Changed: The Id column now uses the colored, framed job icon, and the layout has been changed to place the icon above the Id.",
-    "DownloadCount": 1304,
+    "DownloadCount": 1309,
     "LastUpdate": 1693083568,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v16.2.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v16.2.1/latest.zip"
@@ -45,7 +45,7 @@
     "Author": "Haselnussbomber",
     "Name": "MogMogCheck",
     "InternalName": "MogMogCheck",
-    "AssemblyVersion": "1.0.0",
+    "AssemblyVersion": "1.0.1",
     "Description": "MogMogCheck is a small plugin to assist you in tracking the rewards of the Moogle Treasure Trove event (called Mog Mog Kollektion in German, hence the name). It lists the items, their collection status and their price. You can also check the boxes to keep track of how many Tomestones you need at the top.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/MogMogCheck",
@@ -56,10 +56,10 @@
     "LoadPriority": 0,
     "Punchline": "Tracking assistant for Moogle Treasure Trove rewards",
     "AcceptsFeedback": true,
-    "Changelog": "- Added: Remaining Tomestones count.\n- Added: Duties tab.\n- Changed: Condensed Tomestones display.\n- Changed: Now uses new tables from Dalamud.Interface that allow sorting and filtering.\n  - To reset the item order, click the column header of the tracking column.",
+    "Changelog": "- Fixed: The first word of the Duty name was not capitalized.",
     "DownloadCount": 0,
-    "LastUpdate": 1693232432,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v1.0.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v1.0.0/latest.zip"
+    "LastUpdate": 1693233493,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v1.0.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v1.0.1/latest.zip"
   }
 ]
