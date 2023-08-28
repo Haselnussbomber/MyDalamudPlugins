@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Commands\n\n- Fixed: The rarity color of item links could have been incorrect depending on the UI theme (I misinterpreted the UIColor sheet).\n\nGear Set Grid\n\n- Changed: The Id column now uses the colored, framed job icon, and the layout has been changed to place the icon above the Id.",
-    "DownloadCount": 1268,
+    "DownloadCount": 1304,
     "LastUpdate": 1693083568,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v16.2.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v16.2.1/latest.zip"
@@ -36,7 +36,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Last update made things worse, but I hope this time we got the gatherable items all categorized correctly. \n\n- Added: Hidden gatherables are now marked as hidden in the queue.\n- Added: The plugin has been translated into German. I don't understand other languages, so if you want to translate it into French or Japanese (or any other language), pull requests are welcome.\n- Changed: Queue steps now have indentation for better readability.",
-    "DownloadCount": 369,
+    "DownloadCount": 370,
     "LastUpdate": 1691939017,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.8/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.8/latest.zip"
@@ -45,8 +45,8 @@
     "Author": "Haselnussbomber",
     "Name": "MogMogCheck",
     "InternalName": "MogMogCheck",
-    "AssemblyVersion": "0.0.1",
-    "Description": "MogMogCheck is small plugin that lists items from the Moogle Treasure Trove (in German called Mog Mog Kollektion), their collection status and checkmarks to track how many tomestones are needed.",
+    "AssemblyVersion": "1.0.0",
+    "Description": "MogMogCheck is a small plugin to assist you in tracking the rewards of the Moogle Treasure Trove event (called Mog Mog Kollektion in German, hence the name). It lists the items, their collection status and their price. You can also check the boxes to keep track of how many Tomestones you need at the top.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/MogMogCheck",
     "DalamudApiLevel": 8,
@@ -54,12 +54,12 @@
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
-    "Punchline": "A plugin to assist tracking Moogle Treasure Trove rewards",
+    "Punchline": "Tracking assistant for Moogle Treasure Trove rewards",
     "AcceptsFeedback": true,
-    "Changelog": "First release. \n\n[unreleased]: https://github.com/Haselnussbomber/MogMogCheck/compare/main...dev\n[0.0.2]: https://github.com/Haselnussbomber/MogMogCheck/compare/v0.0.1...v0.0.2\n[0.0.1]: https://github.com/Haselnussbomber/MogMogCheck/commit/9c91ac6",
-    "DownloadCount": 33,
-    "LastUpdate": 1693167161,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v0.0.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v0.0.1/latest.zip"
+    "Changelog": "- Added: Remaining Tomestones count.\n- Added: Duties tab.\n- Changed: Condensed Tomestones display.\n- Changed: Now uses new tables from Dalamud.Interface that allow sorting and filtering.\n  - To reset the item order, click the column header of the tracking column.",
+    "DownloadCount": 0,
+    "LastUpdate": 1693232432,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v1.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v1.0.0/latest.zip"
   }
 ]
