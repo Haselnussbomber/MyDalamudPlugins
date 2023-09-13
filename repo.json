@@ -14,8 +14,8 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "A lot of internal restructuring due to my new HaselCommon library, which is now used in all my plugins. I hope it works fine!\n\nGear Set Grid\n\n- Fixed: Closing the window didn't remove it from the WindowManager, so had to use the command twice to reopen it.",
-    "DownloadCount": 0,
+    "Changelog": "A lot of internal restructuring due to my new HaselCommon library, which is now used in all my plugins. I hope it works fine!\n\nGear Set Grid\n\n- Fixed: Closing the window didn't remove it from the WindowManager, making it difficult to reopen.",
+    "DownloadCount": 19,
     "LastUpdate": 1694624556,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v16.2.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v16.2.2/latest.zip"
@@ -36,7 +36,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "A lot of internal restructuring due to my new HaselCommon library, which is now used in all my plugins. I hope it works fine!\n\n- Changed: The configuration, previously a tab, has been moved to its own window and can be opened either via Dalamuds Plugin Installer or via `/lh config` in chat.\n- Added: The plugin language can now be changed in the configuration.",
-    "DownloadCount": 2,
+    "DownloadCount": 11,
     "LastUpdate": 1694623727,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.9/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.9/latest.zip"
