@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Commands\n\n- Fixed: The rarity color of item links could have been incorrect depending on the UI theme (I misinterpreted the UIColor sheet).\n\nGear Set Grid\n\n- Changed: The Id column now uses the colored, framed job icon, and the layout has been changed to place the icon above the Id.",
-    "DownloadCount": 2032,
+    "DownloadCount": 2039,
     "LastUpdate": 1693083568,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v16.2.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v16.2.1/latest.zip"
@@ -57,7 +57,7 @@
     "Punchline": "Tracking assistant for Moogle Treasure Trove rewards",
     "AcceptsFeedback": true,
     "Changelog": "- Added: Hovering over an item icon in the rewards table will now show a preview for emotes, fashion accessories, hairstyles, minions, mounts, paintings, and Triple Triad cards. Otherwise, just a slightly larger icon.\n- Added: The Rewards column in the Duties table now shows the amount for wins, losses, and ties for PvP Duties.",
-    "DownloadCount": 205,
+    "DownloadCount": 206,
     "LastUpdate": 1693412682,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v1.1.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v1.1.0/latest.zip"
