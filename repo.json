@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "17.0.0",
+    "AssemblyVersion": "17.0.1",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "New Tweak: Enhanced Isleworks Agenda\n\nSlightly improves the Isleworks \"Set Agenda\" window.\n\nOptions:\n\n- Enable Search Bar: The search bar is automatically shown and focused when the \\\"Set Agenda\\\" window opens. Based on the entered item name, the fuzzy search (lowercase only) selects the item on the right side of the window. Pressing the Enter key confirms the selected item, just like by pressing the \\\"Schedule\\\" button.\n- Disable item tooltips in the list",
+    "Changelog": "Enhanced Isleworks Agenda\n\n- Fixed: Search Bar got confused when the item list was sorted by Category.",
     "DownloadCount": 0,
-    "LastUpdate": 1695235235,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v17.0.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v17.0.0/latest.zip"
+    "LastUpdate": 1695238192,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v17.0.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v17.0.1/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
