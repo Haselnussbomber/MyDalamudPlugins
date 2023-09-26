@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "HaselTweaks\n\n- Internal: VirtualFunctions are now hooked with `Hook<>.FromFunctionPointerVariable()` instead of `Hook<>.FromAddress()`. I hope it works fine!\n- Internal: Improved clean-up when the plugin unloads.\n\nAether Current Helper\n\n- Fixed: The list didn't render (probably since v16.2.2). Sorry, that I didn't noticed it until now.",
-    "DownloadCount": 1046,
+    "DownloadCount": 1195,
     "LastUpdate": 1695602879,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v17.0.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v17.0.2/latest.zip"
