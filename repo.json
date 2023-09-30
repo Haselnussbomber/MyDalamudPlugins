@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Aether Current Helper\n\n- Fixed: The list didn't render due to an error.",
-    "DownloadCount": 1603,
+    "DownloadCount": 1659,
     "LastUpdate": 1695602879,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v17.0.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v17.0.2/latest.zip"
@@ -36,7 +36,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "A lot of internal restructuring due to my new HaselCommon library, which is now used in all my plugins. I hope it works fine!\n\n- Changed: The configuration, previously a tab, has been moved to its own window and can be opened either via Dalamuds Plugin Installer or via `/lh config` in chat.\n- Added: The plugin language can now be changed in the configuration.",
-    "DownloadCount": 418,
+    "DownloadCount": 420,
     "LastUpdate": 1694623727,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.9/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.9/latest.zip"
@@ -57,7 +57,7 @@
     "Punchline": "Tracking assistant for Moogle Treasure Trove rewards",
     "AcceptsFeedback": true,
     "Changelog": "- Added: Hovering over an item icon in the rewards table will now show a preview for emotes, fashion accessories, hairstyles, minions, mounts, paintings, and Triple Triad cards. Otherwise, just a slightly larger icon.\n- Added: The Rewards column in the Duties table now shows the amount for wins, losses, and ties for PvP Duties.",
-    "DownloadCount": 304,
+    "DownloadCount": 305,
     "LastUpdate": 1693412682,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v1.1.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v1.1.0/latest.zip"
