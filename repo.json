@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Aether Current Helper\n\n- Fixed: The list didn't render due to an error.",
-    "DownloadCount": 1844,
+    "DownloadCount": 1847,
     "LastUpdate": 1695602879,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v17.0.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v17.0.2/latest.zip"
@@ -36,7 +36,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "A lot of internal restructuring due to my new HaselCommon library, which is now used in all my plugins. I hope it works fine!\n\n- Changed: The configuration, previously a tab, has been moved to its own window and can be opened either via Dalamuds Plugin Installer or via `/lh config` in chat.\n- Added: The plugin language can now be changed in the configuration.",
-    "DownloadCount": 428,
+    "DownloadCount": 429,
     "LastUpdate": 1694623727,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.9/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.9/latest.zip"
