@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "19.0.0",
+    "AssemblyVersion": "19.0.1",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "New Tweak: Simple Aethernet List\n\nSimplifies the behavior of the Aethernet list: mouseover selects the aetheryte and a click teleports you.",
+    "Changelog": "Enhanced Isleworks Agenda\n\n- Fixed?: Possible fix for a game crash when searching for an item without having all items unlocked yet.  \n  (Because I'm already at rank 18 and have all items unlocked it's a guessing game for me as to why it crashes.)",
     "DownloadCount": 0,
-    "LastUpdate": 1696556253,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v19.0.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v19.0.0/latest.zip"
+    "LastUpdate": 1696590397,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v19.0.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v19.0.1/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -36,7 +36,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Update for Patch 6.5.",
-    "DownloadCount": 243,
+    "DownloadCount": 294,
     "LastUpdate": 1696447736,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.10/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.10/latest.zip"
@@ -57,7 +57,7 @@
     "Punchline": "Tracking assistant for Moogle Treasure Trove rewards",
     "AcceptsFeedback": true,
     "Changelog": "Update for Patch 6.5.",
-    "DownloadCount": 145,
+    "DownloadCount": 181,
     "LastUpdate": 1696448124,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v1.1.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v1.1.1/latest.zip"
