@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "HaselTweaks\n\n- Changed: Dropped the SVG rendering library and replaced the logo in the settings with a simple PNG image. Making it scaleable with the UI was a nice thought, but in the end it just wasn't worth it.",
-    "DownloadCount": 2450,
+    "DownloadCount": 2460,
     "LastUpdate": 1696962858,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v19.0.4/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v19.0.4/latest.zip"
@@ -36,7 +36,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Fixed: \"Queue\" and \"Recipe Tree\" tabs didn't show crafting ingredients. Sorry about that!",
-    "DownloadCount": 387,
+    "DownloadCount": 390,
     "LastUpdate": 1698225276,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.1/latest.zip"
@@ -57,7 +57,7 @@
     "Punchline": "Tracking assistant for Moogle Treasure Trove rewards",
     "AcceptsFeedback": true,
     "Changelog": "Update for Patch 6.5.",
-    "DownloadCount": 281,
+    "DownloadCount": 283,
     "LastUpdate": 1696448124,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v1.1.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v1.1.1/latest.zip"
