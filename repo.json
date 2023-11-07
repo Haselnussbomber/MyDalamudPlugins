@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Enhanced Material List\n\nReworked internals to make the following changes:\n\n- Changed: The material list and recipe tree will now refresh after an inventory change, rather than when certain windows are opened/closed.\n- Fixed: The plugin will now respect the refresh button state and won't trigger a refresh while a refresh is already running.\n- Fixed: The game will no longer crash when the plugin unloads while the material list was open. (Not sure if that actually was a problem or just happened during development, but I thought I mention it anyway. )",
-    "DownloadCount": 1643,
+    "DownloadCount": 1772,
     "LastUpdate": 1699107189,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v19.0.5/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v19.0.5/latest.zip"
@@ -36,7 +36,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Fixed: \"Queue\" and \"Recipe Tree\" tabs didn't show crafting ingredients. Sorry about that!",
-    "DownloadCount": 410,
+    "DownloadCount": 413,
     "LastUpdate": 1698225276,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.1/latest.zip"
@@ -57,7 +57,7 @@
     "Punchline": "Tracking assistant for Moogle Treasure Trove rewards",
     "AcceptsFeedback": true,
     "Changelog": "Update for Patch 6.5.",
-    "DownloadCount": 289,
+    "DownloadCount": 291,
     "LastUpdate": 1696448124,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v1.1.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v1.1.1/latest.zip"
