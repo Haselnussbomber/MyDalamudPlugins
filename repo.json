@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Portrait Helper\n\n- Fixed: When generating the gear checksum, the tweak will now respect class/job restrictions on glamoured items and fall back to the original item id.",
-    "DownloadCount": 0,
+    "DownloadCount": 312,
     "LastUpdate": 1702281001,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v20.0.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v20.0.1/latest.zip"
