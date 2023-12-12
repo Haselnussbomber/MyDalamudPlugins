@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "20.0.1",
+    "AssemblyVersion": "20.0.2",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Portrait Helper\n\n- Fixed: When generating the gear checksum, the tweak will now respect class/job restrictions on glamoured items and fall back to the original item id.",
-    "DownloadCount": 955,
-    "LastUpdate": 1702281001,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v20.0.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v20.0.1/latest.zip"
+    "Changelog": "Portrait Helper\n\n- Fixed: Follow up to 20.0.1 - Dyes are now also ignored when the glamoured item could not be applied due to restrictions.",
+    "DownloadCount": 0,
+    "LastUpdate": 1702368072,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v20.0.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v20.0.2/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
