@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Portrait Helper\n\n- Fixed: Follow up to 20.0.1 - Dyes are now also ignored when the glamoured item could not be applied due to restrictions.",
-    "DownloadCount": 1976,
+    "DownloadCount": 1997,
     "LastUpdate": 1702368072,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v20.0.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v20.0.2/latest.zip"
@@ -36,7 +36,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Fixed: \"Queue\" and \"Recipe Tree\" tabs didn't show crafting ingredients. Sorry about that!",
-    "DownloadCount": 605,
+    "DownloadCount": 606,
     "LastUpdate": 1698225276,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.1/latest.zip"
