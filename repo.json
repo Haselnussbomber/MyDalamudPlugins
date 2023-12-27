@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "20.0.3",
+    "AssemblyVersion": "20.1.0",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "HaselTweaks\n\n- Changed: The configuration has been rewritten.\n  - It now uses .NETs `System.Text.Json` instead of `Newtonsoft.Json`.\n  - It'll create a backup of the current config to `%APPDATA%\\XIVLauncher\\pluginConfigs\\HaselTweaks.json.bak` before migrating.\n  - If the migration failed or the new config can't be loaded, please make an issue on GitHub and upload the dalamud.log (or just the error), the current config, and if available the backup. In my testing everything worked, but you never know... Good luck! :)\n- Changed: Detection of inventory changes (currently only used for the Enhanced Material List tweak) now uses Dalamuds new `GameInventory` service.\n\nPortrait Helper\n\n- Fixed: The Preset Browser as a window (when using a larger font scaling) was not movable.\n- Fixed: An error would occur when closing the portrait editor window.",
-    "DownloadCount": 1825,
-    "LastUpdate": 1703102671,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v20.0.3/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v20.0.3/latest.zip"
+    "Changelog": "Enhanced Isleworks Agenda\n\n- Added: A drop-down menu has been added to the right of the search bar that allows you to change the language in which the search is performed.\n\nPortrait Helper\n\n- Changed: Dragging the animation timestamp forward now advances the animation smoothly.   \n  Unfortunately, moving backwards still uses the old method of reloading the animation at a specific timestamp, which causes flickering.",
+    "DownloadCount": 0,
+    "LastUpdate": 1703720264,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v20.1.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v20.1.0/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -36,7 +36,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Fixed: \"Queue\" and \"Recipe Tree\" tabs didn't show crafting ingredients. Sorry about that!",
-    "DownloadCount": 633,
+    "DownloadCount": 634,
     "LastUpdate": 1698225276,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.1/latest.zip"
