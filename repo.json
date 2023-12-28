@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Enhanced Isleworks Agenda\n\n- Added: A drop-down menu has been added to the right of the search bar that allows you to change the language in which the search is performed.\n\nPortrait Helper\n\n- Changed: Dragging the animation timestamp forward now advances the animation smoothly.   \n  Unfortunately, moving backwards still uses the old method of reloading the animation at a specific timestamp, which causes flickering.",
-    "DownloadCount": 0,
+    "DownloadCount": 73,
     "LastUpdate": 1703720264,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v20.1.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v20.1.0/latest.zip"
