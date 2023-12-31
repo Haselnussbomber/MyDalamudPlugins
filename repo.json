@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Small UI hotfix for v20.1.0.\n\nPortrait Helper\n\n- Fixed: For some emotes, the frame count in the animation timestamp input would display decimals.",
-    "DownloadCount": 1425,
+    "DownloadCount": 1480,
     "LastUpdate": 1703726006,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v20.1.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v20.1.1/latest.zip"
@@ -24,7 +24,7 @@
     "Author": "Haselnussbomber",
     "Name": "LeveHelper",
     "InternalName": "LeveHelper",
-    "AssemblyVersion": "2.1.1",
+    "AssemblyVersion": "2.1.2",
     "Description": "A little helper to check which Levequests have been completed and which are missing.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/LeveHelper",
@@ -35,11 +35,11 @@
     "LoadPriority": 0,
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
-    "Changelog": "- Fixed: \"Queue\" and \"Recipe Tree\" tabs didn't show crafting ingredients. Sorry about that!",
-    "DownloadCount": 650,
-    "LastUpdate": 1698225276,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.1/latest.zip"
+    "Changelog": "Wanted Targets\n\n- Fixed: Detection of Sabotender Corrido didn't work because the wrong name id was used.",
+    "DownloadCount": 0,
+    "LastUpdate": 1704056826,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.2/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
