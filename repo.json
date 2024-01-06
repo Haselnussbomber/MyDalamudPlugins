@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Small UI hotfix for v20.1.0.\n\nPortrait Helper\n\n- Fixed: For some emotes, the frame count in the animation timestamp input would display decimals.",
-    "DownloadCount": 2025,
+    "DownloadCount": 2063,
     "LastUpdate": 1703726006,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v20.1.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v20.1.1/latest.zip"
@@ -36,7 +36,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Wanted Targets\n\n- Fixed: Detection of Sabotender Corrido didn't work because the wrong name id was used.",
-    "DownloadCount": 318,
+    "DownloadCount": 330,
     "LastUpdate": 1704056826,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.2/latest.zip"
