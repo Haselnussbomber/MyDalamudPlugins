@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "20.1.1",
+    "AssemblyVersion": "20.1.2",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Small UI hotfix for v20.1.0.\n\nPortrait Helper\n\n- Fixed: For some emotes, the frame count in the animation timestamp input would display decimals.",
-    "DownloadCount": 2148,
-    "LastUpdate": 1703726006,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v20.1.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v20.1.1/latest.zip"
+    "Changelog": "HaselTweaks\n\n- Fixed: Tweaks were not notified when the config was updated.\n\nMaterial Allocation\n\n- Fixed: Config is now saved directly upon changing tabs.\n- Fixed: The currently selected language in the dropdown was not highlighted.\n- Fixed: Removed the language selection from the tweak config that was added there by mistake.\n\nPortrait Helper\n\n- Fixed: Stopped the maximum timestamp value from updating while the animation is loading.",
+    "DownloadCount": 0,
+    "LastUpdate": 1704659343,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v20.1.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v20.1.2/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -36,7 +36,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Wanted Targets\n\n- Fixed: Detection of Sabotender Corrido didn't work because the wrong name id was used.",
-    "DownloadCount": 360,
+    "DownloadCount": 373,
     "LastUpdate": 1704056826,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.2/latest.zip"
@@ -57,7 +57,7 @@
     "Punchline": "Tracking assistant for Moogle Treasure Trove rewards",
     "AcceptsFeedback": true,
     "Changelog": "Update for Patch 6.5.",
-    "DownloadCount": 349,
+    "DownloadCount": 351,
     "LastUpdate": 1696448124,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v1.1.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v1.1.1/latest.zip"
