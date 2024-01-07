@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "20.1.2",
+    "AssemblyVersion": "20.1.3",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "HaselTweaks\n\n- Fixed: Tweaks were not notified when the config was updated.\n\nMaterial Allocation\n\n- Fixed: Config is now saved directly upon changing tabs.\n- Fixed: The currently selected language in the dropdown was not highlighted.\n- Fixed: Removed the language selection from the tweak config that was added there by mistake.\n\nPortrait Helper\n\n- Fixed: Stopped the maximum timestamp value from updating while the animation is loading.",
+    "Changelog": "Small address resolver hotfix for v20.1.2.",
     "DownloadCount": 0,
-    "LastUpdate": 1704659343,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v20.1.2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v20.1.2/latest.zip"
+    "LastUpdate": 1704664629,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v20.1.3/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v20.1.3/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
