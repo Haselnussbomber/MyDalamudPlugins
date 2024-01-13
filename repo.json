@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "HaselTweaks\n\n- Fixed: Tweaks were not notified when the config was updated.\n\nMaterial Allocation\n\n- Fixed: Config is now saved directly upon changing tabs.\n- Fixed: The currently selected language in the dropdown was not highlighted.\n- Fixed: Removed the language selection from the tweak config that was added there by mistake.\n\nPortrait Helper\n\n- Fixed: Stopped the maximum timestamp value from updating while the animation is loading.\n\n---\n\nVersion 20.1.2 and 20.1.3 were unpublished, because I thought I had introduced a bug that prevented the plugin from initializing.\nNeither of them had an issue - it was me breaking things locally. I let the CI re-build and re-release v20.1.3. Sorry for the confusion.\n\nThe changelog above reflects changes made in v20.1.2, as v20.1.3 was an attempted bugfix for said local issue.",
-    "DownloadCount": 1599,
+    "DownloadCount": 1686,
     "LastUpdate": 1704674748,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v20.1.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v20.1.3/latest.zip"
@@ -36,7 +36,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Wanted Targets\n\n- Fixed: Detection of Sabotender Corrido didn't work because the wrong name id was used.",
-    "DownloadCount": 427,
+    "DownloadCount": 431,
     "LastUpdate": 1704056826,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.2/latest.zip"
