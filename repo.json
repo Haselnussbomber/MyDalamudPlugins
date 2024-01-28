@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "HaselTweaks\n\n- Fixed: Tweaks were not notified when the config was updated.\n\nMaterial Allocation\n\n- Fixed: Config is now saved directly upon changing tabs.\n- Fixed: The currently selected language in the dropdown was not highlighted.\n- Fixed: Removed the language selection from the tweak config that was added there by mistake.\n\nPortrait Helper\n\n- Fixed: Stopped the maximum timestamp value from updating while the animation is loading.\n\n---\n\nVersion 20.1.2 and 20.1.3 were unpublished, because I thought I had introduced a bug that prevented the plugin from initializing.\nNeither of them had an issue - it was me breaking things locally. I let the CI re-build and re-release v20.1.3. Sorry for the confusion.\n\nThe changelog above reflects changes made in v20.1.2, as v20.1.3 was an attempted bugfix for said local issue.",
-    "DownloadCount": 2879,
+    "DownloadCount": 2887,
     "LastUpdate": 1704674748,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v20.1.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v20.1.3/latest.zip"
@@ -36,7 +36,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Changed: The plugin now uses Dalamud's language setting and will fall back to English if there's no translation available. If you haven't changed the language in LeveHelper itself, nothing will change for you.\n- Fixed: Issuer for Blood in the Water at level 68 was incorrect.  \n  If someone could update it on the Gamer Escape's wiki, that would be awesome. I can't because my ISPs IP address is listed on DNSBL. ‍️",
-    "DownloadCount": 363,
+    "DownloadCount": 374,
     "LastUpdate": 1706196904,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.3/latest.zip"
@@ -58,7 +58,7 @@
     "Punchline": "Tracking assistant for Moogle Treasure Trove rewards",
     "AcceptsFeedback": true,
     "Changelog": "Update for The First Hunt for Genesis.  \nI did my best to have this plugin updated prior to the start of the event. Please enjoy!\n\n- Added: A configuration window was added, accessible via Dalamuds Plugin Installer, the `/mogmog config` command, or via the cogwheel in the title bar of the MogMogCheck window. It allows you to change the following new settings:\n  - Open/Close with Mogpendium (default: on)\n  - Enable/disable Checkbox-Mode (default: on): The Checkbox-Mode is the default behaviour for MogMogCheck, as it was before the update. It displays a checkbox next to the items, that you can click to track the required tomestones. When Checkbox-Mode is off, it displays a slider instead. Non-unique items can be purchased multiple times, so if you want to track more than one of an item, you can now do so.\n- Added: The context menu for equippable items now has a \"Try on\" option.\n- Changed: Item icon tooltips for Triple Triad Cards now mimic the card style, displaying their stars and stats.\n- Changed: Items that become available for exchange once you have completed a quest now display the map marker icon. The tooltips have also been improved. Both now indicate whether a quest is complete/incomplete.\n- Removed: The Duties tab has been removed due to the introduction of the Mogpendium.\n- Fixed: Item names and quest titles are now respecting the language selected in Dalamud instead of using the client's language.",
-    "DownloadCount": 141,
+    "DownloadCount": 153,
     "LastUpdate": 1706279416,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v2.0.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v2.0.0/latest.zip"
