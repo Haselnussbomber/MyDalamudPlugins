@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "HaselTweaks\n\n- Changed: The plugin now uses Dalamud's language setting and will fall back to English if there's no translation available. If you haven't changed the language in HaselTweaks itself, nothing will change for you.\n- Fixed: Item names, chocobo colors or portrait expressions, are now respecting the language selected in Dalamud instead of using the client's language.\n\nGear Set Grid\n\n- Fixed: When opened in game and returned to the main menu, the window was still visible. It is now automatically hidden when you're not logged in.",
-    "DownloadCount": 2864,
+    "DownloadCount": 2872,
     "LastUpdate": 1706445829,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v20.1.4/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v20.1.4/latest.zip"
