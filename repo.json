@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Character Class Switcher\n\n- Added: An option to always open the Character window on the Classes/Jobs tab.\n\nMinimap Adjustments\n\n- Added: New options to hide the time indicator and to show it when hovering.\n- Added: New options to hide the cardinal directions and to show them when hovering.\n- Changed: The transparency now has a smooth transition when it changes.",
-    "DownloadCount": 876,
+    "DownloadCount": 1442,
     "LastUpdate": 1709133845,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v20.2.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v20.2.0/latest.zip"
@@ -58,7 +58,7 @@
     "Punchline": "Tracking assistant for Moogle Treasure Trove rewards",
     "AcceptsFeedback": true,
     "Changelog": "- Fixed: The barding unlock checkmark didn't work properly.",
-    "DownloadCount": 386,
+    "DownloadCount": 390,
     "LastUpdate": 1707590636,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v2.1.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v2.1.1/latest.zip"
