@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Character Class Switcher\n\n- Added: An option to always open the Character window on the Classes/Jobs tab.\n\nMinimap Adjustments\n\n- Added: New options to hide the time indicator and to show it when hovering.\n- Added: New options to hide the cardinal directions and to show them when hovering.\n- Changed: The transparency now has a smooth transition when it changes.",
-    "DownloadCount": 1759,
+    "DownloadCount": 1892,
     "LastUpdate": 1709133845,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v20.2.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v20.2.0/latest.zip"
