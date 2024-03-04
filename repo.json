@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Character Class Switcher\n\n- Added: An option to always open the Character window on the Classes/Jobs tab.\n\nMinimap Adjustments\n\n- Added: New options to hide the time indicator and to show it when hovering.\n- Added: New options to hide the cardinal directions and to show them when hovering.\n- Changed: The transparency now has a smooth transition when it changes.",
-    "DownloadCount": 2336,
+    "DownloadCount": 2418,
     "LastUpdate": 1709133845,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v20.2.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v20.2.0/latest.zip"
@@ -36,7 +36,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Changed: The plugin now uses Dalamud's language setting and will fall back to English if there's no translation available. If you haven't changed the language in LeveHelper itself, nothing will change for you.\n- Fixed: Issuer for Blood in the Water at level 68 was incorrect.  \n  If someone could update it on the Gamer Escape's wiki, that would be awesome. I can't because my ISPs IP address is listed on DNSBL. ‍️",
-    "DownloadCount": 655,
+    "DownloadCount": 656,
     "LastUpdate": 1706196904,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.3/latest.zip"
@@ -58,7 +58,7 @@
     "Punchline": "Tracking assistant for Moogle Treasure Trove rewards",
     "AcceptsFeedback": true,
     "Changelog": "- Fixed: The barding unlock checkmark didn't work properly.",
-    "DownloadCount": 402,
+    "DownloadCount": 404,
     "LastUpdate": 1707590636,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v2.1.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v2.1.1/latest.zip"
