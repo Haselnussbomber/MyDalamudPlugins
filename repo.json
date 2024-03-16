@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "HaselTweaks\n\n- Updated dependency SixLabors.ImageSharp to 3.1.3 (security fix for CVE-2024-27929).\n- Removed dependency System.IO.Hashing, which is no longer needed in HaselTweaks.\n\nPortrait Helper\n\n- Changed: Thumbnails now use the preset ID instead of a hash for filenames. Existing thumbnails have been automatically renamed.  \n  If errors occur, please check the console (`/xllog` - the lines are prefixed with `[MigrationV6]`) to see which files could not be renamed.",
-    "DownloadCount": 2908,
+    "DownloadCount": 2945,
     "LastUpdate": 1709658158,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v20.2.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v20.2.1/latest.zip"
@@ -36,7 +36,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Changed: The plugin now uses Dalamud's language setting and will fall back to English if there's no translation available. If you haven't changed the language in LeveHelper itself, nothing will change for you.\n- Fixed: Issuer for Blood in the Water at level 68 was incorrect.  \n  If someone could update it on the Gamer Escape's wiki, that would be awesome. I can't because my ISPs IP address is listed on DNSBL. ‍️",
-    "DownloadCount": 741,
+    "DownloadCount": 742,
     "LastUpdate": 1706196904,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.3/latest.zip"
@@ -58,7 +58,7 @@
     "Punchline": "Tracking assistant for Moogle Treasure Trove rewards",
     "AcceptsFeedback": true,
     "Changelog": "Update for The Second Hunt for Genesis.  \nThe rewards list *should* automatically switch over to the new items whenever the second hunt starts.  \n\n- Added: A new configuration option was added to hide previous seasons (default on).  \n  Reason: The game data lists all items in a single exchange shop. This option hides items using Irregular Tomestone of Genesis I whenever the second hunt starts.",
-    "DownloadCount": 314,
+    "DownloadCount": 324,
     "LastUpdate": 1710040838,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v2.2.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v2.2.0/latest.zip"
