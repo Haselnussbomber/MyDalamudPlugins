@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "20.2.1",
+    "AssemblyVersion": "20.3.0",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "HaselTweaks\n\n- Updated dependency SixLabors.ImageSharp to 3.1.3 (security fix for CVE-2024-27929).\n- Removed dependency System.IO.Hashing, which is no longer needed in HaselTweaks.\n\nPortrait Helper\n\n- Changed: Thumbnails now use the preset ID instead of a hash for filenames. Existing thumbnails have been automatically renamed.  \n  If errors occur, please check the console (`/xllog` - the lines are prefixed with `[MigrationV6]`) to see which files could not be renamed.",
-    "DownloadCount": 3107,
-    "LastUpdate": 1709658158,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v20.2.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v20.2.1/latest.zip"
+    "Changelog": "HaselTweaks\n\n- The target framework has been updated to .NET 8 and some code has been adjusted to take advantage of the additions it brings.\n- Dependencies that are no longer needed have been removed:\n  - Dalamud.ContextMenu: This is now included in Dalamud.\n  - FuzzySharp: The FuzzyMatcher from Dalamud is now used instead.\n  - NoAlloq: The game window detection has been further optimised.\n- Performance optimizations:\n  - More efficient loops in code that runs every frame.\n  - AutoSorter is now notified when inventory windows are opened, instead of manually checking each inventory window every frame.\n  - Code that doesn't need to be executed every frame while logged out is now skipped.\n\nPortrait Helper\n\n- Added: Preset codes are now written to the thumbnail Exif metadata as UserComment.  \n  This can be disabled in the tweak settings. Existing thumbnails are not updated retroactively.",
+    "DownloadCount": 0,
+    "LastUpdate": 1710961461,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v20.3.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v20.3.0/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -58,7 +58,7 @@
     "Punchline": "Tracking assistant for Moogle Treasure Trove rewards",
     "AcceptsFeedback": true,
     "Changelog": "Update for The Second Hunt for Genesis.  \nThe rewards list *should* automatically switch over to the new items whenever the second hunt starts.  \n\n- Added: A new configuration option was added to hide previous seasons (default on).  \n  Reason: The game data lists all items in a single exchange shop. This option hides items using Irregular Tomestone of Genesis I whenever the second hunt starts.",
-    "DownloadCount": 351,
+    "DownloadCount": 354,
     "LastUpdate": 1710040838,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v2.2.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v2.2.0/latest.zip"
