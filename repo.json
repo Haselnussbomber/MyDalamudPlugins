@@ -45,7 +45,7 @@
     "Author": "Haselnussbomber",
     "Name": "MogMogCheck",
     "InternalName": "MogMogCheck",
-    "AssemblyVersion": "2.2.0",
+    "AssemblyVersion": "2.2.1",
     "Description": "MogMogCheck is a small plugin to assist you in tracking the rewards of the Moogle Treasure Trove event (called Mog Mog Kollektion in German, hence the name).",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/MogMogCheck",
@@ -57,10 +57,10 @@
     "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/MogMogCheck/main/MogMogCheck/Assets/Icon.png",
     "Punchline": "Tracking assistant for Moogle Treasure Trove rewards",
     "AcceptsFeedback": true,
-    "Changelog": "Update for The Second Hunt for Genesis.  \nThe rewards list *should* automatically switch over to the new items whenever the second hunt starts.  \n\n- Added: A new configuration option was added to hide previous seasons (default on).  \n  Reason: The game data lists all items in a single exchange shop. This option hides items using Irregular Tomestone of Genesis I whenever the second hunt starts.",
-    "DownloadCount": 354,
-    "LastUpdate": 1710040838,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v2.2.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v2.2.0/latest.zip"
+    "Changelog": "The target framework has been updated to .NET 8, some code has been adjusted to take advantage of the additions it brings, and the NoAlloq dependency was removed.\n\nNo further changes on the plugin itself.",
+    "DownloadCount": 0,
+    "LastUpdate": 1710963433,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v2.2.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v2.2.1/latest.zip"
   }
 ]
