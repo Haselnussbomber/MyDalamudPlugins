@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "HaselTweaks\n\n- The target framework has been updated to .NET 8 and some code has been adjusted to take advantage of the additions it brings.\n- Dependencies that are no longer needed have been removed:\n  - Dalamud.ContextMenu: This is now included in Dalamud.\n  - FuzzySharp: The FuzzyMatcher from Dalamud is now used instead.\n  - NoAlloq: The game window detection has been further optimised.\n- Performance optimizations:\n  - More efficient loops in code that runs every frame.\n  - AutoSorter is now notified when inventory windows are opened, instead of manually checking each inventory window every frame.\n  - Code that doesn't need to be executed every frame while logged out is now skipped.\n\nPortrait Helper\n\n- Added: Preset codes are now written to the thumbnail Exif metadata as UserComment.  \n  This can be disabled in the tweak settings. Existing thumbnails are not updated retroactively.",
-    "DownloadCount": 1479,
+    "DownloadCount": 1891,
     "LastUpdate": 1710961461,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v20.3.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v20.3.0/latest.zip"
@@ -36,7 +36,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- The target framework has been updated to .NET 8, some code has been adjusted to take advantage of the additions it brings, and the NoAlloq dependency was removed.\n- The plugin now loads early and asynchronously.\n- Added: A little cog icon to access the settings has been added to the LeveHelper window.\n- Fixed: The location and type filter buttons now save the configuration after setting the filter.",
-    "DownloadCount": 275,
+    "DownloadCount": 376,
     "LastUpdate": 1710963059,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.4/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.4/latest.zip"
@@ -58,7 +58,7 @@
     "Punchline": "Tracking assistant for Moogle Treasure Trove rewards",
     "AcceptsFeedback": true,
     "Changelog": "The target framework has been updated to .NET 8, some code has been adjusted to take advantage of the additions it brings, and the NoAlloq dependency was removed.\n\nNo further changes on the plugin itself.",
-    "DownloadCount": 179,
+    "DownloadCount": 238,
     "LastUpdate": 1710963433,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v2.2.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v2.2.1/latest.zip"
