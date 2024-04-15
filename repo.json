@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "New Tweak: Inventory Highlight\n\nHold down the shift key when the inventory is open to highlight identical items.  \nAn option is available to ignore the item quality (default on).\n\nEnhanced Login/Logout\n\n- Added: An option to skip the startup logo (default on). Instantly shows the title screen.\n\nCommands\n\n- Added: New Command `/glamourplate <id>`  \n  This shortcut command executes the \"/gearset change\" command with the current gear set id and the given glamour plate id (1-20).",
-    "DownloadCount": 0,
+    "DownloadCount": 161,
     "LastUpdate": 1713179866,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v22.0.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v22.0.0/latest.zip"
