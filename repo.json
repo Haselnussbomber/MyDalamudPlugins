@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "New Tweak: Inventory Highlight\n\nHold down the shift key when the inventory is open to highlight identical items.  \nAn option is available to ignore the item quality (default on).\n\nEnhanced Login/Logout\n\n- Added: An option to skip the startup logo (default on). Instantly shows the title screen.\n\nCommands\n\n- Added: New Command `/glamourplate <id>`  \n  This shortcut command executes the \"/gearset change\" command with the current gear set id and the given glamour plate id (1-20).",
-    "DownloadCount": 2358,
+    "DownloadCount": 2430,
     "LastUpdate": 1713179866,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v22.0.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v22.0.0/latest.zip"
@@ -36,7 +36,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- The target framework has been updated to .NET 8, some code has been adjusted to take advantage of the additions it brings, and the NoAlloq dependency was removed.\n- The plugin now loads early and asynchronously.\n- Added: A little cog icon to access the settings has been added to the LeveHelper window.\n- Fixed: The location and type filter buttons now save the configuration after setting the filter.",
-    "DownloadCount": 717,
+    "DownloadCount": 719,
     "LastUpdate": 1710963059,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.4/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.4/latest.zip"
@@ -58,7 +58,7 @@
     "Punchline": "Tracking assistant for Moogle Treasure Trove rewards",
     "AcceptsFeedback": true,
     "Changelog": "The target framework has been updated to .NET 8, some code has been adjusted to take advantage of the additions it brings, and the NoAlloq dependency was removed.\n\nNo further changes on the plugin itself.",
-    "DownloadCount": 448,
+    "DownloadCount": 449,
     "LastUpdate": 1710963433,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v2.2.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v2.2.1/latest.zip"
