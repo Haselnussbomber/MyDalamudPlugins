@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Inventory Highlight\n\n- Fixed: Hovering HQ items would not highlight similar items when \"Ignore item quality\" was enabled.",
-    "DownloadCount": 2507,
+    "DownloadCount": 2595,
     "LastUpdate": 1713487084,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v22.0.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v22.0.1/latest.zip"
@@ -36,7 +36,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- The target framework has been updated to .NET 8, some code has been adjusted to take advantage of the additions it brings, and the NoAlloq dependency was removed.\n- The plugin now loads early and asynchronously.\n- Added: A little cog icon to access the settings has been added to the LeveHelper window.\n- Fixed: The location and type filter buttons now save the configuration after setting the filter.",
-    "DownloadCount": 742,
+    "DownloadCount": 748,
     "LastUpdate": 1710963059,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.4/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.4/latest.zip"
@@ -58,7 +58,7 @@
     "Punchline": "Tracking assistant for Moogle Treasure Trove rewards",
     "AcceptsFeedback": true,
     "Changelog": "The target framework has been updated to .NET 8, some code has been adjusted to take advantage of the additions it brings, and the NoAlloq dependency was removed.\n\nNo further changes on the plugin itself.",
-    "DownloadCount": 464,
+    "DownloadCount": 467,
     "LastUpdate": 1710963433,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v2.2.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v2.2.1/latest.zip"
