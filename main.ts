@@ -3,6 +3,7 @@ const repos = [
   "HaselTweaks",
   "LeveHelper",
   "MogMogCheck",
+  "YokaiCheck",
 ];
 
 const clearText = (str) => {
