@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Inventory Highlight\n\n- Fixed: Hovering HQ items would not highlight similar items when \"Ignore item quality\" was enabled.",
-    "DownloadCount": 2938,
+    "DownloadCount": 2992,
     "LastUpdate": 1713487084,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v22.0.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v22.0.1/latest.zip"
@@ -36,7 +36,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- The target framework has been updated to .NET 8, some code has been adjusted to take advantage of the additions it brings, and the NoAlloq dependency was removed.\n- The plugin now loads early and asynchronously.\n- Added: A little cog icon to access the settings has been added to the LeveHelper window.\n- Fixed: The location and type filter buttons now save the configuration after setting the filter.",
-    "DownloadCount": 765,
+    "DownloadCount": 766,
     "LastUpdate": 1710963059,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.4/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.4/latest.zip"
@@ -58,9 +58,31 @@
     "Punchline": "Tracking assistant for Moogle Treasure Trove rewards",
     "AcceptsFeedback": true,
     "Changelog": "The target framework has been updated to .NET 8, some code has been adjusted to take advantage of the additions it brings, and the NoAlloq dependency was removed.\n\nNo further changes on the plugin itself.",
-    "DownloadCount": 481,
+    "DownloadCount": 484,
     "LastUpdate": 1710963433,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v2.2.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v2.2.1/latest.zip"
+  },
+  {
+    "Author": "Haselnussbomber",
+    "Name": "Yo-kai Check",
+    "InternalName": "YokaiCheck",
+    "AssemblyVersion": "1.0.0",
+    "Description": "Yo-kai Check is a small plugin to assist you in tracking the rewards of the Yo-kai Watch event.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Haselnussbomber/YokaiCheck",
+    "DalamudApiLevel": 9,
+    "LoadRequiredState": 1,
+    "LoadSync": false,
+    "CanUnloadAsync": true,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/YokaiCheck/main/YokaiCheck/Assets/Icon.png",
+    "Punchline": "Tracking assistant for Yo-kai Watch rewards",
+    "AcceptsFeedback": true,
+    "Changelog": "First release. \n\n[Unreleased]: https://github.com/Haselnussbomber/YokaiCheck/compare/main...dev\n[1.0.0]: https://github.com/Haselnussbomber/YokaiCheck/commit/9364b96e",
+    "DownloadCount": 0,
+    "LastUpdate": 1714082576,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/YokaiCheck/releases/download/v1.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/YokaiCheck/releases/download/v1.0.0/latest.zip"
   }
 ]
