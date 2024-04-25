@@ -11,3 +11,4 @@ Note: Download counts are reset with each new release.
 - [HaselTweaks](https://github.com/Haselnussbomber/HaselTweaks)
 - [LeveHelper](https://github.com/Haselnussbomber/LeveHelper)
 - [MogMogCheck](https://github.com/Haselnussbomber/MogMogCheck)
+- [YokaiCheck](https://github.com/Haselnussbomber/YokaiCheck)
