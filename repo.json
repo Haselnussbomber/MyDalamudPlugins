@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Scrollable Tabs\n\n- Fixed: The game would crash when scrolling too far in the Expanded Retainer Inventory or Companion window.",
-    "DownloadCount": 3581,
+    "DownloadCount": 3611,
     "LastUpdate": 1715757819,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v23.0.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v23.0.2/latest.zip"
@@ -36,7 +36,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- The target framework has been updated to .NET 8, some code has been adjusted to take advantage of the additions it brings, and the NoAlloq dependency was removed.\n- The plugin now loads early and asynchronously.\n- Added: A little cog icon to access the settings has been added to the LeveHelper window.\n- Fixed: The location and type filter buttons now save the configuration after setting the filter.",
-    "DownloadCount": 929,
+    "DownloadCount": 935,
     "LastUpdate": 1710963059,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.4/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.4/latest.zip"
@@ -58,7 +58,7 @@
     "Punchline": "Tracking assistant for Moogle Treasure Trove rewards",
     "AcceptsFeedback": true,
     "Changelog": "The target framework has been updated to .NET 8, some code has been adjusted to take advantage of the additions it brings, and the NoAlloq dependency was removed.\n\nNo further changes on the plugin itself.",
-    "DownloadCount": 675,
+    "DownloadCount": 679,
     "LastUpdate": 1710963433,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v2.2.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v2.2.1/latest.zip"
@@ -80,7 +80,7 @@
     "Punchline": "Tracking assistant for Yo-kai Watch rewards",
     "AcceptsFeedback": true,
     "Changelog": "- Added: The server info bar entry can not be clicked to open the plugin window.\n- Added: The server info bar entry now shows the locations in which you can farm the medals in the tooltip.\n- Added: In the table, the medal count of each weapon now also has a tooltip that shows the locations in which you can farm them. A location displayed in a green color is your current location.\n- Added: In the table, the minion name can now be clicked to summon it and will be shown in a green color when it is currently summoned.\n- Changed: The server info bar entry is now based on the currently summoned minion (previously it was based on inventory changes - the medals that were added) and will persist between zones until the minion is sent away or the weapon has been acquired.",
-    "DownloadCount": 613,
+    "DownloadCount": 622,
     "LastUpdate": 1714178614,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/YokaiCheck/releases/download/v1.2.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/YokaiCheck/releases/download/v1.2.0/latest.zip"
