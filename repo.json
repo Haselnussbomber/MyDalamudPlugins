@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "24.0.0",
+    "AssemblyVersion": "24.0.1",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "New Tweak: Market Board Item Preview\n\nAutomatically try on equipment when you hover over an item in the market board search results.\n\nEnhanced Isleworks Agenda\n\n- Changed: Search text is now trimmed before fuzzy searching for the item. (Thanks to @CallumCarmicheal)\n\nForced Cutscene Music\n\n- Changed: The tweak should now support more cutscenes. This is done by hooking the CutSceneController class instead of the PlayCutSceneTask.\n\nPortrait Helper\n\n- Changed: Gear checksum mismatch is now checked when the game updates the class/job info in the agents. (Using a hook now instead of checking class/job id every frame.)\n- Fixed: The menu bar might've been incorrectly positioned while initializing.\n- Fixed: The rename tag dialog didn't use translated texts.\n\nHaselTweaks\n\nNot so important note:  \nI'm currently working on restructuring the plugins source code, but I'm not fully done yet.  \nThe plugin may or may not have some issues because of it, but so far everything seems fine.  \nIf you find anything that doesn't work, please let me know via the plugins GitHub Issues. Thanks!\n\nAlso I'm shipping ClientStructs for now, since I've already adapted to these changes, which results in a slightly bigger size.  \nI didn't expect to release another update so close to the expansion, but I was asked to fix a bug. :>  \nWill probably switch back to Dalamuds ClientStructs again once it's released for Dawntrail.",
+    "Changelog": "Enhanced Isleworks Agenda\n\n- Fixed: The search bar was only focused the first time it was opened, and the text wasn't cleared. Sorry about that!",
     "DownloadCount": 0,
-    "LastUpdate": 1718938300,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v24.0.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v24.0.0/latest.zip"
+    "LastUpdate": 1718966334,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v24.0.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v24.0.1/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -58,7 +58,7 @@
     "Punchline": "Tracking assistant for Moogle Treasure Trove rewards",
     "AcceptsFeedback": true,
     "Changelog": "The target framework has been updated to .NET 8, some code has been adjusted to take advantage of the additions it brings, and the NoAlloq dependency was removed.\n\nNo further changes on the plugin itself.",
-    "DownloadCount": 779,
+    "DownloadCount": 781,
     "LastUpdate": 1710963433,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v2.2.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v2.2.1/latest.zip"
@@ -80,7 +80,7 @@
     "Punchline": "Tracking assistant for Yo-kai Watch rewards",
     "AcceptsFeedback": true,
     "Changelog": "- Added: The server info bar entry can not be clicked to open the plugin window.\n- Added: The server info bar entry now shows the locations in which you can farm the medals in the tooltip.\n- Added: In the table, the medal count of each weapon now also has a tooltip that shows the locations in which you can farm them. A location displayed in a green color is your current location.\n- Added: In the table, the minion name can now be clicked to summon it and will be shown in a green color when it is currently summoned.\n- Changed: The server info bar entry is now based on the currently summoned minion (previously it was based on inventory changes - the medals that were added) and will persist between zones until the minion is sent away or the weapon has been acquired.",
-    "DownloadCount": 784,
+    "DownloadCount": 785,
     "LastUpdate": 1714178614,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/YokaiCheck/releases/download/v1.2.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/YokaiCheck/releases/download/v1.2.0/latest.zip"
