@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "23.0.2",
+    "AssemblyVersion": "24.0.0",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Scrollable Tabs\n\n- Fixed: The game would crash when scrolling too far in the Expanded Retainer Inventory or Companion window.",
-    "DownloadCount": 4697,
-    "LastUpdate": 1715757819,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v23.0.2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v23.0.2/latest.zip"
+    "Changelog": "New Tweak: Market Board Item Preview\n\nAutomatically try on equipment when you hover over an item in the market board search results.\n\nEnhanced Isleworks Agenda\n\n- Changed: Search text is now trimmed before fuzzy searching for the item. (Thanks to @CallumCarmicheal)\n\nForced Cutscene Music\n\n- Changed: The tweak should now support more cutscenes. This is done by hooking the CutSceneController class instead of the PlayCutSceneTask.\n\nPortrait Helper\n\n- Changed: Gear checksum mismatch is now checked when the game updates the class/job info in the agents. (Using a hook now instead of checking class/job id every frame.)\n- Fixed: The menu bar might've been incorrectly positioned while initializing.\n- Fixed: The rename tag dialog didn't use translated texts.\n\nHaselTweaks\n\nNot so important note:  \nI'm currently working on restructuring the plugins source code, but I'm not fully done yet.  \nThe plugin may or may not have some issues because of it, but so far everything seems fine.  \nIf you find anything that doesn't work, please let me know via the plugins GitHub Issues. Thanks!\n\nAlso I'm shipping ClientStructs for now, since I've already adapted to these changes, which results in a slightly bigger size.  \nI didn't expect to release another update so close to the expansion, but I was asked to fix a bug. :>  \nWill probably switch back to Dalamuds ClientStructs again once it's released for Dawntrail.",
+    "DownloadCount": 0,
+    "LastUpdate": 1718938300,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v24.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v24.0.0/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
