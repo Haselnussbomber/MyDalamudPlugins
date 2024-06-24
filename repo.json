@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "24.0.2",
+    "AssemblyVersion": "24.0.3",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "HaselTweaks\n\n- Changed: Completely reworked/simplified the code to draw the configuration.\n- Fixed: Starting with v24.0.0 some tweaks didn't correctly unload when unloading the plugin.\n- Fixed: Updated Chinese Translations. (Thanks to @cyf5119)",
+    "Changelog": "HaselTweaks\n\n- Fixed: The plugin might've not registered its `/haseltweaks` command.",
     "DownloadCount": 0,
-    "LastUpdate": 1719256682,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v24.0.2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v24.0.2/latest.zip"
+    "LastUpdate": 1719259690,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v24.0.3/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v24.0.3/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
