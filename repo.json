@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "HaselTweaks\n\n- Fixed: The plugin might've not registered its `/haseltweaks` command.",
-    "DownloadCount": 2474,
+    "DownloadCount": 2478,
     "LastUpdate": 1719259690,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v24.0.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v24.0.3/latest.zip"
@@ -36,7 +36,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- The target framework has been updated to .NET 8, some code has been adjusted to take advantage of the additions it brings, and the NoAlloq dependency was removed.\n- The plugin now loads early and asynchronously.\n- Added: A little cog icon to access the settings has been added to the LeveHelper window.\n- Fixed: The location and type filter buttons now save the configuration after setting the filter.",
-    "DownloadCount": 1090,
+    "DownloadCount": 1091,
     "LastUpdate": 1710963059,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.4/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.4/latest.zip"
