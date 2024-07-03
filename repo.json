@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "24.1.0",
+    "AssemblyVersion": "24.1.1",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Preliminary update for Dawntrail (Dalamud staging).\n\nDTR\n\n- Fixed: Fixed Instance not being shown after relogging.\n\nGlamour Dresser Armoire Alert\n\n- Fixed: After the window closed, hitting the Escape key would no longer do anything.\n\nMaterial Allocation\n\n- Removed: The option \"Open Sanctuary Gathering Log for gatherable items\" was removed, because it was added to the game!!! \n\nPortrait Helper\n\n- Fixed: The Preset Browser wouldn't close properly after loading a preset.\n- Fixed: The Advanced Import Overlay wouldn't close properly after importing a preset.",
-    "DownloadCount": 460,
-    "LastUpdate": 1720000651,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v24.1.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v24.1.0/latest.zip"
+    "Changelog": "Portrait Helper\n\n- Fixed: Calculating the checksum would crash the game. Sorry!\n\nKnown Issues\n\n- Character Class Switcher: Buttons aren't clickable and some of them crash the game. I've disabled the tweak for now until I find a solution. Sorry!",
+    "DownloadCount": 0,
+    "LastUpdate": 1720024881,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v24.1.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v24.1.1/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
