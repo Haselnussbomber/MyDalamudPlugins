@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Character Class Switcher\n\n- Fixed: Hovering over a job in the PvP Character window would crash the game.",
-    "DownloadCount": 596,
+    "DownloadCount": 1180,
     "LastUpdate": 1720128014,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v24.1.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v24.1.3/latest.zip"
@@ -36,7 +36,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Preliminary update for Dawntrail (Dalamud staging).\n\nIssuer data for Br'uk Ts'on was manually composed based on the 10 involved in Levequests listed on Gamer Escape.",
-    "DownloadCount": 112,
+    "DownloadCount": 217,
     "LastUpdate": 1720126773,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.5/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.5/latest.zip"
