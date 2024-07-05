@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "24.1.3",
+    "AssemblyVersion": "25.0.0",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Character Class Switcher\n\n- Fixed: Hovering over a job in the PvP Character window would crash the game.",
-    "DownloadCount": 1180,
-    "LastUpdate": 1720128014,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v24.1.3/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v24.1.3/latest.zip"
+    "Changelog": "New Tweak: Bigger Item Dyeing Preview\n\nIncreases the size of the character preview in the \"Item Dyeing\" window.",
+    "DownloadCount": 0,
+    "LastUpdate": 1720192322,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v25.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v25.0.0/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -36,7 +36,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Preliminary update for Dawntrail (Dalamud staging).\n\nIssuer data for Br'uk Ts'on was manually composed based on the 10 involved in Levequests listed on Gamer Escape.",
-    "DownloadCount": 217,
+    "DownloadCount": 228,
     "LastUpdate": 1720126773,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.5/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.5/latest.zip"
