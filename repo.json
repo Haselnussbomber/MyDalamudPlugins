@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "New Tweak: Bigger Item Dyeing Preview\n\nIncreases the size of the character preview in the \"Item Dyeing\" window.",
-    "DownloadCount": 3675,
+    "DownloadCount": 3784,
     "LastUpdate": 1720192322,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v25.0.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v25.0.0/latest.zip"
@@ -24,7 +24,7 @@
     "Author": "Haselnussbomber",
     "Name": "LeveHelper",
     "InternalName": "LeveHelper",
-    "AssemblyVersion": "2.1.5",
+    "AssemblyVersion": "2.1.6",
     "Description": "A little helper to check which Levequests have been completed and which are missing.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/LeveHelper",
@@ -35,11 +35,11 @@
     "LoadPriority": 0,
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
-    "Changelog": "Preliminary update for Dawntrail (Dalamud staging).\n\nIssuer data for Br'uk Ts'on was manually composed based on the 10 involved in Levequests listed on Gamer Escape.",
-    "DownloadCount": 689,
-    "LastUpdate": 1720126773,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.5/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.5/latest.zip"
+    "Changelog": "- Fixed: Issuer for Dawntrail leves is Malihali, not Br'uk Ts'on.\n\n(I was looking at the wrong NPC last version. Sorry!)",
+    "DownloadCount": 0,
+    "LastUpdate": 1720474041,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.6/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.6/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
