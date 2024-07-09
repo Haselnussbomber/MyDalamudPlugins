@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "25.0.0",
+    "AssemblyVersion": "25.1.0",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "New Tweak: Bigger Item Dyeing Preview\n\nIncreases the size of the character preview in the \"Item Dyeing\" window.",
-    "DownloadCount": 3917,
-    "LastUpdate": 1720192322,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v25.0.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v25.0.0/latest.zip"
+    "Changelog": "Portrait Helper\n\n- Added: An option to ignore notifications for DoH/DoL jobs.",
+    "DownloadCount": 0,
+    "LastUpdate": 1720556169,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v25.1.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v25.1.0/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -36,7 +36,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Fixed: Issuer for Dawntrail leves is Malihali, not Br'uk Ts'on.\n\n(I was looking at the wrong NPC last version. Sorry!)",
-    "DownloadCount": 431,
+    "DownloadCount": 510,
     "LastUpdate": 1720474041,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.6/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.6/latest.zip"
@@ -80,7 +80,7 @@
     "Punchline": "Tracking assistant for Yo-kai Watch rewards",
     "AcceptsFeedback": true,
     "Changelog": "- Added: The server info bar entry can not be clicked to open the plugin window.\n- Added: The server info bar entry now shows the locations in which you can farm the medals in the tooltip.\n- Added: In the table, the medal count of each weapon now also has a tooltip that shows the locations in which you can farm them. A location displayed in a green color is your current location.\n- Added: In the table, the minion name can now be clicked to summon it and will be shown in a green color when it is currently summoned.\n- Changed: The server info bar entry is now based on the currently summoned minion (previously it was based on inventory changes - the medals that were added) and will persist between zones until the minion is sent away or the weapon has been acquired.",
-    "DownloadCount": 818,
+    "DownloadCount": 819,
     "LastUpdate": 1714178614,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/YokaiCheck/releases/download/v1.2.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/YokaiCheck/releases/download/v1.2.0/latest.zip"
