@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Portrait Helper\n\n- Added: An option to ignore notifications for DoH/DoL jobs.",
-    "DownloadCount": 0,
+    "DownloadCount": 1301,
     "LastUpdate": 1720556169,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v25.1.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v25.1.0/latest.zip"
@@ -36,7 +36,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Fixed: Issuer for Dawntrail leves is Malihali, not Br'uk Ts'on.\n\n(I was looking at the wrong NPC last version. Sorry!)",
-    "DownloadCount": 510,
+    "DownloadCount": 538,
     "LastUpdate": 1720474041,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.6/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.6/latest.zip"
