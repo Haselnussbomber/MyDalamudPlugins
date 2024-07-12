@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "25.1.0",
+    "AssemblyVersion": "25.1.1",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Portrait Helper\n\n- Added: An option to ignore notifications for DoH/DoL jobs.",
-    "DownloadCount": 3465,
-    "LastUpdate": 1720556169,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v25.1.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v25.1.0/latest.zip"
+    "Changelog": "Portrait Helper\n\n- Changed: Gear checksum is no longer checked during duties, where you can't update your portrait anyways. Instead, it will check your gear once you have left the duty.",
+    "DownloadCount": 0,
+    "LastUpdate": 1720747878,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v25.1.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v25.1.1/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -36,7 +36,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Fixed: Quantities are now updated when an inventory change occurs.\n- Fixed: The text on the Queue and Recipe Tree tabs when no leve quest is accepted is no longer incorrect.",
-    "DownloadCount": 63,
+    "DownloadCount": 80,
     "LastUpdate": 1720742454,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.7/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.7/latest.zip"
