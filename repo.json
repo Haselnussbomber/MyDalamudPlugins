@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Enhanced Login/Logout\n\n- Fixed: Pet glamour settings were not updated when logging in.\n\nForced Cutscene Music\n\n- Fixed: No longer applies to the title screen cutscene.\n\nMinimap Adjustments\n\n- Fixed: Nodes that should have been hidden were visible.\n\nPortrait Helper\n\n- Possibly Fixed: Clicking the notification in chat would not open the correct gear set.\n  - *Note:* I'm calling a different function now which resolves the gearset id. This seems to be necessary for some older gearsets.",
-    "DownloadCount": 0,
+    "DownloadCount": 1546,
     "LastUpdate": 1720930087,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v25.1.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v25.1.2/latest.zip"
@@ -36,7 +36,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Fixed: Quantities are now updated when an inventory change occurs.\n- Fixed: The text on the Queue and Recipe Tree tabs when no leve quest is accepted is no longer incorrect.",
-    "DownloadCount": 567,
+    "DownloadCount": 580,
     "LastUpdate": 1720742454,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.7/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.7/latest.zip"
