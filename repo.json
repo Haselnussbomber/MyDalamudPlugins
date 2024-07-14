@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "25.1.1",
+    "AssemblyVersion": "25.1.2",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Portrait Helper\n\n- Changed: Gear checksum is no longer checked during duties, where you can't update your portrait anyways. Instead, it will check your gear once you have left the duty.",
-    "DownloadCount": 3395,
-    "LastUpdate": 1720747878,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v25.1.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v25.1.1/latest.zip"
+    "Changelog": "Enhanced Login/Logout\n\n- Fixed: Pet glamour settings were not updated when logging in.\n\nForced Cutscene Music\n\n- Fixed: No longer applies to the title screen cutscene.\n\nMinimap Adjustments\n\n- Fixed: Nodes that should have been hidden were visible.\n\nPortrait Helper\n\n- Possibly Fixed: Clicking the notification in chat would not open the correct gear set.\n  - *Note:* I'm calling a different function now which resolves the gearset id. This seems to be necessary for some older gearsets.",
+    "DownloadCount": 0,
+    "LastUpdate": 1720930087,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v25.1.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v25.1.2/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -36,7 +36,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Fixed: Quantities are now updated when an inventory change occurs.\n- Fixed: The text on the Queue and Recipe Tree tabs when no leve quest is accepted is no longer incorrect.",
-    "DownloadCount": 564,
+    "DownloadCount": 567,
     "LastUpdate": 1720742454,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.7/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.7/latest.zip"
