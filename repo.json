@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Portrait Helper\n\n- Fixed: A bug involving the gearset index that occurs when assigning gearset ids manually.\n- Fixed: A check that blocked the gear mismatch check from occuring in any other condition than just stading around, like sitting, has been changed to checking if the player is not moving between areas.\n\nSearch the markets\n\n- Added: Support for Gathering Log window.",
-    "DownloadCount": 0,
+    "DownloadCount": 1928,
     "LastUpdate": 1720972606,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v25.2.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v25.2.0/latest.zip"
@@ -36,7 +36,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Fixed: Quantities are now updated when an inventory change occurs.\n- Fixed: The text on the Queue and Recipe Tree tabs when no leve quest is accepted is no longer incorrect.",
-    "DownloadCount": 586,
+    "DownloadCount": 609,
     "LastUpdate": 1720742454,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.7/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.7/latest.zip"
