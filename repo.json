@@ -24,7 +24,7 @@
     "Author": "Haselnussbomber",
     "Name": "LeveHelper",
     "InternalName": "LeveHelper",
-    "AssemblyVersion": "2.1.7",
+    "AssemblyVersion": "2.1.8",
     "Description": "A little helper to check which Levequests have been completed and which are missing.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/LeveHelper",
@@ -35,11 +35,11 @@
     "LoadPriority": 0,
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
-    "Changelog": "- Fixed: Quantities are now updated when an inventory change occurs.\n- Fixed: The text on the Queue and Recipe Tree tabs when no leve quest is accepted is no longer incorrect.",
-    "DownloadCount": 611,
-    "LastUpdate": 1720742454,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.7/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.7/latest.zip"
+    "Changelog": "- Fixed: Ingredients for recipes that yield more than one item are now correctly calculated.",
+    "DownloadCount": 0,
+    "LastUpdate": 1721015310,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.8/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.8/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
