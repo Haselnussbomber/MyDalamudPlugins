@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "25.2.1",
+    "AssemblyVersion": "25.2.2",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "DTR\n\n- Changed: The configuration option to set the FPS unit was changed to a customizable format string. This allows to have text in front of it as well as being able to utilize the custom number formatting options C# provides. Configuration should migrate automatically.\n- Changed: Server Info Bar entries by HaselTweaks now show the plugin name in their tooltips.\n\nEnhanced Experience Bar\n\n- Changed: Tweak almost completely reworked internally. Updates should now be seamless.",
-    "DownloadCount": 1503,
-    "LastUpdate": 1721014712,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v25.2.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v25.2.1/latest.zip"
+    "Changelog": "Portrait Helper\n\n- Fixed: Portraits of gearsets without a glamour plate linked weren't automatically updated when the the gearset was updated.",
+    "DownloadCount": 0,
+    "LastUpdate": 1721077913,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v25.2.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v25.2.2/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -36,7 +36,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Fixed: Ingredients for recipes that yield more than one item are now correctly calculated.",
-    "DownloadCount": 236,
+    "DownloadCount": 404,
     "LastUpdate": 1721015310,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.8/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.8/latest.zip"
