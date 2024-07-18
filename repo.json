@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Enhanced Login/Logout\n\n- Fixed: The login queue territory preload option now correctly preloads the outside housing territory when you've logged out inside of a Company Workshop, the Apartment Lobby or an Apartment and now also supports Shirogane and Empyreum.",
-    "DownloadCount": 2954,
+    "DownloadCount": 3024,
     "LastUpdate": 1721227827,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v25.2.4/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v25.2.4/latest.zip"
@@ -24,7 +24,7 @@
     "Author": "Haselnussbomber",
     "Name": "LeveHelper",
     "InternalName": "LeveHelper",
-    "AssemblyVersion": "2.1.8",
+    "AssemblyVersion": "2.2.0",
     "Description": "A little helper to check which Levequests have been completed and which are missing.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/LeveHelper",
@@ -35,11 +35,11 @@
     "LoadPriority": 0,
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
-    "Changelog": "- Fixed: Ingredients for recipes that yield more than one item are now correctly calculated.",
-    "DownloadCount": 618,
-    "LastUpdate": 1721015310,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.8/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.8/latest.zip"
+    "Changelog": "- Added: A config option to show a button that lets you import a list of required items on TeamCraft (default off). It will be displayed under the Queue tab.\n- Fixed: Ingredients are now correctly calculated. For real this time. And also under the Recipe Tree tab. (Hopefully.)",
+    "DownloadCount": 0,
+    "LastUpdate": 1721309708,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.2.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.2.0/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
