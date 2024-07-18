@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Enhanced Login/Logout\n\n- Fixed: The login queue territory preload option now correctly preloads the outside housing territory when you've logged out inside of a Company Workshop, the Apartment Lobby or an Apartment and now also supports Shirogane and Empyreum.",
-    "DownloadCount": 0,
+    "DownloadCount": 2122,
     "LastUpdate": 1721227827,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v25.2.4/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v25.2.4/latest.zip"
@@ -36,7 +36,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Fixed: Ingredients for recipes that yield more than one item are now correctly calculated.",
-    "DownloadCount": 572,
+    "DownloadCount": 601,
     "LastUpdate": 1721015310,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.8/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.8/latest.zip"
