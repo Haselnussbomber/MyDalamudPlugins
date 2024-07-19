@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "DTR\n\n- Fixed: Instance not showing up again after switching to a zone without instances and switching back to a zone with the same Instance Id.\n\nSearch the markets\n\n- Fixed: The tweak incorrectly used Dalamuds language setting to search for the item instead of the clients language.\n- Fixed: It wasn't possible to search for items if they were high quality.",
-    "DownloadCount": 0,
+    "DownloadCount": 436,
     "LastUpdate": 1721379760,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v25.2.5/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v25.2.5/latest.zip"
@@ -24,7 +24,7 @@
     "Author": "Haselnussbomber",
     "Name": "LeveHelper",
     "InternalName": "LeveHelper",
-    "AssemblyVersion": "2.2.0",
+    "AssemblyVersion": "2.3.0",
     "Description": "A little helper to check which Levequests have been completed and which are missing.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/LeveHelper",
@@ -35,11 +35,11 @@
     "LoadPriority": 0,
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
-    "Changelog": "- Added: A config option to show a button that lets you import a list of required items on TeamCraft (default off). It will be displayed under the Queue tab.\n- Fixed: Ingredients are now correctly calculated. For real this time. And also under the Recipe Tree tab. (Hopefully.)",
-    "DownloadCount": 469,
-    "LastUpdate": 1721309708,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.2.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.2.0/latest.zip"
+    "Changelog": "- Added: Fishing leves now show the required fish in the Levequests tab.\n- Added: Spearfish are now listed in the Queue tab.",
+    "DownloadCount": 0,
+    "LastUpdate": 1721386799,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.3.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.3.0/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
