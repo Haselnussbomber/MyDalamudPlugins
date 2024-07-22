@@ -15,7 +15,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "DTR\n\n- Fixed: Instance not showing up again after switching to a zone without instances and switching back to a zone with the same Instance Id.\n\nSearch the markets\n\n- Fixed: The tweak incorrectly used Dalamuds language setting to search for the item instead of the clients language.\n- Fixed: It wasn't possible to search for items if they were high quality.",
-    "DownloadCount": 3645,
+    "DownloadCount": 3829,
     "LastUpdate": 1721379760,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v25.2.5/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v25.2.5/latest.zip"
@@ -36,7 +36,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: Fishing leves now show the required fish in the Levequests tab.\n- Added: Spearfish are now listed in the Queue tab.",
-    "DownloadCount": 586,
+    "DownloadCount": 621,
     "LastUpdate": 1721386799,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.3.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.3.0/latest.zip"
