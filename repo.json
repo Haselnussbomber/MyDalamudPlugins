@@ -14,8 +14,8 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Auto Sorter\n\n- Fixed: An issue where the `/isort` commands would use parameters based on the plugin language instead of the client language. (Yes, again. The language parameter got lost in a code rewrite.)\n\nCustom Chat Message Formats\n\n- Fixed: Tell (Incoming) and Tell (Outgoing) were swapped.\n\nDTR\n\n- Fixed: Instance not showing up again after disabling and re-enabling the tweak.",
-    "DownloadCount": 0,
+    "Changelog": "Auto Sorter\n\n- Fixed: An issue where the `/itemsort` commands would use parameters based on the plugin language instead of the client language. (Yes, again. The language parameter got lost in a code rewrite.)\n\nCustom Chat Message Formats\n\n- Fixed: Tell (Incoming) and Tell (Outgoing) were swapped.\n\nDTR\n\n- Fixed: Instance and FPS not showing up again after disabling and re-enabling the tweak.",
+    "DownloadCount": 330,
     "LastUpdate": 1722251815,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v25.2.6/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v25.2.6/latest.zip"
@@ -36,7 +36,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: Fishing leves now show the required fish in the Levequests tab.\n- Added: Spearfish are now listed in the Queue tab.",
-    "DownloadCount": 775,
+    "DownloadCount": 776,
     "LastUpdate": 1721386799,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.3.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.3.0/latest.zip"
