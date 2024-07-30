@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "25.2.6",
+    "AssemblyVersion": "25.2.7",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Auto Sorter\n\n- Fixed: An issue where the `/itemsort` commands would use parameters based on the plugin language instead of the client language. (Yes, again. The language parameter got lost in a code rewrite.)\n\nCustom Chat Message Formats\n\n- Fixed: Tell (Incoming) and Tell (Outgoing) were swapped.\n\nDTR\n\n- Fixed: Instance and FPS not showing up again after disabling and re-enabling the tweak.",
-    "DownloadCount": 2339,
-    "LastUpdate": 1722251815,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v25.2.6/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v25.2.6/latest.zip"
+    "Changelog": "Expert Deliveries\n\n- Fixed: Turning in an item would reset the item selection to the first entry. (This only affected controller users.)\n\nDTR\n\n- Fixed: A change in the fps format would not be reflected immediately.",
+    "DownloadCount": 0,
+    "LastUpdate": 1722304897,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v25.2.7/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v25.2.7/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
