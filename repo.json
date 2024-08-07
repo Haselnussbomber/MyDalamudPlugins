@@ -1,6 +1,27 @@
 [
   {
     "Author": "Haselnussbomber",
+    "Name": "HaselDebug",
+    "InternalName": "HaselDebug",
+    "AssemblyVersion": "1.0.0",
+    "Description": "For developers.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
+    "DalamudApiLevel": 10,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Various tools to debug things.",
+    "AcceptsFeedback": true,
+    "Changelog": "First release! \n\n[unreleased]: https://github.com/Haselnussbomber/HaselDebug/compare/main...dev\n[1.0.0]: https://github.com/Haselnussbomber/HaselDebug/commit/eb8a00af",
+    "DownloadCount": 0,
+    "LastUpdate": 1723055929,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.0.0/latest.zip"
+  },
+  {
+    "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
     "AssemblyVersion": "25.2.8",
@@ -15,7 +36,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Scrollable Tabs\n\n- Fixed: Fixed tabs not changing their enabled state in the Buddy window.",
-    "DownloadCount": 4398,
+    "DownloadCount": 4446,
     "LastUpdate": 1722622848,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v25.2.8/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v25.2.8/latest.zip"
@@ -36,7 +57,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: Fishing leves now show the required fish in the Levequests tab.\n- Added: Spearfish are now listed in the Queue tab.",
-    "DownloadCount": 875,
+    "DownloadCount": 877,
     "LastUpdate": 1721386799,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.3.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.3.0/latest.zip"
