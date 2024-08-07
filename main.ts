@@ -1,5 +1,6 @@
 const user = "Haselnussbomber";
 const repos = [
+  "HaselDebug",
   "HaselTweaks",
   "LeveHelper",
   "MogMogCheck",
