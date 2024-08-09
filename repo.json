@@ -24,7 +24,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "25.2.9",
+    "AssemblyVersion": "25.2.10",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -35,11 +35,11 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Commands\n\n- Fixed: /whatsbarding did not return the correct information. (I forgot to fix it after Dawntrail released, sorry!)",
+    "Changelog": "Commands\n\n- Fixed: /whatbarding did not return the correct color. (Sometimes you just miss something!)",
     "DownloadCount": 0,
-    "LastUpdate": 1723231807,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v25.2.9/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v25.2.9/latest.zip"
+    "LastUpdate": 1723232115,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v25.2.10/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v25.2.10/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
