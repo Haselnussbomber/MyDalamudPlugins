@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: A new configuration window was added.  \n  Accessible via the plugin installer, `/haseldebug config` or the cogwheel in the main window.  \n  Currently it only has a single setting to toggle the automatic opening of the main window when the plugin loads.\n- Added: GameObjects in the Object Table how have a context menu to toggle drawing.\n- Removed: The Lobby tab was removed as the current CharaSelect character is also listed in the Objects Table.",
-    "DownloadCount": 27,
+    "DownloadCount": 33,
     "LastUpdate": 1723376586,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.3.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.3.0/latest.zip"
@@ -36,7 +36,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Commands\n\n- Fixed: /whatbarding did not return the correct color. (Sometimes you just miss something!)",
-    "DownloadCount": 4106,
+    "DownloadCount": 4220,
     "LastUpdate": 1723232115,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v25.2.10/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v25.2.10/latest.zip"
@@ -57,7 +57,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: Fishing leves now show the required fish in the Levequests tab.\n- Added: Spearfish are now listed in the Queue tab.",
-    "DownloadCount": 941,
+    "DownloadCount": 943,
     "LastUpdate": 1721386799,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.3.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.3.0/latest.zip"
