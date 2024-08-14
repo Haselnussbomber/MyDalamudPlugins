@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: Instances and Agents are now pinnable.  \n  Right-clicking the TreeNode of an Instance or Agent gives an option to pin it to the sidebar. Agents must implement their own struct (AgentInterface is not pinnable).\n- Added: TreeNodes for Vector2, Vector3 and Vector4 fields now show the coordinates instead of type name.\n- Added: An Addon tab to search through texts from the Addon sheet (currently just playing around with it).\n- Added: A new SeString Inspector window (used in the Addon and Chat tab for now).\n- Added: SeString expressions now have a name, if known.\n- Added: Agents are now searchable (just the agents name).\n- Added: Instances are now searchable (just the type name).",
-    "DownloadCount": 0,
+    "DownloadCount": 7,
     "LastUpdate": 1723591620,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.4.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.4.0/latest.zip"
@@ -24,7 +24,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "25.2.10",
+    "AssemblyVersion": "25.2.11",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -35,11 +35,11 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Commands\n\n- Fixed: /whatbarding did not return the correct color. (Sometimes you just miss something!)",
-    "DownloadCount": 4575,
-    "LastUpdate": 1723232115,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v25.2.10/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v25.2.10/latest.zip"
+    "Changelog": "HaselTweaks\n\n- Fixed: The main plugin window did not stay docked after restarting the game. (This only affects people who enabled window docking in the Dalamud settings and had the window docked.)",
+    "DownloadCount": 0,
+    "LastUpdate": 1723598058,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v25.2.11/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v25.2.11/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -57,7 +57,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: Fishing leves now show the required fish in the Levequests tab.\n- Added: Spearfish are now listed in the Queue tab.",
-    "DownloadCount": 953,
+    "DownloadCount": 956,
     "LastUpdate": 1721386799,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.3.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.3.0/latest.zip"
