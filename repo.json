@@ -24,7 +24,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "26.0.0",
+    "AssemblyVersion": "26.0.1",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -35,11 +35,11 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "New Tweak: Disable Mount Tilt\n\nDisables leaning into turns during riding or flying.",
+    "Changelog": "Portrait Helper\n\n- Fixed: Updating the gearset caused the Gearset List to refresh and scroll to the top.  \n  Note: This is caused by a bug in ClientStructs (wrong return type of a function). If other plugins hook this too, my fix won't be effective and you have to wait for a Dalamud update.\n\nDTR\n\n- Known Issue: When the plugin is reloaded via Dalamuds auto-update feature, the DTR entries might not be re-created. This is a bug in Dalamud and is being worked on.",
     "DownloadCount": 0,
-    "LastUpdate": 1723906673,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v26.0.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v26.0.0/latest.zip"
+    "LastUpdate": 1723929717,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v26.0.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v26.0.1/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -57,7 +57,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: Fishing leves now show the required fish in the Levequests tab.\n- Added: Spearfish are now listed in the Queue tab.",
-    "DownloadCount": 996,
+    "DownloadCount": 997,
     "LastUpdate": 1721386799,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.3.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.3.0/latest.zip"
