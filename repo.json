@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Changed: Field names are now copyable.\n- Changed: TreeNodes are now disabled when the struct doesn't have any fields.\n- Changed: TreeNodes, tables and SeString Inspector windows no longer save ImGui settings (they kinda spammed the config).\n- Other: TextDecoder was updated to use Luminas SeStringBuilder instead of Utf8Strings. I noticed some names include payloads, which I want to preserve. The TextDecoder tab though extracts the text now, so no payloads are visible there.",
-    "DownloadCount": 35,
+    "DownloadCount": 36,
     "LastUpdate": 1723761148,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.4.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.4.1/latest.zip"
@@ -36,7 +36,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "HaselTweaks\n\n- Fixed: Chat commands were incorrectly registred for disabled tweaks.",
-    "DownloadCount": 0,
+    "DownloadCount": 415,
     "LastUpdate": 1723938377,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v26.0.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v26.0.2/latest.zip"
