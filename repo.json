@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselDebug",
     "InternalName": "HaselDebug",
-    "AssemblyVersion": "1.5.0",
+    "AssemblyVersion": "1.6.0",
     "Description": "For developers.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
-    "Changelog": "- Added: A LogMessage tab to search through texts from the LogMessage sheet (until a full Excel tab is implemented).\n- Added: A language selector to the right of the search bar in the Addon and LogMessage tabs.\n- Added: Holding shift while closing a SeString Inspector window will close all SeString Inspector windows.\n- Fixed: The context menu to popout a tab was visible even when the window was already open.",
-    "DownloadCount": 25,
-    "LastUpdate": 1724181025,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.5.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.5.0/latest.zip"
+    "Changelog": "- Added: The SeString Inspector window now has inputs for local parameters.  \n  These are automatically detected from what's in the string. If you find a string with incorrectly detected parameters please open an issue.\n- Added: The SeString evaluator now evaluates Digit, Head, HeadAll, JaNoun, EnNoun, DeNoun and FrNoun payloads.\n- Fixed: Strings from the Addon/LogMessage could not be opened in different languages.\n- Fixed: Evaluating gstr parameters would produce garbage.\n- Fixed: Evaluating Kilo payloads with a value of 0 would result in an empty string.\n- Fixed: Evaluating Sheet payloads with a numeric column would produce a string. It now produces a Num payload as a workaround for not being able to write integer expressions directly.",
+    "DownloadCount": 0,
+    "LastUpdate": 1724270964,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.6.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.6.0/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -36,7 +36,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Commands\n\n- Added: New command `/whatemote`  \n  Target a player and execute the command to see which emote your target is currently executing.\n- Fixed: `/whatbarding` used the wrong command description (when enabled, visible in the Plugin Installer).",
-    "DownloadCount": 2352,
+    "DownloadCount": 2822,
     "LastUpdate": 1724175912,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v26.1.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v26.1.0/latest.zip"
@@ -57,7 +57,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: Fishing leves now show the required fish in the Levequests tab.\n- Added: Spearfish are now listed in the Queue tab.",
-    "DownloadCount": 1025,
+    "DownloadCount": 1026,
     "LastUpdate": 1721386799,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.3.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.3.0/latest.zip"
