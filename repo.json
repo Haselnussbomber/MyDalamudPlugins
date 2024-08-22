@@ -14,8 +14,8 @@
     "LoadPriority": 0,
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
-    "Changelog": "- Added: The SeString Inspector window now has inputs for local parameters.  \n  These are automatically detected from what's in the string. If you find a string with incorrectly detected parameters please open an issue.\n- Added: The SeString evaluator now evaluates Digit, Head, HeadAll, JaNoun, EnNoun, DeNoun and FrNoun payloads.\n- Fixed: Strings from the Addon/LogMessage could not be opened in different languages.\n- Fixed: Evaluating gstr parameters would produce garbage.\n- Fixed: Evaluating Kilo payloads with a value of 0 would result in an empty string.\n- Fixed: Evaluating Sheet payloads with a numeric column would produce a string. It now produces a Num payload as a workaround for not being able to write integer expressions directly.",
-    "DownloadCount": 0,
+    "Changelog": "- Added: The SeString Inspector window now has inputs for local parameters.  \n  These are automatically detected from what's in the string. If you find a string with incorrectly detected parameters please open an issue.\n- Added: The SeString evaluator now evaluates Digit, Head, HeadAll, JaNoun, EnNoun, DeNoun and FrNoun payloads.\n- Fixed: Strings from the Addon/LogMessage tabs could not be opened in different languages.\n- Fixed: Evaluating gstr parameters would produce garbage.\n- Fixed: Evaluating Kilo payloads with a value of 0 would result in an empty string.\n- Fixed: Evaluating Sheet payloads with a numeric column would produce a string. It now produces a Num payload as a workaround for not being able to write an integer expression directly.",
+    "DownloadCount": 14,
     "LastUpdate": 1724270964,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.6.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.6.0/latest.zip"
@@ -36,7 +36,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Commands\n\n- Added: New command `/whatemote`  \n  Target a player and execute the command to see which emote your target is currently executing.\n- Fixed: `/whatbarding` used the wrong command description (when enabled, visible in the Plugin Installer).",
-    "DownloadCount": 2822,
+    "DownloadCount": 2996,
     "LastUpdate": 1724175912,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v26.1.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v26.1.0/latest.zip"
@@ -57,7 +57,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: Fishing leves now show the required fish in the Levequests tab.\n- Added: Spearfish are now listed in the Queue tab.",
-    "DownloadCount": 1026,
+    "DownloadCount": 1027,
     "LastUpdate": 1721386799,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.3.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.3.0/latest.zip"
