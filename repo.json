@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselDebug",
     "InternalName": "HaselDebug",
-    "AssemblyVersion": "1.6.0",
+    "AssemblyVersion": "1.6.1",
     "Description": "For developers.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
-    "Changelog": "- Added: The SeString Inspector window now has inputs for local parameters.  \n  These are automatically detected from what's in the string. If you find a string with incorrectly detected parameters please open an issue.\n- Added: The SeString evaluator now evaluates Digit, Head, HeadAll, JaNoun, EnNoun, DeNoun and FrNoun payloads.\n- Fixed: Strings from the Addon/LogMessage tabs could not be opened in different languages.\n- Fixed: Evaluating gstr parameters would produce garbage.\n- Fixed: Evaluating Kilo payloads with a value of 0 would result in an empty string.\n- Fixed: Evaluating Sheet payloads with a numeric column would produce a string. It now produces a Num payload as a workaround for not being able to write an integer expression directly.",
-    "DownloadCount": 23,
-    "LastUpdate": 1724270964,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.6.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.6.0/latest.zip"
+    "Changelog": "- Fixed: Some local parameters did not automatically detected, for example the condition in If payloads.",
+    "DownloadCount": 0,
+    "LastUpdate": 1724357213,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.6.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.6.1/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -36,7 +36,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Commands\n\n- Added: New command `/whatemote`  \n  Target a player and execute the command to see which emote your target is currently executing.\n- Fixed: `/whatbarding` used the wrong command description (when enabled, visible in the Plugin Installer).",
-    "DownloadCount": 3269,
+    "DownloadCount": 3444,
     "LastUpdate": 1724175912,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v26.1.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v26.1.0/latest.zip"
@@ -57,7 +57,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: Fishing leves now show the required fish in the Levequests tab.\n- Added: Spearfish are now listed in the Queue tab.",
-    "DownloadCount": 1028,
+    "DownloadCount": 1029,
     "LastUpdate": 1721386799,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.3.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.3.0/latest.zip"
@@ -79,7 +79,7 @@
     "Punchline": "Tracking assistant for Moogle Treasure Trove rewards",
     "AcceptsFeedback": true,
     "Changelog": "The target framework has been updated to .NET 8, some code has been adjusted to take advantage of the additions it brings, and the NoAlloq dependency was removed.\n\nNo further changes on the plugin itself.",
-    "DownloadCount": 810,
+    "DownloadCount": 811,
     "LastUpdate": 1710963433,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v2.2.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v2.2.1/latest.zip"
@@ -101,7 +101,7 @@
     "Punchline": "Tracking assistant for Yo-kai Watch rewards",
     "AcceptsFeedback": true,
     "Changelog": "- Added: The server info bar entry can not be clicked to open the plugin window.\n- Added: The server info bar entry now shows the locations in which you can farm the medals in the tooltip.\n- Added: In the table, the medal count of each weapon now also has a tooltip that shows the locations in which you can farm them. A location displayed in a green color is your current location.\n- Added: In the table, the minion name can now be clicked to summon it and will be shown in a green color when it is currently summoned.\n- Changed: The server info bar entry is now based on the currently summoned minion (previously it was based on inventory changes - the medals that were added) and will persist between zones until the minion is sent away or the weapon has been acquired.",
-    "DownloadCount": 874,
+    "DownloadCount": 875,
     "LastUpdate": 1714178614,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/YokaiCheck/releases/download/v1.2.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/YokaiCheck/releases/download/v1.2.0/latest.zip"
