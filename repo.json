@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Fixed: StdMap table column count was incorrect.",
-    "DownloadCount": 47,
+    "DownloadCount": 49,
     "LastUpdate": 1724441363,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.6.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.6.3/latest.zip"
@@ -36,7 +36,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Commands\n\n- Added: New command `/whatemote`  \n  Target a player and execute the command to see which emote your target is currently executing.\n- Fixed: `/whatbarding` used the wrong command description (when enabled, visible in the Plugin Installer).",
-    "DownloadCount": 4798,
+    "DownloadCount": 4807,
     "LastUpdate": 1724175912,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v26.1.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v26.1.0/latest.zip"
