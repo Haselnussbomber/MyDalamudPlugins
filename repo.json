@@ -36,7 +36,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "HaselTweaks\n\n- Fixed: When the plugin unloaded, some disabled tweaks ran code to reset states to default.\n\nGear Set Grid\n\n- Fixed: Missing icons for empty slots.",
-    "DownloadCount": 6482,
+    "DownloadCount": 6505,
     "LastUpdate": 1724858158,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v26.1.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v26.1.1/latest.zip"
