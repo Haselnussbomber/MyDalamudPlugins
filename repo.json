@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: EventFramework Task History (not very useful, but still better than nothing).\n- Updated: ClientStructs now at 81fb801",
-    "DownloadCount": 111,
+    "DownloadCount": 112,
     "LastUpdate": 1727485667,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.6.4/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.6.4/latest.zip"
@@ -36,7 +36,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "HaselTweaks\n\n- Fixed: When the plugin unloaded, some disabled tweaks ran code to reset states to default.\n\nGear Set Grid\n\n- Fixed: Missing icons for empty slots.",
-    "DownloadCount": 7483,
+    "DownloadCount": 7489,
     "LastUpdate": 1724858158,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v26.1.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v26.1.1/latest.zip"
@@ -66,11 +66,11 @@
     "Author": "Haselnussbomber",
     "Name": "MogMogCheck",
     "InternalName": "MogMogCheck",
-    "AssemblyVersion": "2.2.1",
+    "AssemblyVersion": "2.2.2",
     "Description": "MogMogCheck is a small plugin to assist you in tracking the rewards of the Moogle Treasure Trove event (called Mog Mog Kollektion in German, hence the name).",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/MogMogCheck",
-    "DalamudApiLevel": 9,
+    "DalamudApiLevel": 10,
     "LoadRequiredState": 1,
     "LoadSync": false,
     "CanUnloadAsync": true,
@@ -78,11 +78,11 @@
     "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/MogMogCheck/main/MogMogCheck/Assets/Icon.png",
     "Punchline": "Tracking assistant for Moogle Treasure Trove rewards",
     "AcceptsFeedback": true,
-    "Changelog": "The target framework has been updated to .NET 8, some code has been adjusted to take advantage of the additions it brings, and the NoAlloq dependency was removed.\n\nNo further changes on the plugin itself.",
-    "DownloadCount": 816,
-    "LastUpdate": 1710963433,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v2.2.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v2.2.1/latest.zip"
+    "Changelog": "Update for Dawntrail.",
+    "DownloadCount": 0,
+    "LastUpdate": 1728380581,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v2.2.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v2.2.2/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
