@@ -24,7 +24,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "27.0.0",
+    "AssemblyVersion": "27.0.1",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -35,11 +35,11 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "New Tweak: Shop Item Icons\n\nDisplays item icons instead of item category icons in shops.",
+    "Changelog": "Shop Item Icons\n\nSorry for the instant update, I forgot to remove a little note that the zone needs to be reloaded when changing the Shops option from early development.  \nThis is not the case in the released version. The shop windows just need to be reopened.",
     "DownloadCount": 0,
-    "LastUpdate": 1729629474,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v27.0.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v27.0.0/latest.zip"
+    "LastUpdate": 1729630193,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v27.0.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v27.0.1/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
