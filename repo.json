@@ -24,7 +24,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "27.0.1",
+    "AssemblyVersion": "27.0.2",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -35,11 +35,11 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Shop Item Icons\n\nSorry for the instant update, I forgot to remove a little note that the zone needs to be reloaded when changing the Shops option from early development.  \nThis is not the case in the released version. The shop windows just need to be reopened.",
-    "DownloadCount": 3654,
-    "LastUpdate": 1729630193,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v27.0.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v27.0.1/latest.zip"
+    "Changelog": "Shop Item Icons\n\n- Fixed: Incorrect icons were displayed for items in the Shops Buyback tab.",
+    "DownloadCount": 0,
+    "LastUpdate": 1729947479,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v27.0.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v27.0.2/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -57,7 +57,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: New Min and Max Level filter were added.",
-    "DownloadCount": 180,
+    "DownloadCount": 189,
     "LastUpdate": 1729904451,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.4.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.4.0/latest.zip"
