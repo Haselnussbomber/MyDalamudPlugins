@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: EventFramework Task History (not very useful, but still better than nothing).\n- Updated: ClientStructs now at 81fb801",
-    "DownloadCount": 161,
+    "DownloadCount": 163,
     "LastUpdate": 1727485667,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.6.4/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.6.4/latest.zip"
@@ -36,7 +36,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Shop Item Icons\n\nSorry for the instant update, I forgot to remove a little note that the zone needs to be reloaded when changing the Shops option from early development.  \nThis is not the case in the released version. The shop windows just need to be reopened.",
-    "DownloadCount": 3212,
+    "DownloadCount": 3464,
     "LastUpdate": 1729630193,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v27.0.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v27.0.1/latest.zip"
@@ -45,7 +45,7 @@
     "Author": "Haselnussbomber",
     "Name": "LeveHelper",
     "InternalName": "LeveHelper",
-    "AssemblyVersion": "2.3.0",
+    "AssemblyVersion": "2.4.0",
     "Description": "A little helper to check which Levequests have been completed and which are missing.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/LeveHelper",
@@ -56,11 +56,11 @@
     "LoadPriority": 0,
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
-    "Changelog": "- Added: Fishing leves now show the required fish in the Levequests tab.\n- Added: Spearfish are now listed in the Queue tab.",
-    "DownloadCount": 1389,
-    "LastUpdate": 1721386799,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.3.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.3.0/latest.zip"
+    "Changelog": "- Added: New Min and Max Level filter were added.",
+    "DownloadCount": 0,
+    "LastUpdate": 1729904451,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.4.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.4.0/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -79,7 +79,7 @@
     "Punchline": "Tracking assistant for Moogle Treasure Trove rewards",
     "AcceptsFeedback": true,
     "Changelog": "Update for Dawntrail.",
-    "DownloadCount": 526,
+    "DownloadCount": 530,
     "LastUpdate": 1728380581,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v2.2.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v2.2.2/latest.zip"
