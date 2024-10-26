@@ -36,7 +36,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Shop Item Icons\n\nSorry for the instant update, I forgot to remove a little note that the zone needs to be reloaded when changing the Shops option from early development.  \nThis is not the case in the released version. The shop windows just need to be reopened.",
-    "DownloadCount": 3464,
+    "DownloadCount": 3469,
     "LastUpdate": 1729630193,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v27.0.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v27.0.1/latest.zip"
@@ -57,7 +57,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: New Min and Max Level filter were added.",
-    "DownloadCount": 0,
+    "DownloadCount": 6,
     "LastUpdate": 1729904451,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.4.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.4.0/latest.zip"
