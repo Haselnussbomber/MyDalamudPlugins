@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: EventFramework Task History (not very useful, but still better than nothing).\n- Updated: ClientStructs now at 81fb801",
-    "DownloadCount": 175,
+    "DownloadCount": 176,
     "LastUpdate": 1727485667,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.6.4/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.6.4/latest.zip"
@@ -24,7 +24,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "27.0.2",
+    "AssemblyVersion": "27.0.3",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -35,11 +35,11 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Shop Item Icons\n\n- Fixed: Incorrect icons were displayed for items in the Shops Buyback tab.",
-    "DownloadCount": 3959,
-    "LastUpdate": 1729947479,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v27.0.2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v27.0.2/latest.zip"
+    "Changelog": "Shop Item Icons\n\n- **Fixed: Currencies, like Wolf Marks, were shown without icon, because the item id is 0 in the data that is sent to the shop window (which is also why there is no tooltip). The tweak cannot provide an icon for these items and will ignore them from now on, showing the original category icon.",
+    "DownloadCount": 0,
+    "LastUpdate": 1730241484,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v27.0.3/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v27.0.3/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -57,7 +57,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: New Min and Max Level filter were added.",
-    "DownloadCount": 585,
+    "DownloadCount": 603,
     "LastUpdate": 1729904451,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.4.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.4.0/latest.zip"
@@ -79,7 +79,7 @@
     "Punchline": "Tracking assistant for Moogle Treasure Trove rewards",
     "AcceptsFeedback": true,
     "Changelog": "Update for Dawntrail.",
-    "DownloadCount": 574,
+    "DownloadCount": 579,
     "LastUpdate": 1728380581,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v2.2.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v2.2.2/latest.zip"
