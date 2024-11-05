@@ -36,7 +36,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Shop Item Icons\n\n- Fixed: Currencies, like Wolf Marks, were shown without icon, because the item id is 0 in the data that is sent to the shop window (which is also why there is no tooltip). The tweak cannot provide an icon for these items and will ignore them from now on, showing the original category icon.",
-    "DownloadCount": 4674,
+    "DownloadCount": 4802,
     "LastUpdate": 1730241484,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v27.0.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v27.0.3/latest.zip"
@@ -57,7 +57,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: New Min and Max Level filter were added.",
-    "DownloadCount": 741,
+    "DownloadCount": 758,
     "LastUpdate": 1729904451,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.4.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.4.0/latest.zip"
@@ -79,7 +79,7 @@
     "Punchline": "Tracking assistant for Moogle Treasure Trove rewards",
     "AcceptsFeedback": true,
     "Changelog": "Update for Dawntrail.",
-    "DownloadCount": 632,
+    "DownloadCount": 635,
     "LastUpdate": 1728380581,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v2.2.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v2.2.2/latest.zip"
