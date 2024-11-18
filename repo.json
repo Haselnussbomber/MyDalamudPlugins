@@ -36,7 +36,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Preliminary update for 7.1 (Dalamud staging).\n\nNew Tweak: Outfit Glamour Try On\n\nI'm bad with names, I know, but this one adds a context menu entry to the items in the \"Outfit Glamour Creation\" window so you can try them on.\n\nRemoved Tweak: Disable Mount Tilt\n\nNo longer needed, because Tilt Configuration was added in Patch 7.1 (Character Configuration -> Control Settings -> Character tab).\n\nPortrait Helper\n\nDisabled the option \"Automatically update portrait\", because I simply don't have the headroom to reverse-engineer this right now. (This was the option for portraits not linked to gear sets.)",
-    "DownloadCount": 0,
+    "DownloadCount": 1304,
     "LastUpdate": 1731863421,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v28.0.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v28.0.0/latest.zip"
