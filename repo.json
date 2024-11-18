@@ -36,7 +36,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Portrait Helper\n\n- Fixed: Animation timeline in the Advanced Edit Mode would always reset when seeking backwards (offset fixes).",
-    "DownloadCount": 0,
+    "DownloadCount": 1138,
     "LastUpdate": 1731906696,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v28.0.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v28.0.1/latest.zip"
