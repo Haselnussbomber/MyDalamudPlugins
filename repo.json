@@ -36,7 +36,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Enhanced Login/Logout\n\n- Fixed: The tweak never actually checked if \"Preload territory when queued\" was enabled or not and would always preload the territory in queue.",
-    "DownloadCount": 0,
+    "DownloadCount": 1026,
     "LastUpdate": 1731962985,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v28.0.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v28.0.2/latest.zip"
