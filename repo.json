@@ -36,7 +36,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Updated ClientStructs for some AgentLobby offset fixes.\n\nEnhanced Login/Logout\n\n- Changed: As crash prevention, the tweak now hooks `AgentLobby.OpenLoginWaitDialog` only when \"Preload territory when queued\" is enabled.",
-    "DownloadCount": 0,
+    "DownloadCount": 1056,
     "LastUpdate": 1732047289,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v28.0.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v28.0.3/latest.zip"
