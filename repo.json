@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "Update for 7.1.\n\n- Added: Unknown Agents will show the Addon name in yellow, if they are active.\n- Added: Addon Inspector will now highlight the nodes on hover.\n- Fixed: StdList rendering was incorrect.",
-    "DownloadCount": 65,
+    "DownloadCount": 71,
     "LastUpdate": 1732067770,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.6.5/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.6.5/latest.zip"
@@ -24,7 +24,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "28.0.3",
+    "AssemblyVersion": "28.0.4",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -35,11 +35,11 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Updated ClientStructs for some AgentLobby offset fixes.\n\nEnhanced Login/Logout\n\n- Changed: As crash prevention, the tweak now hooks `AgentLobby.OpenLoginWaitDialog` only when \"Preload territory when queued\" is enabled.",
-    "DownloadCount": 4076,
-    "LastUpdate": 1732047289,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v28.0.3/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v28.0.3/latest.zip"
+    "Changelog": "Just some code cleanup and fixes.\n\nMarket Board Item Preview\n\n- Changed: Items that cannot be previewed due to race or sex restrictions are now ignored.",
+    "DownloadCount": 0,
+    "LastUpdate": 1732219309,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v28.0.4/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v28.0.4/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -57,7 +57,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Update for 7.1 (Dalamud API 11).",
-    "DownloadCount": 538,
+    "DownloadCount": 617,
     "LastUpdate": 1732119503,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.4.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.4.1/latest.zip"
