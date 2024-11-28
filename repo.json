@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: Housing tab, displaying some useless info.\n- Added: Unlock tab Aether Currents (Thanks @Scrxtchy; I allowed myself to enhance it a little^^).\n- Added: Unlock tab BuddyEquip.\n- Added: Support for excel Collection structs (like ItemStruct in SpecialShop).\n- Changed: Addon and LogMessage tabs have been consolidated into a new Excel tab.\n- Updated: SeString inspector will now draw the icon of Icon and Icon2 payloads.\n- Updated: Small changes to the header in the Addon Inspector. It will now show the agents using this addon, or the host addon.\n- Removed: Addons in the Addon Inspector can no longer be pinned to the sidebar.\n- Updated: ClientStructs now at e8b73d8f",
-    "DownloadCount": 12,
+    "DownloadCount": 41,
     "LastUpdate": 1732750316,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.7.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.7.0/latest.zip"
@@ -36,7 +36,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Enhanced Experience Bar\n\n- Fixed: The actual experience bar would only be a tenth long of what it was supposed to be.\n- Fixed: After teleporting out of a PvP area, the bar would remain in PvP bar mode.",
-    "DownloadCount": 4722,
+    "DownloadCount": 4877,
     "LastUpdate": 1732504302,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v28.0.5/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v28.0.5/latest.zip"
@@ -57,7 +57,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Update for 7.1 (Dalamud API 11).",
-    "DownloadCount": 829,
+    "DownloadCount": 833,
     "LastUpdate": 1732119503,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.4.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.4.1/latest.zip"
