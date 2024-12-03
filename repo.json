@@ -36,7 +36,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Enhanced Experience Bar\n\n- Fixed: The actual experience bar would only be a tenth long of what it was supposed to be.\n- Fixed: After teleporting out of a PvP area, the bar would remain in PvP bar mode.",
-    "DownloadCount": 5710,
+    "DownloadCount": 5757,
     "LastUpdate": 1732504302,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v28.0.5/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v28.0.5/latest.zip"
