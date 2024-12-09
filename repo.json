@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: More unlock tabs (Achievements, Glasses, Minions, Mounts, Orchestrion Rolls and Fashion Accessories).\n- Added: Config tab now shows all config options in a table.\n- Added: XML docs on ClientStructs fields are now shown in their tooltip. Fields that have docs are shown with an underline.\n- Added: Shift-clicking on offsets now copies the offset. (Clicking on offsets without shift still copies the entire address.)\n- Fixed: MainCommands tooltip no longer flickers on first show.\n- Updated: ClientStructs now at b3a25a18",
-    "DownloadCount": 73,
+    "DownloadCount": 75,
     "LastUpdate": 1733324356,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.8.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.8.0/latest.zip"
@@ -36,7 +36,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Enhanced Experience Bar\n\n- Fixed: The actual experience bar would only be a tenth long of what it was supposed to be.\n- Fixed: After teleporting out of a PvP area, the bar would remain in PvP bar mode.",
-    "DownloadCount": 6140,
+    "DownloadCount": 6174,
     "LastUpdate": 1732504302,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v28.0.5/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v28.0.5/latest.zip"
@@ -57,7 +57,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Update for 7.1 (Dalamud API 11).",
-    "DownloadCount": 932,
+    "DownloadCount": 934,
     "LastUpdate": 1732119503,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.4.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.4.1/latest.zip"
