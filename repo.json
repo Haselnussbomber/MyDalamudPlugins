@@ -24,7 +24,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "29.0.0",
+    "AssemblyVersion": "29.0.1",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -35,11 +35,11 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "New Tweak: Reduced Mouse Click Throttle\n\nReduces the throttling for the MouseClick event of the UI from 300ms to 100ms.",
-    "DownloadCount": 2996,
-    "LastUpdate": 1733771085,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v29.0.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v29.0.0/latest.zip"
+    "Changelog": "Shop Item Icons\n\n- Fixed: Wrong icons were displayed when the shop contained locked/hidden items (for example, on Allied Society vendors).",
+    "DownloadCount": 0,
+    "LastUpdate": 1733928412,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v29.0.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v29.0.1/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
