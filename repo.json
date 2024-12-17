@@ -24,7 +24,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "29.0.1",
+    "AssemblyVersion": "29.0.2",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -35,11 +35,11 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Shop Item Icons\n\n- Fixed: Wrong icons were displayed when the shop contained locked/hidden items (for example, on Allied Society vendors).",
-    "DownloadCount": 4379,
-    "LastUpdate": 1733928412,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v29.0.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v29.0.1/latest.zip"
+    "Changelog": "Preliminary update for Patch 7.15.\n\nScrollable Tabs\n\n- Fixed: It should no longer be possible to scroll into disabled tabs in the Currency window.",
+    "DownloadCount": 0,
+    "LastUpdate": 1734442764,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v29.0.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v29.0.2/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
