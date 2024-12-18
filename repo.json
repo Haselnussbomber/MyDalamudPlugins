@@ -24,7 +24,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "30.0.0",
+    "AssemblyVersion": "30.0.1",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -35,11 +35,11 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Renamed Tweak: Forced Cutscene Music -> Forced Cutscene Sounds\n\nNew configuration options allow you to unmute specific audio channels:\n\n- Master Volume (default on)\n- BGM (default on)\n- Sound Effects (default off)\n- Voice (default on)\n- Ambient Sounds (default on)\n- System Sounds (default off)\n- Performance (default off)\n\nTweak removed: Reduced Mouse Click Throttle\n\nThis tweak had the unfortunate side effect of preventing double-clicks, for example when selecting a gear set in the Gear Set List window.",
+    "Changelog": "Forced Cutscene Sounds\n\n- Changed: The default setting of \"Unmute Sound Effects\" is now on. I don't know why I thought of Chat sound effects, which are handled in System Sounds...\n- Fixed: The default setting of \"Unmute System Sounds\" should've been off, but was on...\n\nNot my day. Sorry.",
     "DownloadCount": 0,
-    "LastUpdate": 1734557379,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v30.0.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v30.0.0/latest.zip"
+    "LastUpdate": 1734557971,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v30.0.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v30.0.1/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
