@@ -36,7 +36,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Forced Cutscene Sounds\n\n- Changed: The default setting of \"Unmute Sound Effects\" is now on. I don't know why I thought of Chat sound effects, which are handled in System Sounds...\n- Fixed: The default setting of \"Unmute System Sounds\" should've been off, but was on...\n\nNot my day. Sorry.",
-    "DownloadCount": 860,
+    "DownloadCount": 1956,
     "LastUpdate": 1734557971,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v30.0.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v30.0.1/latest.zip"
@@ -57,7 +57,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Update for 7.1 (Dalamud API 11).",
-    "DownloadCount": 988,
+    "DownloadCount": 990,
     "LastUpdate": 1732119503,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.4.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.4.1/latest.zip"
