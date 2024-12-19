@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: More unlock tabs (Achievements, Glasses, Minions, Mounts, Orchestrion Rolls and Fashion Accessories).\n- Added: Config tab now shows all config options in a table.\n- Added: XML docs on ClientStructs fields are now shown in their tooltip. Fields that have docs are shown with an underline.\n- Added: Shift-clicking on offsets now copies the offset. (Clicking on offsets without shift still copies the entire address.)\n- Fixed: MainCommands tooltip no longer flickers on first show.\n- Updated: ClientStructs now at b3a25a18",
-    "DownloadCount": 106,
+    "DownloadCount": 110,
     "LastUpdate": 1733324356,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.8.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.8.0/latest.zip"
@@ -36,7 +36,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Forced Cutscene Sounds\n\n- Changed: The default setting of \"Unmute Sound Effects\" is now on. I don't know why I thought of Chat sound effects, which are handled in System Sounds...\n- Fixed: The default setting of \"Unmute System Sounds\" should've been off, but was on...\n\nNot my day. Sorry.",
-    "DownloadCount": 0,
+    "DownloadCount": 860,
     "LastUpdate": 1734557971,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v30.0.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v30.0.1/latest.zip"
@@ -57,7 +57,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Update for 7.1 (Dalamud API 11).",
-    "DownloadCount": 986,
+    "DownloadCount": 988,
     "LastUpdate": 1732119503,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.4.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.4.1/latest.zip"
