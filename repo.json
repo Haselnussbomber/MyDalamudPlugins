@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselDebug",
     "InternalName": "HaselDebug",
-    "AssemblyVersion": "1.8.0",
+    "AssemblyVersion": "1.9.0",
     "Description": "For developers.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
-    "Changelog": "- Added: More unlock tabs (Achievements, Glasses, Minions, Mounts, Orchestrion Rolls and Fashion Accessories).\n- Added: Config tab now shows all config options in a table.\n- Added: XML docs on ClientStructs fields are now shown in their tooltip. Fields that have docs are shown with an underline.\n- Added: Shift-clicking on offsets now copies the offset. (Clicking on offsets without shift still copies the entire address.)\n- Fixed: MainCommands tooltip no longer flickers on first show.\n- Updated: ClientStructs now at b3a25a18",
-    "DownloadCount": 113,
-    "LastUpdate": 1733324356,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.8.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.8.0/latest.zip"
+    "Changelog": "- Added: Unlock tabs Fish and Spearfish.\n- Updated: It's now possible to click on the NPC name in the Satisfaction Supply tab to teleport to the closest aetheryte.\n- Updated: Currency Manager tab got a little facelift.\n- Updated: Namespaces in xml docs are now truncated based on the parents namespace.\n- Fixed: A parsing issue with multiple c-tags on a single xml doc line.\n- Fixed: Hidden achievements displayed the description in the tooltip when the Hide Spoilers checkbox was enabled.\n- Updated: ClientStructs now at cc98a564",
+    "DownloadCount": 0,
+    "LastUpdate": 1734710505,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.9.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.9.0/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -36,7 +36,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Aether Current Helper\n\n- Fixed: Improved performance by caching excel lookups.",
-    "DownloadCount": 1997,
+    "DownloadCount": 2235,
     "LastUpdate": 1734633619,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v30.0.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v30.0.2/latest.zip"
@@ -57,7 +57,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Update for 7.1 (Dalamud API 11).",
-    "DownloadCount": 994,
+    "DownloadCount": 995,
     "LastUpdate": 1732119503,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.4.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.4.1/latest.zip"
