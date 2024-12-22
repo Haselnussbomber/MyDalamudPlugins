@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: Unlock tabs Fish and Spearfish.\n- Updated: It's now possible to click on the NPC name in the Satisfaction Supply tab to teleport to the closest aetheryte.\n- Updated: Currency Manager tab got a little facelift.\n- Updated: Namespaces in xml docs are now truncated based on the parents namespace.\n- Fixed: A parsing issue with multiple c-tags on a single xml doc line.\n- Fixed: Hidden achievements displayed the description in the tooltip when the Hide Spoilers checkbox was enabled.\n- Updated: ClientStructs now at cc98a564",
-    "DownloadCount": 57,
+    "DownloadCount": 60,
     "LastUpdate": 1734710505,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.9.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.9.0/latest.zip"
@@ -36,7 +36,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Aether Current Helper\n\n- Fixed: Improved performance by caching excel lookups.",
-    "DownloadCount": 3395,
+    "DownloadCount": 3608,
     "LastUpdate": 1734633619,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v30.0.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v30.0.2/latest.zip"
@@ -57,7 +57,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Update for 7.1 (Dalamud API 11).",
-    "DownloadCount": 1012,
+    "DownloadCount": 1015,
     "LastUpdate": 1732119503,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.4.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.4.1/latest.zip"
