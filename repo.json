@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselDebug",
     "InternalName": "HaselDebug",
-    "AssemblyVersion": "1.10.0",
+    "AssemblyVersion": "1.10.1",
     "Description": "For developers.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
-    "Changelog": "- Added: Unlock tabs Outfits.\n- Updated: A new context menu on all StdDeque, StdList, StdMap, StdVector nodes that allows to copy the address and to pop them out into a new window.\n- Updated: GameObjects and its subclasses, and ILayoutInstances in any struct (not only in the Object Table tab) now draw a line from the cursor to the 3D position.\n- Updated: Clicking on collected items in the unlock tabs Fashion Accessories, Minions and Mounts now summon them.\n- Updated: Unlock Links now supports entries from the BannerCondition (BannerBg, BannerFrame, BannerDecoration, BannerFacial, BannerTimeline), BuddyAction, CSBonusContentType, CharaMakeCustomize, CraftAction, MJILandmark, Perform, QuestAcceptAdditionCondition and Trait sheets.\n- Fixed: Inconsistencies in hiding achievement spoilers were hopefully fully fixed.\n- Fixed: An issue with the StdMap key size was solved by using a minimum size of 8 bytes (seen in LayoutManager.InstancesByType where the key is an enum with the underlying type byte).\n- Fixed: Removed soft hypens from MainCommands entries.\n- Fixed: The Orchestrion Rolls category icon was moved to the Category column.",
+    "Changelog": "Last update broke StdMap for many structs. This time it actually fetches the value offset directly instead of calculating where it could be based on the key type.",
     "DownloadCount": 0,
-    "LastUpdate": 1734903331,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.10.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.10.0/latest.zip"
+    "LastUpdate": 1734908448,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.10.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.10.1/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -36,7 +36,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Aether Current Helper\n\n- Fixed: Improved performance by caching excel lookups.",
-    "DownloadCount": 3762,
+    "DownloadCount": 3784,
     "LastUpdate": 1734633619,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v30.0.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v30.0.2/latest.zip"
