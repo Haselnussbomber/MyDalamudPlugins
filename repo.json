@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: New tab Addon Config.\n- Added: Support for StdSet.\n- Added: ILayoutInstance type redirect to SharedGroupLayoutInstance, when the type matches.\n- Updated: Instance Content Director tab now uses the correct struct type based on InstanceContentType or PublicContentDirectorType.\n- Fixed: A line to 3D positions is now also drawn for structs that inherit ILayoutInstance.\n- Fixed: Incorrect usage of Std* struct types.\n- Updated: ClientStructs now at f26035a (compare).",
-    "DownloadCount": 79,
+    "DownloadCount": 81,
     "LastUpdate": 1735483110,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.11.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.11.0/latest.zip"
@@ -36,7 +36,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Happy New Year! \n\nNew Tweak: Fast Mouse Click Fix\n\nI'm going to try a different method this time, as alternative to the Reduced Mouse Click Throttle tweak I had.\n\nThe problem is that the game doesn't fire events for single mouse clicks whenever a double click is detected.  \nSo instead of reducing the delay between clicks used for double click detection (which breaks them unless you're a really really fast clicker), this time the tweak will make the game always trigger the normal mouse click in addition to the double click.\n\nHopefully nothing breaks this time. ",
-    "DownloadCount": 0,
+    "DownloadCount": 1489,
     "LastUpdate": 1735827966,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v31.0.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v31.0.0/latest.zip"
@@ -57,7 +57,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Update for 7.1 (Dalamud API 11).",
-    "DownloadCount": 1078,
+    "DownloadCount": 1079,
     "LastUpdate": 1732119503,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.4.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.4.1/latest.zip"
