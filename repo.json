@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: An ImGui Main Menu button for /xldev to toggle the HaselDebug window.\n- Changed: The Unlocks tabs are now sub-categories in the sidebar.\n- Changed: In the EventFramework tab, the task history is now logged by hooking the AddTask function, instead of observing the Tasks vector.\n- Changed: In the Lua Debug tab, the types have been moved to the front and the TreeNodes now have the SpanAvailWidth flag.\n- Fixed: When searching Agents by name, the results couldn't be clicked on, because it would auto-select the first entry. This was removed, so it's now possible to select the agents.\n- Updated: ClientStructs now at f26035a (compare).",
-    "DownloadCount": 37,
+    "DownloadCount": 55,
     "LastUpdate": 1735920140,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.11.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.11.1/latest.zip"
@@ -36,7 +36,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Happy New Year! \n\nNew Tweak: Fast Mouse Click Fix\n\nI'm going to try a different method this time, as alternative to the Reduced Mouse Click Throttle tweak I had.\n\nThe problem is that the game doesn't fire events for single mouse clicks whenever a double click is detected.  \nSo instead of reducing the delay between clicks used for double click detection (which breaks them unless you're a really really fast clicker), this time the tweak will make the game always trigger the normal mouse click in addition to the double click.\n\nHopefully nothing breaks this time. ",
-    "DownloadCount": 2664,
+    "DownloadCount": 2914,
     "LastUpdate": 1735827966,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v31.0.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v31.0.0/latest.zip"
@@ -57,7 +57,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Update for 7.1 (Dalamud API 11).",
-    "DownloadCount": 1082,
+    "DownloadCount": 1085,
     "LastUpdate": 1732119503,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.4.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.4.1/latest.zip"
