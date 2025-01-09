@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: Excel tab now also has support for AddonTransient sheet.\n- Fixed: Info on Triple Triad Card tooltips didn't render correctly.",
-    "DownloadCount": 0,
+    "DownloadCount": 14,
     "LastUpdate": 1736375920,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.12.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.12.2/latest.zip"
@@ -36,7 +36,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Happy New Year! \n\nNew Tweak: Fast Mouse Click Fix\n\nI'm going to try a different method this time, as alternative to the Reduced Mouse Click Throttle tweak I had.\n\nThe problem is that the game doesn't fire events for single mouse clicks whenever a double click is detected.  \nSo instead of reducing the delay between clicks used for double click detection (which breaks them unless you're a really really fast clicker), this time the tweak will make the game always trigger the normal mouse click in addition to the double click.\n\nHopefully nothing breaks this time. ",
-    "DownloadCount": 4405,
+    "DownloadCount": 4426,
     "LastUpdate": 1735827966,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v31.0.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v31.0.0/latest.zip"
