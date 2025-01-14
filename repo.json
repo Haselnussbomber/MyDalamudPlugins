@@ -24,7 +24,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "31.0.0",
+    "AssemblyVersion": "32.0.0",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -35,11 +35,11 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Happy New Year! \n\nNew Tweak: Fast Mouse Click Fix\n\nI'm going to try a different method this time, as alternative to the Reduced Mouse Click Throttle tweak I had.\n\nThe problem is that the game doesn't fire events for single mouse clicks whenever a double click is detected.  \nSo instead of reducing the delay between clicks used for double click detection (which breaks them unless you're a really really fast clicker), this time the tweak will make the game always trigger the normal mouse click in addition to the double click.\n\nHopefully nothing breaks this time. ",
-    "DownloadCount": 5430,
-    "LastUpdate": 1735827966,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v31.0.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v31.0.0/latest.zip"
+    "Changelog": "New Tweak: Fix Inventory Open Tab\n\nAutomatically resets the inventory to the first tab when opened.",
+    "DownloadCount": 0,
+    "LastUpdate": 1736866508,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v32.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v32.0.0/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -57,7 +57,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Update for 7.1 (Dalamud API 11).",
-    "DownloadCount": 1148,
+    "DownloadCount": 1149,
     "LastUpdate": 1732119503,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.4.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.4.1/latest.zip"
