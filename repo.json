@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: Excel tab now also has support for AddonTransient sheet.\n- Fixed: Info on Triple Triad Card tooltips didn't render correctly.",
-    "DownloadCount": 106,
+    "DownloadCount": 109,
     "LastUpdate": 1736375920,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.12.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.12.2/latest.zip"
@@ -36,7 +36,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "HaselTweaks\n\n- Fixed: An exception \"Scene is not yet ready\" could've been thrown when the plugin loads.  \n  Explanation: To handle font scale changes, the plugin registered an event on the default Dalamud font, but because the plugin is loaded before ImGui might be ready the exception could be thrown. To resolve this the plugin now waits for the UI to be ready before registering the event.",
-    "DownloadCount": 0,
+    "DownloadCount": 1039,
     "LastUpdate": 1736970749,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v32.0.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v32.0.1/latest.zip"
