@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: Excel tab now also has support for AddonTransient sheet.\n- Fixed: Info on Triple Triad Card tooltips didn't render correctly.",
-    "DownloadCount": 114,
+    "DownloadCount": 115,
     "LastUpdate": 1736375920,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.12.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.12.2/latest.zip"
@@ -36,7 +36,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "HaselTweaks\n\n- Fixed: An exception \"Scene is not yet ready\" could've been thrown when the plugin loads.  \n  Explanation: To handle font scale changes, the plugin registered an event on the default Dalamud font, but because the plugin is loaded before ImGui might be ready the exception could be thrown. To resolve this the plugin now waits for the UI to be ready before registering the event.",
-    "DownloadCount": 2678,
+    "DownloadCount": 2980,
     "LastUpdate": 1736970749,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v32.0.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v32.0.1/latest.zip"
@@ -57,7 +57,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Update for 7.1 (Dalamud API 11).",
-    "DownloadCount": 1160,
+    "DownloadCount": 1162,
     "LastUpdate": 1732119503,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.4.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.4.1/latest.zip"
