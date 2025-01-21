@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Updated: Completely reworked all Unlock tables.\n  - Added nice looking tooltips for Items, EventItems, Quests, Triple Triad Cards and other things.\n  - Added a useless progress overview on the Unlock category itself.\n  - RowIds are now clickable and open the Row in a new window.\n  - Removed rewards from Quest table.\n- Added: A Target tab.\n- Added: GameObject type overrides based on their ObjectKind.\n- Added: CS Docs now support simple lists.\n- Changed: Reworked dependency injection by using Injectio.\n- Fixed: CS Docs are no longer displayed twice when the field is inherited.\n- Updated: ClientStructs now at 71e803c (compare).\n\nThere is probably some change that I forgot to list. :)",
-    "DownloadCount": 65,
+    "DownloadCount": 68,
     "LastUpdate": 1737235650,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.13.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.13.0/latest.zip"
@@ -24,7 +24,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "32.0.3",
+    "AssemblyVersion": "32.0.4",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -35,11 +35,11 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Okay, the fix in 32.0.1 didn't work. Now I changed my approach, so this should work once again.",
-    "DownloadCount": 3772,
-    "LastUpdate": 1737200486,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v32.0.3/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v32.0.3/latest.zip"
+    "Changelog": "Preliminary update for Patch 7.16.",
+    "DownloadCount": 0,
+    "LastUpdate": 1737460506,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v32.0.4/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v32.0.4/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -57,7 +57,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Update for 7.1 (Dalamud API 11).",
-    "DownloadCount": 1181,
+    "DownloadCount": 1182,
     "LastUpdate": 1732119503,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.4.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.4.1/latest.zip"
