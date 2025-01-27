@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselDebug",
     "InternalName": "HaselDebug",
-    "AssemblyVersion": "1.13.1",
+    "AssemblyVersion": "1.14.0",
     "Description": "For developers.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
-    "Changelog": "Update for Patch 7.16.\n\n- Changed: Replaced the plugins glamour dresser cache with the games glamour dresser cache from ItemFinderModule for the Outfits tab.\n- Updated: ClientStructs now at 8a31ad5 (compare).",
-    "DownloadCount": 95,
-    "LastUpdate": 1737546006,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.13.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.13.1/latest.zip"
+    "Changelog": "- Added: An Utf8String Sanitize tab to see which characters are filtered with which flags.\n- Added: StringMaker now has a Preview window, which uses my SeStringEvaluator and allows you to test local parameters, if there are any.\n- Added: StringMaker now has a Print Evaluated button, which prints the string that went through my SeStringEvaluator (as seen in the Preview window) instead of the games MacroEncoder/TextModule/PronounModule whatever.\n- Added: The SeStringEvaluator now supports Fixed macros, except for the auto-translate/completion feature (I will add that another time).\n- Changed: For now, the SeStringEvaluator will simply pass through NonBreakingSpace, Hyphen and SoftHyphen payloads instead of converting them to their Unicode counterparts. I might revisit this decision in the future.\n- Fixed: In the SeStringEvaluator. the Sheet macro will now correctly generate strings for numeric columns.\n- Fixed: In the SeStringEvaluator, sheet name redirects passed to the Sheet macro will now be resolved.\n- Fixed: In the SeStringEvaluator, LevelPos macros now use the language that was defined with the context.\n- Updated: SeStrings rendered with the DebugRenderer will now display names for expressions of Fixed macros.\n- Updated: ClientStructs now at 70ac7923 (compare).",
+    "DownloadCount": 0,
+    "LastUpdate": 1737966485,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.14.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.14.0/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -36,7 +36,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Preliminary update for Patch 7.16.",
-    "DownloadCount": 4604,
+    "DownloadCount": 4643,
     "LastUpdate": 1737460506,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v32.0.4/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v32.0.4/latest.zip"
