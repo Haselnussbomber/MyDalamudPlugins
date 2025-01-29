@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: An Utf8String Sanitize tab to see which characters are filtered with which flags.\n- Added: StringMaker now has a Preview window, which uses my SeStringEvaluator and allows you to test local parameters, if there are any.\n- Added: StringMaker now has a Print Evaluated button, which prints the string that went through my SeStringEvaluator (as seen in the Preview window) instead of the games MacroEncoder/TextModule/PronounModule whatever.\n- Added: The SeStringEvaluator now supports Fixed macros, except for the auto-translate/completion feature (I will add that another time).\n- Changed: For now, the SeStringEvaluator will simply pass through NonBreakingSpace, Hyphen and SoftHyphen payloads instead of converting them to their Unicode counterparts. I might revisit this decision in the future.\n- Removed: StringMaker no longer shows the output of each entry due to the addition of the preview window.\n- Fixed: In the SeStringEvaluator. the Sheet macro will now correctly generate strings for numeric columns.\n- Fixed: In the SeStringEvaluator, sheet name redirects passed to the Sheet macro will now be resolved.\n- Fixed: In the SeStringEvaluator, LevelPos macros now use the language that was defined with the context.\n- Updated: SeStrings rendered with the DebugRenderer will now display names for expressions of Fixed macros.\n- Updated: ClientStructs now at 70ac7923 (compare).",
-    "DownloadCount": 70,
+    "DownloadCount": 71,
     "LastUpdate": 1737966485,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.14.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.14.0/latest.zip"
@@ -36,7 +36,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Preliminary update for Patch 7.16.",
-    "DownloadCount": 4891,
+    "DownloadCount": 4942,
     "LastUpdate": 1737460506,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v32.0.4/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v32.0.4/latest.zip"
@@ -57,7 +57,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Update for 7.1 (Dalamud API 11).",
-    "DownloadCount": 1211,
+    "DownloadCount": 1212,
     "LastUpdate": 1732119503,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.4.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.4.1/latest.zip"
@@ -79,7 +79,7 @@
     "Punchline": "Tracking assistant for Moogle Treasure Trove rewards",
     "AcceptsFeedback": true,
     "Changelog": "Update for Dawntrail.",
-    "DownloadCount": 697,
+    "DownloadCount": 699,
     "LastUpdate": 1728380581,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v2.2.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v2.2.2/latest.zip"
