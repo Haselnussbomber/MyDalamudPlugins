@@ -24,7 +24,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "32.0.4",
+    "AssemblyVersion": "32.1.0",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -35,11 +35,11 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Preliminary update for Patch 7.16.",
-    "DownloadCount": 6189,
-    "LastUpdate": 1737460506,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v32.0.4/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v32.0.4/latest.zip"
+    "Changelog": "HaselTweaks\n\n- Mostly internal changes.\n- Positions of ImGui windows of this plugin will be reset. Sorry about that.\n- Fixed a possible deadlock caused by a hook when the plugin loaded.\n- No longer ships with the yoga layout engine, because isn't needed right now.\n\nPortrait Helper\n\nRe-enabled the option \"Automatically update portrait\".  \nTo make this work, the tweak will attempt to update the portrait after saving a gearset. If that didn't work it will show the Portrait Update Preview window as the game intended to do.",
+    "DownloadCount": 0,
+    "LastUpdate": 1739657135,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v32.1.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v32.1.0/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
