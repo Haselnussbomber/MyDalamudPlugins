@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: A Zone column was added to the Sightseeing Log table.\n- Added: A tooltip was added to the name column of the Sightseeing Log table.\n- Added: The SeString inspector window now also shows the payloads that are the result of evaluation by the SeStringEvaluator.\n- Added: The new StringPointer type in CS is now handled as SeString.\n- Changed: In the Utf8String Sanitize tab, the Unicode range has been moved to the front for better readability.\n- Fixed: Sheet macros have an optional fourth parameter that was treated as a required parameter by the SeStringEvaluator.\n- Fixed: Images in tooltips of the Quests, Tiple Triad Cards, and Sightseeing Log tables are now pre-loaded, so they don't flicker.\n- Updated: ClientStructs now at ee4144e0 (compare).",
-    "DownloadCount": 120,
+    "DownloadCount": 121,
     "LastUpdate": 1738236574,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.15.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.15.0/latest.zip"
@@ -24,7 +24,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "32.1.0",
+    "AssemblyVersion": "32.1.1",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -35,11 +35,11 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "HaselTweaks\n\n- Mostly internal changes.\n- Positions of ImGui windows of this plugin will be reset. Sorry about that.\n- Fixed a possible deadlock caused by a hook when the plugin loaded.\n- No longer ships with the yoga layout engine, because isn't needed right now.\n\nPortrait Helper\n\nRe-enabled the option \"Automatically update portrait\".  \nTo make this work, the tweak will attempt to update the portrait after saving a gearset. If that didn't work it will show the Portrait Update Preview window as the game intended to do.",
-    "DownloadCount": 1549,
-    "LastUpdate": 1739657135,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v32.1.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v32.1.0/latest.zip"
+    "Changelog": "HaselTweaks\n\n- Fixed: ImGui window positions of this plugin should no longer reset every game session. Noob mistake to think C# would work correctly. Sorry about that.",
+    "DownloadCount": 0,
+    "LastUpdate": 1739724221,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v32.1.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v32.1.1/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -79,7 +79,7 @@
     "Punchline": "Tracking assistant for Moogle Treasure Trove rewards",
     "AcceptsFeedback": true,
     "Changelog": "Update for Dawntrail.",
-    "DownloadCount": 702,
+    "DownloadCount": 703,
     "LastUpdate": 1728380581,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v2.2.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v2.2.2/latest.zip"
