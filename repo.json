@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: A Zone column was added to the Sightseeing Log table.\n- Added: A tooltip was added to the name column of the Sightseeing Log table.\n- Added: The SeString inspector window now also shows the payloads that are the result of evaluation by the SeStringEvaluator.\n- Added: The new StringPointer type in CS is now handled as SeString.\n- Changed: In the Utf8String Sanitize tab, the Unicode range has been moved to the front for better readability.\n- Fixed: Sheet macros have an optional fourth parameter that was treated as a required parameter by the SeStringEvaluator.\n- Fixed: Images in tooltips of the Quests, Tiple Triad Cards, and Sightseeing Log tables are now pre-loaded, so they don't flicker.\n- Updated: ClientStructs now at ee4144e0 (compare).",
-    "DownloadCount": 121,
+    "DownloadCount": 124,
     "LastUpdate": 1738236574,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.15.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.15.0/latest.zip"
@@ -36,7 +36,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "HaselTweaks\n\n- Fixed: ImGui window positions of this plugin should no longer reset every game session. Noob mistake to think C# would work correctly. Sorry about that.",
-    "DownloadCount": 0,
+    "DownloadCount": 1226,
     "LastUpdate": 1739724221,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v32.1.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v32.1.1/latest.zip"
@@ -57,7 +57,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Update for 7.1 (Dalamud API 11).",
-    "DownloadCount": 1285,
+    "DownloadCount": 1288,
     "LastUpdate": 1732119503,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.4.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.4.1/latest.zip"
@@ -79,7 +79,7 @@
     "Punchline": "Tracking assistant for Moogle Treasure Trove rewards",
     "AcceptsFeedback": true,
     "Changelog": "Update for Dawntrail.",
-    "DownloadCount": 703,
+    "DownloadCount": 704,
     "LastUpdate": 1728380581,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v2.2.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v2.2.2/latest.zip"
