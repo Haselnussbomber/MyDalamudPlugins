@@ -36,7 +36,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "HaselTweaks\n\n- Fixed: ImGui window positions of this plugin should no longer reset every game session. Noob mistake to think C# would work correctly. Sorry about that.",
-    "DownloadCount": 2836,
+    "DownloadCount": 2866,
     "LastUpdate": 1739724221,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v32.1.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v32.1.1/latest.zip"
@@ -45,7 +45,7 @@
     "Author": "Haselnussbomber",
     "Name": "LeveHelper",
     "InternalName": "LeveHelper",
-    "AssemblyVersion": "2.4.1",
+    "AssemblyVersion": "2.5.0",
     "Description": "A little helper to check which Levequests have been completed and which are missing.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/LeveHelper",
@@ -56,11 +56,11 @@
     "LoadPriority": 0,
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
-    "Changelog": "Update for 7.1 (Dalamud API 11).",
-    "DownloadCount": 1293,
-    "LastUpdate": 1732119503,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.4.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.4.1/latest.zip"
+    "Changelog": "Modernized the plugins code and reworked the Levequests table.\n\n- Uses a slightly edited version of Dalamuds Table class.\n  - Filters are now part of the column headers.\n  - For better performance, only visible rows are now rendered. Because of the technical limitation that all rows need to be the same height, the items under the levequest names had to be removed.\n- The Location column has been removed, because it is now displayed next to the levemetes name. If you're in the zone, it appears as normal white text - otherwise the zone name is grayed out.\n- Added new Status filters: Started, Failed, and Ready for Turn In.",
+    "DownloadCount": 0,
+    "LastUpdate": 1739884633,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.0/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
