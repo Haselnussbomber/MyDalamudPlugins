@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: An Addon Names tab that lists addon names used by the `RaptureAtkModule.OpenAddon` function.\n- Added: A Territory Intended Use tab to debug the enum I added to my HaselCommon lib.\n- Added: EventHandler type redirects based on the ContentId for:\n  - QuestEventHandler\n  - GatheringPointEventHandler\n  - ShopEventHandler\n  - AetheryteEventHandler\n  - CraftEventHandler\n  - CustomTalkEventHandler\n  - InstanceContentDirector\n    - InstanceContentDeepDungeon\n    - InstanceContentOceanFishing\n  - PublicContentDirector\n    - PublicContentBozja\n    - PublicContentEureka\n  - GoldSaucerDirector\n- Added: Rapture Text Module: A new Icon2 Mapping tab, which displays the Icon2 macros remapped icons based on the controller button mappings.\n- Updated: Rapture Text Module: Added some more global parameters.\n- Updated: SeStringEvaluator now supports MacroCodes LowerHead, Lower, PcName, IfPcGender, IfPcName and IfSelf. Icon2 now respects controller button mappings.\n- Updated: ClientStructs now at 1c32fa48 (compare).",
-    "DownloadCount": 63,
+    "DownloadCount": 68,
     "LastUpdate": 1739886168,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.16.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.16.0/latest.zip"
@@ -36,7 +36,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "HaselTweaks\n\n- Fixed: ImGui window positions of this plugin should no longer reset every game session. Noob mistake to think C# would work correctly. Sorry about that.",
-    "DownloadCount": 3356,
+    "DownloadCount": 3455,
     "LastUpdate": 1739724221,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v32.1.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v32.1.1/latest.zip"
@@ -57,7 +57,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Modernized the plugins code and reworked the Levequests table.\n\n- Uses a slightly edited version of Dalamuds Table class.\n  - Filters are now part of the column headers.\n  - For better performance, only visible rows are now rendered. Because of the technical limitation that all rows need to be the same height, the items under the levequest names had to be removed.\n- The Location column has been removed, because it is now displayed next to the levemetes name. If you're in the zone, it appears as normal white text - otherwise the zone name is grayed out.\n- Added new Status filters: Started, Failed, and Ready for Turn In.",
-    "DownloadCount": 332,
+    "DownloadCount": 364,
     "LastUpdate": 1739884633,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.0/latest.zip"
@@ -66,11 +66,11 @@
     "Author": "Haselnussbomber",
     "Name": "MogMogCheck",
     "InternalName": "MogMogCheck",
-    "AssemblyVersion": "2.2.2",
+    "AssemblyVersion": "3.0.0",
     "Description": "MogMogCheck is a small plugin to assist you in tracking the rewards of the Moogle Treasure Trove event (called Mog Mog Kollektion in German, hence the name).",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/MogMogCheck",
-    "DalamudApiLevel": 10,
+    "DalamudApiLevel": 11,
     "LoadRequiredState": 1,
     "LoadSync": false,
     "CanUnloadAsync": true,
@@ -78,11 +78,11 @@
     "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/MogMogCheck/main/MogMogCheck/Assets/Icon.png",
     "Punchline": "Tracking assistant for Moogle Treasure Trove rewards",
     "AcceptsFeedback": true,
-    "Changelog": "Update for Dawntrail.",
-    "DownloadCount": 704,
-    "LastUpdate": 1728380581,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v2.2.2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v2.2.2/latest.zip"
+    "Changelog": "Complete rework of the plugin.\n\nPlease note that the game does not yet include shop data for the Hunt for Phantasmagoria, so the plugin can't display it yet.",
+    "DownloadCount": 0,
+    "LastUpdate": 1739989428,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v3.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v3.0.0/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
