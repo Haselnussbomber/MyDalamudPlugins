@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: Rapture Text Module/Definitions: The address of the decoder function was added, including the address of the resolved vfunc (since they are just small functions that jump to there).\n- Updated: Rapture Text Module/Definitions: The table is now sorted by macro code id.\n- Updated: SeStringEvaluator now supports Ordinal and Split macros.\n- Changed: SeStringEvaluator now passes through payloads that were not evaluated.\n- Changed: Lots of code was rewritten to use the Injectio and AutoCtor generators.\n- Fixed: Rapture Text Module/Definitions: The parameter columns were shifted because of a leftover `ImGui.TableNextColumn` call.\n- Fixed: Unlocks: The unlock progress for Emotes was incorrectly using the \"Can use\" state.\n- Removed: The plugin no longer depends on the Yoga layout engine, therefore the Unlocks overview is now a boring table and the Triple Triad Card preview in the tooltip was also replaced with \"normal\" ImGui code.",
-    "DownloadCount": 33,
+    "DownloadCount": 42,
     "LastUpdate": 1740321361,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.17.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.17.0/latest.zip"
@@ -36,7 +36,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "HaselTweaks\n\n- Fixed: ImGui window positions of this plugin should no longer reset every game session. Noob mistake to think C# would work correctly. Sorry about that.",
-    "DownloadCount": 4925,
+    "DownloadCount": 4981,
     "LastUpdate": 1739724221,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v32.1.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v32.1.1/latest.zip"
@@ -57,7 +57,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Fixed: An incorrect EventHandlerType check for battle leves, which would spam errors in the log (for example, when in the Firmament).",
-    "DownloadCount": 0,
+    "DownloadCount": 144,
     "LastUpdate": 1740342609,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.1/latest.zip"
@@ -79,7 +79,7 @@
     "Punchline": "Tracking assistant for Moogle Treasure Trove rewards",
     "AcceptsFeedback": false,
     "Changelog": "- Fixed: When \"Enable sound effects for plugin windows\" is enabled in Dalamud, the window open sound effect would play twice - for the MogMogCheck window and the Mogpendium.\n- Fixed: A potential issue when drawing icons for high quality items.",
-    "DownloadCount": 296,
+    "DownloadCount": 307,
     "LastUpdate": 1740063102,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v3.0.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v3.0.1/latest.zip"
