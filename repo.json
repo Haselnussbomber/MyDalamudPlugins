@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: A very simple Special Shops tab to explore the sheet.\n- Updated: ClientStructs now at 4a727b4 (compare).",
-    "DownloadCount": 117,
+    "DownloadCount": 119,
     "LastUpdate": 1740485477,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.18.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.18.0/latest.zip"
@@ -36,7 +36,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "HaselTweaks\n\n- Fixed: ImGui window positions of this plugin should no longer reset every game session. Sorry about that.",
-    "DownloadCount": 6102,
+    "DownloadCount": 6133,
     "LastUpdate": 1739724221,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v32.1.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v32.1.1/latest.zip"
@@ -57,7 +57,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Fixed: An incorrect EventHandlerType check for battle leves, which would spam errors in the log (for example, when in the Firmament).",
-    "DownloadCount": 748,
+    "DownloadCount": 755,
     "LastUpdate": 1740342609,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.1/latest.zip"
