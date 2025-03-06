@@ -3,7 +3,6 @@ const repos = [
   "HaselDebug",
   "HaselTweaks",
   "LeveHelper",
-  "MogMogCheck",
   "YokaiCheck",
 ];
 
