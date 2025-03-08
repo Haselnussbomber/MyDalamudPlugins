@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Updated: Added expression names for macro codes Num, String, Caps, Split, LevelPos.\n- Fixed: NounProcessor tab didn't initialize.",
-    "DownloadCount": 67,
+    "DownloadCount": 69,
     "LastUpdate": 1741306414,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.18.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.18.2/latest.zip"
@@ -24,7 +24,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "32.1.1",
+    "AssemblyVersion": "33.0.0",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -33,13 +33,14 @@
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/HaselTweaks/refs/heads/dev/HaselTweaks/Assets/Icon.png",
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "HaselTweaks\n\n- Fixed: ImGui window positions of this plugin should no longer reset every game session. Sorry about that.",
-    "DownloadCount": 6416,
-    "LastUpdate": 1739724221,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v32.1.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v32.1.1/latest.zip"
+    "Changelog": "New Tweak: Enhanced Target Info\n\nYou guessed it, it enhances the target info.\n\nCurrent options:\n\n- Display Mounted status (default off): The tooltip shows the name of the mount and the unlock status.\n- Display Fashion Accessory status (default off): The tooltip shows the name of the fashion accessory and the unlock status.\n- Remove leading zero in HP under 10% (default off): For example, instead of 06.7%, 6.7% will be displayed. The format depends on the client language, not on the language set in Dalamud.",
+    "DownloadCount": 0,
+    "LastUpdate": 1741452616,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v33.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v33.0.0/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
