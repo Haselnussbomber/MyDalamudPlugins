@@ -8,7 +8,11 @@ Note: Download counts are reset with each new release.
 
 ## Available Plugins
 
-- [HaselTweaks](https://github.com/Haselnussbomber/HaselTweaks)
-- [LeveHelper](https://github.com/Haselnussbomber/LeveHelper)
-- [MogMogCheck](https://github.com/Haselnussbomber/MogMogCheck)
-- [YokaiCheck](https://github.com/Haselnussbomber/YokaiCheck)
+- [HaselTweaks](https://github.com/Haselnussbomber/HaselTweaks) - A collection of quality of life tweaks and more.
+- [LeveHelper](https://github.com/Haselnussbomber/LeveHelper) - A little helper for Levequests.
+- [YokaiCheck](https://github.com/Haselnussbomber/YokaiCheck) - Tracking assistant for Yo-kai Watch rewards
+- [HaselDebug](https://github.com/Haselnussbomber/HaselDebug) - For developers, various tools to debug things.
+
+## Plugins moved to Dalamuds Main Repository
+
+- [MogMogCheck](https://github.com/Haselnussbomber/MogMogCheck) - Tracking assistant for Moogle Treasure Trove rewards.
