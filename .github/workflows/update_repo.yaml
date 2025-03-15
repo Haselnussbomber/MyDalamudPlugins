@@ -21,19 +21,17 @@ jobs:
       - name: Update Repo
         run: deno run --allow-net=api.github.com,github.com,objects.githubusercontent.com --allow-write=repo.json main.ts
 
-      - name: Verify Changed files
-        uses: tj-actions/verify-changed-files@v13
-        id: verify-changed-files
-        with:
-          files: repo.json
+      - name: Check for changes
+        id: verify-repo-changed
+        run: echo "changed=$(git diff --name-only repo.json | grep -q . && echo true || echo false)" >> $GITHUB_OUTPUT
 
       - name: Commit files
-        if: steps.verify-changed-files.outputs.files_changed == 'true'
+        if: steps.verify-repo-changed.outputs.changed == 'true'
         uses: EndBug/add-and-commit@v9
         with:
           message: Update Repo
           default_author: github_actions
 
       - name: Push changes
-        if: steps.verify-changed-files.outputs.files_changed == 'true'
+        if: steps.verify-repo-changed.outputs.changed == 'true'
         uses: ad-m/github-push-action@master
