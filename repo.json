@@ -24,7 +24,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "33.0.0",
+    "AssemblyVersion": "33.0.1",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -36,11 +36,11 @@
     "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/HaselTweaks/refs/heads/dev/HaselTweaks/Assets/Icon.png",
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "HaselTweaks\n\nI thought it was time for a bit of a new thing, so HaselTweaks now has a new logo and for the first time ever an icon!! :D\n\nNew Tweak: Enhanced Target Info\n\nYou guessed it, it enhances the target info.\n\nCurrent options:\n\n- Display Mounted status (default off): The tooltip shows the name of the mount and the unlock status.\n- Display Fashion Accessory status (default off): The tooltip shows the name of the fashion accessory and the unlock status.\n- Remove leading zero in HP under 10% (default off): For example, instead of 06.7%, 6.7% will be displayed. The format depends on the client language, not on the language set in Dalamud.",
-    "DownloadCount": 5032,
-    "LastUpdate": 1741452616,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v33.0.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v33.0.0/latest.zip"
+    "Changelog": "Glamour Dresser Armoire Alert\n\n- Fixed: The window wouldn't open when items were detected. My bad.",
+    "DownloadCount": 0,
+    "LastUpdate": 1742220668,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v33.0.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v33.0.1/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -58,7 +58,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Fixed: An incorrect EventHandlerType check for battle leves, which would spam errors in the log (for example, when in the Firmament).",
-    "DownloadCount": 921,
+    "DownloadCount": 924,
     "LastUpdate": 1740342609,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.1/latest.zip"
