@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: An AtkEvents tab for global events, excluding MouseMove, MouseOver, MouseOut, FocusStart, FocusStop, WindowRollOver, WindowRollOut, TimerTick, 74 and 79 to avoid spam.\n- Added: The Excel tab now features the LogKind sheet.\n- Added: SeString inspector now shows the name of the Item, Quest, Achievement, HowTo, Status, and AkatsukiNote that was linked in the Link payload.\n- Added: The Shop tab now displays the used AtkComponentList struct.\n- Changed internally: The Excel tab was rewritten, so that things can be reused.\n- Updated: SeStringEvaluator is now reflecting the state of my Dalamud PR, correctly handling Sheet redirects.\n- Updated: ClientStructs now at 4d473c7 (compare), which is my PR 1322 based on the `7.2_prep` branch.",
-    "DownloadCount": 0,
+    "DownloadCount": 2,
     "LastUpdate": 1742221226,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.19.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.19.0/latest.zip"
@@ -24,7 +24,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "33.0.1",
+    "AssemblyVersion": "33.0.2",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -36,11 +36,11 @@
     "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/HaselTweaks/refs/heads/dev/HaselTweaks/Assets/Icon.png",
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Glamour Dresser Armoire Alert\n\n- Fixed: The window wouldn't open when items were detected. My bad.",
+    "Changelog": "Glamour Dresser Armoire Alert\n\n- Fixed: It was only possible to withdraw the first item due to an ImGui id conflict.",
     "DownloadCount": 0,
-    "LastUpdate": 1742220668,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v33.0.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v33.0.1/latest.zip"
+    "LastUpdate": 1742223238,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v33.0.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v33.0.2/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
