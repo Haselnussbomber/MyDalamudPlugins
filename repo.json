@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "First update for Patch 7.2.\n\n- Added: A work in progress Excel (v2) tab, which is based on Lumina.Excel properties.\n- Added: Support for IconId arrays in the struct renderer.\n- Removed: Noun Processor and Sheet Redirect Test tabs were removed, because the SeStringEvaluator is now part of Dalamud and therefore I removed those services.\n- Fixed: HouseIds in the Housing tab are now correctly displayed as structs.",
-    "DownloadCount": 101,
+    "DownloadCount": 103,
     "LastUpdate": 1742957413,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.20.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.20.0/latest.zip"
@@ -37,7 +37,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Bigger Item Dyeing Preview\n\n- Fixed: Nodes were out of place and a button was hiding behind the preview.",
-    "DownloadCount": 0,
+    "DownloadCount": 161,
     "LastUpdate": 1743210880,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v34.0.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v34.0.3/latest.zip"
@@ -59,7 +59,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Update for 7.2 (Dalamud API 12).",
-    "DownloadCount": 521,
+    "DownloadCount": 530,
     "LastUpdate": 1743022643,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.2/latest.zip"
