@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: Node ID is now shown in the Node List in the Addon Inspector.\n- Added: Right clicking the Columns button in Excel (v2) now clears all columns (except for RowId/SubrowId).\n- Fixed: Enums with FlagsAttribute displayed incorrect values.\n- Updated: ClientStructs now at a625ce4d (compare).",
-    "DownloadCount": 71,
+    "DownloadCount": 92,
     "LastUpdate": 1743363096,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.20.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.20.1/latest.zip"
@@ -37,7 +37,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Bigger Item Dyeing Preview\n\n- Fixed: Nodes were out of place and a button was hiding behind the preview.",
-    "DownloadCount": 4884,
+    "DownloadCount": 5016,
     "LastUpdate": 1743210880,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v34.0.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v34.0.3/latest.zip"
@@ -59,7 +59,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Fixed: Zones for Spearfishing spots in the Queue tab were incorrectly resolved.",
-    "DownloadCount": 527,
+    "DownloadCount": 607,
     "LastUpdate": 1743336876,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.3/latest.zip"
