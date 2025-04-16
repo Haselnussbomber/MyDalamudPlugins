@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: Holding shift in Unlock Links -> Titles now shows the english version of the titles.\n- Added: Added Radius to the Agent Map Event Markers table.\n- Updated: Excel v2 now has a better preview for column values.\n- Fixed: Agent Map Event Markers table broke when the icon wasn't found.\n- Fixed: Added the missing GameObject -> Companion type redirect.\n- Fixed: Object Table tab now sorts by index.\n- Updated: ClientStructs now at 4ae9f561 (compare).",
-    "DownloadCount": 103,
+    "DownloadCount": 104,
     "LastUpdate": 1744550394,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.21.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.21.0/latest.zip"
@@ -37,7 +37,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Custom Chat Message Formats\n\n- Fixed: Color picker was unusable.\n- Fixed: Enabling or disabling an entry would not immediately apply the change.",
-    "DownloadCount": 4937,
+    "DownloadCount": 5040,
     "LastUpdate": 1744331350,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v34.0.6/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v34.0.6/latest.zip"
@@ -59,7 +59,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Fixed: Zones for Spearfishing spots in the Queue tab were incorrectly resolved.",
-    "DownloadCount": 972,
+    "DownloadCount": 976,
     "LastUpdate": 1743336876,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.3/latest.zip"
