@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: Holding shift in Unlock Links -> Titles now shows the english version of the titles.\n- Added: Added Radius to the Agent Map Event Markers table.\n- Updated: Excel v2 now has a better preview for column values.\n- Fixed: Agent Map Event Markers table broke when the icon wasn't found.\n- Fixed: Added the missing GameObject -> Companion type redirect.\n- Fixed: Object Table tab now sorts by index.\n- Updated: ClientStructs now at 4ae9f561 (compare).",
-    "DownloadCount": 146,
+    "DownloadCount": 147,
     "LastUpdate": 1744550394,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.21.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.21.0/latest.zip"
@@ -24,7 +24,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "34.0.6",
+    "AssemblyVersion": "34.1.0",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -36,11 +36,11 @@
     "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/HaselTweaks/refs/heads/dev/HaselTweaks/Assets/Icon.png",
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Custom Chat Message Formats\n\n- Fixed: Color picker was unusable.\n- Fixed: Enabling or disabling an entry would not immediately apply the change.",
-    "DownloadCount": 6111,
-    "LastUpdate": 1744331350,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v34.0.6/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v34.0.6/latest.zip"
+    "Changelog": "Enhanced Experience Bar\n\n- Added: A new Cosmic Research Bar, which displays the dataset for your current job and its analysis progress in Cosmic Exploration (default on).  \n  I hope I got this right.  It should always show the highest available stage/type.  \n  *Note:* If you're leveling a crafter or gatherer job and want to see the normal experience bar, you can disable the \"Always show Cosmic Research Bar in Cosmic Exploration\" option in the settings.\n\nPortrait Helper\n\n- Fixed: The visibility of nodes in the portrait editor window didn't properly reset when an overlay was open and the plugin was unloaded.",
+    "DownloadCount": 0,
+    "LastUpdate": 1745415506,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v34.1.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v34.1.0/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
