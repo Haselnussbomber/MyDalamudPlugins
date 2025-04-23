@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselDebug",
     "InternalName": "HaselDebug",
-    "AssemblyVersion": "1.21.0",
+    "AssemblyVersion": "1.22.0",
     "Description": "For developers.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
-    "Changelog": "- Added: Holding shift in Unlock Links -> Titles now shows the english version of the titles.\n- Added: Added Radius to the Agent Map Event Markers table.\n- Updated: Excel v2 now has a better preview for column values.\n- Fixed: Agent Map Event Markers table broke when the icon wasn't found.\n- Fixed: Added the missing GameObject -> Companion type redirect.\n- Fixed: Object Table tab now sorts by index.\n- Updated: ClientStructs now at 4ae9f561 (compare).",
-    "DownloadCount": 147,
-    "LastUpdate": 1744550394,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.21.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.21.0/latest.zip"
+    "Changelog": "- Added: Added a \"Copy as hex\" button to SeStringMaker that lets you copy the SeString as raw byte data.\n- Fixed: Incorrect StdSet/SetMap memory alignment.\n- Fixed: Inventory tab now correctly relies on functions, so it can work in space (Cosmopouch1/2).\n- Fixed: Unreleased Glasses (rows without icons) are now hidden.\n- Fixed: Aether Currents table was missing the increment for the numbering.\n- Fixed: Errors that are thrown while rendering a tab are now properly logged.\n- Updated: ClientStructs now at 09d40c6a (compare).",
+    "DownloadCount": 0,
+    "LastUpdate": 1745422293,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.22.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.22.0/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -37,7 +37,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Enhanced Experience Bar\n\n- Added: A new Cosmic Research Bar, which displays the dataset for your current job and its analysis progress in Cosmic Exploration (default on).  \n  I hope I got this right.  It should always show the highest available stage/type.  \n  *Note:* If you're leveling a crafter or gatherer job and want to see the normal experience bar, you can disable the \"Always show Cosmic Research Bar in Cosmic Exploration\" option in the settings.\n\nPortrait Helper\n\n- Fixed: The visibility of nodes in the portrait editor window didn't properly reset when an overlay was open and the plugin was unloaded.",
-    "DownloadCount": 0,
+    "DownloadCount": 641,
     "LastUpdate": 1745415506,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v34.1.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v34.1.0/latest.zip"
@@ -59,7 +59,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Fixed: Zones for Spearfishing spots in the Queue tab were incorrectly resolved.",
-    "DownloadCount": 1060,
+    "DownloadCount": 1061,
     "LastUpdate": 1743336876,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.3/latest.zip"
