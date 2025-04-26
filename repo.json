@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: Added a \"Copy as hex\" button to SeStringMaker that lets you copy the SeString as raw byte data.\n- Fixed: Incorrect StdSet/SetMap memory alignment.\n- Fixed: Inventory tab now correctly relies on functions, so it can work in space (Cosmopouch1/2).\n- Fixed: Unreleased Glasses (rows without icons) are now hidden.\n- Fixed: Aether Currents table was missing the increment for the numbering.\n- Fixed: Errors that are thrown while rendering a tab are now properly logged.\n- Updated: ClientStructs now at 09d40c6a (compare).",
-    "DownloadCount": 102,
+    "DownloadCount": 109,
     "LastUpdate": 1745422293,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.22.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.22.0/latest.zip"
@@ -37,7 +37,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Enhanced Experience Bar\n\n- Added: A new Cosmic Research Bar, which displays the dataset for your current job and its analysis progress in Cosmic Exploration (default on).  \n  I hope I got this right.  It should always show the highest available stage/type.  \n  *Note:* If you're leveling a crafter or gatherer job and want to see the normal experience bar, you can disable the \"Always show Cosmic Research Bar in Cosmic Exploration\" option in the settings.\n\nPortrait Helper\n\n- Fixed: The visibility of nodes in the portrait editor window didn't properly reset when an overlay was open and the plugin was unloaded.",
-    "DownloadCount": 3997,
+    "DownloadCount": 4275,
     "LastUpdate": 1745415506,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v34.1.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v34.1.0/latest.zip"
@@ -59,7 +59,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Fixed: Zones for Spearfishing spots in the Queue tab were incorrectly resolved.",
-    "DownloadCount": 1083,
+    "DownloadCount": 1089,
     "LastUpdate": 1743336876,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.3/latest.zip"
@@ -81,7 +81,7 @@
     "Punchline": "Tracking assistant for Yo-kai Watch rewards",
     "AcceptsFeedback": true,
     "Changelog": "- Added: The server info bar entry can not be clicked to open the plugin window.\n- Added: The server info bar entry now shows the locations in which you can farm the medals in the tooltip.\n- Added: In the table, the medal count of each weapon now also has a tooltip that shows the locations in which you can farm them. A location displayed in a green color is your current location.\n- Added: In the table, the minion name can now be clicked to summon it and will be shown in a green color when it is currently summoned.\n- Changed: The server info bar entry is now based on the currently summoned minion (previously it was based on inventory changes - the medals that were added) and will persist between zones until the minion is sent away or the weapon has been acquired.",
-    "DownloadCount": 912,
+    "DownloadCount": 913,
     "LastUpdate": 1714178614,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/YokaiCheck/releases/download/v1.2.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/YokaiCheck/releases/download/v1.2.0/latest.zip"
