@@ -24,7 +24,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "34.1.0",
+    "AssemblyVersion": "34.1.1",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -36,11 +36,11 @@
     "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/HaselTweaks/refs/heads/dev/HaselTweaks/Assets/Icon.png",
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Enhanced Experience Bar\n\n- Added: A new Cosmic Research Bar, which displays the dataset for your current job and its analysis progress in Cosmic Exploration (default on).  \n  I hope I got this right.  It should always show the highest available stage/type.  \n  *Note:* If you're leveling a crafter or gatherer job and want to see the normal experience bar, you can disable the \"Always show Cosmic Research Bar in Cosmic Exploration\" option in the settings.\n\nPortrait Helper\n\n- Fixed: The visibility of nodes in the portrait editor window didn't properly reset when an overlay was open and the plugin was unloaded.",
-    "DownloadCount": 4499,
-    "LastUpdate": 1745415506,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v34.1.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v34.1.0/latest.zip"
+    "Changelog": "Enhanced Experience Bar\n\n- Fixed: Cosmic Research Bar didn't display analysis progress for type 4.",
+    "DownloadCount": 0,
+    "LastUpdate": 1745679054,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v34.1.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v34.1.1/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
