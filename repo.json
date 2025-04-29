@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: Added a \"Copy as hex\" button to SeStringMaker that lets you copy the SeString as raw byte data.\n- Fixed: Incorrect StdSet/SetMap memory alignment.\n- Fixed: Inventory tab now correctly relies on functions, so it can work in space (Cosmopouch1/2).\n- Fixed: Unreleased Glasses (rows without icons) are now hidden.\n- Fixed: Aether Currents table was missing the increment for the numbering.\n- Fixed: Errors that are thrown while rendering a tab are now properly logged.\n- Updated: ClientStructs now at 09d40c6a (compare).",
-    "DownloadCount": 130,
+    "DownloadCount": 134,
     "LastUpdate": 1745422293,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.22.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.22.0/latest.zip"
@@ -37,7 +37,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Enhanced Experience Bar\n\n- Fixed: Cosmic Research Bar didn't display analysis progress for type 4.",
-    "DownloadCount": 3860,
+    "DownloadCount": 4150,
     "LastUpdate": 1745679054,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v34.1.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v34.1.1/latest.zip"
@@ -59,7 +59,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Fixed: Zones for Spearfishing spots in the Queue tab were incorrectly resolved.",
-    "DownloadCount": 1112,
+    "DownloadCount": 1113,
     "LastUpdate": 1743336876,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.3/latest.zip"
