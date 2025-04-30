@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselDebug",
     "InternalName": "HaselDebug",
-    "AssemblyVersion": "1.22.0",
+    "AssemblyVersion": "1.23.0",
     "Description": "For developers.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
-    "Changelog": "- Added: Added a \"Copy as hex\" button to SeStringMaker that lets you copy the SeString as raw byte data.\n- Fixed: Incorrect StdSet/SetMap memory alignment.\n- Fixed: Inventory tab now correctly relies on functions, so it can work in space (Cosmopouch1/2).\n- Fixed: Unreleased Glasses (rows without icons) are now hidden.\n- Fixed: Aether Currents table was missing the increment for the numbering.\n- Fixed: Errors that are thrown while rendering a tab are now properly logged.\n- Updated: ClientStructs now at 09d40c6a (compare).",
-    "DownloadCount": 136,
-    "LastUpdate": 1745422293,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.22.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.22.0/latest.zip"
+    "Changelog": "- Added: A Conditions tab, using the CS Conditions struct instead of Dalamuds ConditionFlags enum, providing xmldoc comments if available.\n- Added: A new Object Tables category, featuring:\n  - Character Manager,\n  - Chara Select Character List,\n  - Client Object Manager,\n  - Game Object Manager, now with 3 tabs IndexSorted, GameObjectIdSorted and EntityIdSorted,\n  - and the newly reversed Stand Object Manager, displaying nameless, \"lively\" EventNpcs and EventObjects.\n\n  These now reuse the same table code and I've added the EntityId and ObjectId columns. It's now possible to hide columns, though settings are not saved for these tables.\n- Changed: Previously, fields with \"IconId\" in their name showed the icon next to the value, now it's for all fields containing just \"Icon\".\n- Updated: I updated my TerritoryIntendedUse enum in HaselCommon, so 60 is now called CosmicExploration.\n- Updated: ClientStructs now at 377ddb3 (compare).",
+    "DownloadCount": 0,
+    "LastUpdate": 1746027528,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.23.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.23.0/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -37,7 +37,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Enhanced Experience Bar\n\n- Fixed: Cosmic Research Bar didn't display analysis progress for type 4.",
-    "DownloadCount": 4602,
+    "DownloadCount": 4633,
     "LastUpdate": 1745679054,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v34.1.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v34.1.1/latest.zip"
