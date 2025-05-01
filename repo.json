@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: A Conditions tab, using the CS Conditions struct instead of Dalamuds ConditionFlags enum, providing xmldoc comments if available.\n- Added: A new Object Tables category, featuring:\n  - Character Manager,\n  - Chara Select Character List,\n  - Client Object Manager,\n  - Game Object Manager, now with 3 tabs IndexSorted, GameObjectIdSorted and EntityIdSorted,\n  - and the newly reversed Stand Object Manager, displaying nameless, \"lively\" EventNpcs and EventObjects.\n\n  These now reuse the same table code and I've added the EntityId and ObjectId columns. It's now possible to hide columns, though settings are not saved for these tables.\n- Changed: Previously, fields with \"IconId\" in their name showed the icon next to the value, now it's for all fields containing just \"Icon\".\n- Updated: I updated my TerritoryIntendedUse enum in HaselCommon, so 60 is now called CosmicExploration.\n- Updated: ClientStructs now at 377ddb3 (compare).",
-    "DownloadCount": 0,
+    "DownloadCount": 70,
     "LastUpdate": 1746027528,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.23.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.23.0/latest.zip"
@@ -37,7 +37,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Enhanced Experience Bar\n\n- Fixed: Cosmic Research Bar didn't display analysis progress for type 4.",
-    "DownloadCount": 4633,
+    "DownloadCount": 4718,
     "LastUpdate": 1745679054,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v34.1.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v34.1.1/latest.zip"
@@ -59,7 +59,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Fixed: Zones for Spearfishing spots in the Queue tab were incorrectly resolved.",
-    "DownloadCount": 1118,
+    "DownloadCount": 1122,
     "LastUpdate": 1743336876,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.3/latest.zip"
