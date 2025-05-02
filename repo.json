@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: DrawObject type redirects, based on their ObjectType:\n  - CharacterBase, based on their ModelType:\n    - Human\n    - Demihuman\n    - Monster\n    - Weapon\n- Changed: The \"Icon\" name check to draw icons was reverted. Instead, an additional `uint` check was added.\n- Updated: ClientStructs now at ba0a6602 (compare).",
-    "DownloadCount": 58,
+    "DownloadCount": 72,
     "LastUpdate": 1746139935,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.23.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.23.1/latest.zip"
@@ -24,7 +24,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "35.0.2",
+    "AssemblyVersion": "35.0.3",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -36,11 +36,11 @@
     "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/HaselTweaks/refs/heads/dev/HaselTweaks/Assets/Icon.png",
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "HaselTweaks\n\n- Fixed: For some tweaks, changes to configuration options were applied even if the tweak was disabled.\n\nScrollable Tabs\n\n- Fixed: Scrolling in the Reputation tab of the Character window was not correctly implemented, causing issues when all allied societies of an expansion weren't unlocked.\n- Fixed: After changing the expansion in the Reputation tab of the Character window using mouse scrolling, the highlighted expansion was not updated in the dropdown.",
+    "Changelog": "Enhanced Material List\n\n- Fixed: List didn't properly load anymore.\n- Fixed: Gathering points markers were missing the type next to the level in their tooltips.",
     "DownloadCount": 0,
-    "LastUpdate": 1746194502,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v35.0.2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v35.0.2/latest.zip"
+    "LastUpdate": 1746225697,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v35.0.3/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v35.0.3/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -59,7 +59,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Fixed: Zones for Spearfishing spots in the Queue tab were incorrectly resolved.",
-    "DownloadCount": 1138,
+    "DownloadCount": 1141,
     "LastUpdate": 1743336876,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.3/latest.zip"
