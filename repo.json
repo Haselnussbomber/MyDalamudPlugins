@@ -37,7 +37,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Enhanced Experience Bar\n\n- Added: An option to show the cosmic class score needed for achievements after completing cosmic research (default on).\n- Changed: The Cosmic Research Bar is now smarter and will prioritize the dataset with the lowest experience percentage instead of just using the highest available type.",
-    "DownloadCount": 0,
+    "DownloadCount": 108,
     "LastUpdate": 1746407392,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v35.1.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v35.1.0/latest.zip"
@@ -59,7 +59,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Fixed: Zones for Spearfishing spots in the Queue tab were incorrectly resolved.",
-    "DownloadCount": 1157,
+    "DownloadCount": 1158,
     "LastUpdate": 1743336876,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.3/latest.zip"
