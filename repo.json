@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: DrawObject type redirects, based on their ObjectType:\n  - CharacterBase, based on their ModelType:\n    - Human\n    - Demihuman\n    - Monster\n    - Weapon\n- Changed: The \"Icon\" name check to draw icons was reverted. Instead, an additional `uint` check was added.\n- Updated: ClientStructs now at ba0a6602 (compare).",
-    "DownloadCount": 141,
+    "DownloadCount": 149,
     "LastUpdate": 1746139935,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.23.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.23.1/latest.zip"
@@ -37,7 +37,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Enhanced Experience Bar\n\n- Fixed: Depending on the language, `<nbsp>` were printed in the cosmic class score numbers.",
-    "DownloadCount": 4158,
+    "DownloadCount": 4322,
     "LastUpdate": 1746620184,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v35.1.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v35.1.1/latest.zip"
@@ -59,7 +59,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Fixed: Zones for Spearfishing spots in the Queue tab were incorrectly resolved.",
-    "DownloadCount": 1201,
+    "DownloadCount": 1210,
     "LastUpdate": 1743336876,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.3/latest.zip"
