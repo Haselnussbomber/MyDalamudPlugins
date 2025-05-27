@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselDebug",
     "InternalName": "HaselDebug",
-    "AssemblyVersion": "1.24.0",
+    "AssemblyVersion": "1.24.1",
     "Description": "For developers.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
-    "Changelog": "- Added: Type redirects for AtkResNode and AtkComponentBase.\n- Added: Blue Mage Actions tab.\n- Added: Input tab.\n- Changed: The AtkEventData in the Atk Events tab now displays the correct struct based on the AtkEventType.\n- Fixed: BuddyAction and QuestAcceptAdditionCondition unlock link indexes were off by 1.\n- Updated: ClientStructs now at bd82d122 (compare).",
-    "DownloadCount": 34,
-    "LastUpdate": 1748338944,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.24.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.24.0/latest.zip"
+    "Changelog": "- Updated: ClientStructs now at 901b2362 (compare).",
+    "DownloadCount": 0,
+    "LastUpdate": 1748375641,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.24.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.24.1/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
