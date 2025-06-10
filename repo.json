@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselDebug",
     "InternalName": "HaselDebug",
-    "AssemblyVersion": "1.24.2",
+    "AssemblyVersion": "1.25.0",
     "Description": "For developers.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
-    "Changelog": "- Added: Type redirect for PublicContentOccultCrescent.\n- Updated: ClientStructs now at 3d53c797 (compare).",
-    "DownloadCount": 125,
-    "LastUpdate": 1749001595,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.24.2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.24.2/latest.zip"
+    "Changelog": "- Updated: Addon Inspector was updated a bit:\n  - Addons and Nodes can be popped out into their own window (rightclick the tree nodes)\n  - Most properties are now editable\n  - Label Sets are now displayed\n  - Added a search bar to the top-level (=addon) Node List, which can find nodes by address (hex only), NodeId, NodeType, ComponentType\n\n  It's still work in progress. Animations and Parts will be added later.\n- Updated: ClientStructs now at 7028ecae (compare).",
+    "DownloadCount": 0,
+    "LastUpdate": 1749560943,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.25.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.25.0/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
