@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselDebug",
     "InternalName": "HaselDebug",
-    "AssemblyVersion": "1.27.0",
+    "AssemblyVersion": "1.28.0",
     "Description": "For developers.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
-    "Changelog": "- Added: Addon Inspector can now display Events. Target and Listener columns are hidden unless an event points to something different than the same Node or UnitBase.\n- Added: A Drag Drop Type tab displaying the matrix of DragDropTypeMasks.\n- Updated: Animation Group values in the Addon Inspector are now copyable and colors are shown with ImGui.ColorEdit3 (can't make them read-only with Dalamuds ImGui version).\n- Fixed: Addon Inspector now primarily uses the addon id, before checking the addon name. This should fix displaying the wrong addon if multiple have the same name.\n- Fixed: TreeNode ids were no longer unique with the last update.\n- Updated: ClientStructs updated to the branch used in my DragDrop PR, based on a93b68f5 (compare).",
-    "DownloadCount": 47,
-    "LastUpdate": 1750284900,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.27.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.27.0/latest.zip"
+    "Changelog": "- Added: StdLinkedLists are now supported.\n- Added: StdStrings are now rendered as normal, copyable strings.\n- Added: ResourceHandle.FileType is now written as string.\n- Added: The following pointers are now rendered as array:\n  - AtkUldManager.Assets\n  - AtkUldManager.PartsList\n  - AtkUldManager.NodeList\n  - AtkUldManager.Objects (exception for ObjectCount 1 which is displayed directly)\n  - AtkUldWidgetInfo.NodeList\n  - AtkTimelineManager.Timelines\n  - AtkTimelineManager.Animations\n  - AtkTimelineManager.LabelSets\n  - AtkTimelineManager.KeyFrames\n- Updated: Atk nodes as TreeNode are now always highlighted on hover.\n- Changed: The AtkValues table is no longer limited in size.",
+    "DownloadCount": 0,
+    "LastUpdate": 1750370875,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.28.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.28.0/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -37,7 +37,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "New Tweak: Enhanced Hunting Log\n\nConfiguration options:\n\n- Remember last selected class  \n  The game's default behaviour is to reset the window to the first tab.\n- Automatically select the current class  \n  Only works if a matching class was found. Overrides the option \\\"Remember last selected class\\\" in that case.\n- Automatically set the filter to \"Show Incomplete\" (Thanks to @Bloodsoul)",
-    "DownloadCount": 4767,
+    "DownloadCount": 4841,
     "LastUpdate": 1749774108,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v36.0.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v36.0.0/latest.zip"
@@ -59,7 +59,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Fixed: Zones for Spearfishing spots in the Queue tab were incorrectly resolved.",
-    "DownloadCount": 1403,
+    "DownloadCount": 1404,
     "LastUpdate": 1743336876,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.3/latest.zip"
