@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Updated: ClientStructs now at 8a6e0bb6 (compare).",
-    "DownloadCount": 146,
+    "DownloadCount": 153,
     "LastUpdate": 1750801465,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.28.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.28.1/latest.zip"
@@ -37,7 +37,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "New Tweak: Enhanced Hunting Log\n\nConfiguration options:\n\n- Remember last selected class  \n  The game's default behaviour is to reset the window to the first tab.\n- Automatically select the current class  \n  Only works if a matching class was found. Overrides the option \\\"Remember last selected class\\\" in that case.\n- Automatically set the filter to \"Show Incomplete\" (Thanks to @Bloodsoul)",
-    "DownloadCount": 6460,
+    "DownloadCount": 6522,
     "LastUpdate": 1749774108,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v36.0.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v36.0.0/latest.zip"
@@ -59,7 +59,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Fixed: Zones for Spearfishing spots in the Queue tab were incorrectly resolved.",
-    "DownloadCount": 1491,
+    "DownloadCount": 1496,
     "LastUpdate": 1743336876,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.3/latest.zip"
