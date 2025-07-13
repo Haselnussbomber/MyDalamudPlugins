@@ -12,11 +12,11 @@ jobs:
     name: Update Repo
     runs-on: ubuntu-latest
     steps:
-      - uses: denoland/setup-deno@v1
+      - uses: denoland/setup-deno@v2
         with:
-          deno-version: 1.x
+          deno-version: 2.x
 
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: Update Repo
         run: deno run --allow-net=api.github.com,github.com,objects.githubusercontent.com --allow-write=repo.json main.ts
