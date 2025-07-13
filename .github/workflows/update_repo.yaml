@@ -19,7 +19,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Update Repo
-        run: deno run --allow-net=api.github.com,github.com,objects.githubusercontent.com --allow-write=repo.json main.ts
+        run: deno run --allow-net=api.github.com,github.com,objects.githubusercontent.com,release-assets.githubusercontent.com --allow-write=repo.json main.ts
 
       - name: Check for changes
         id: verify-repo-changed
