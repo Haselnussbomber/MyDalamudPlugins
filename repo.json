@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselDebug",
     "InternalName": "HaselDebug",
-    "AssemblyVersion": "1.29.0",
+    "AssemblyVersion": "1.29.1",
     "Description": "For developers.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
-    "Changelog": "- Added: An Item Action Type tab to list all ItemActions grouped by Type and their items.\n- Updated: The Addon Inspector's Node Picker now opens the TreeNodes up to the node that was clicked on and only resets the selection index when hovered nodes change, not when the cursor moved by a single pixel.\n- Updated: ClientStructs updated to the branch used in my Update InventoryItem PR, based on 8b3a8f45 (compare).",
-    "DownloadCount": 123,
-    "LastUpdate": 1752271585,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.29.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.29.0/latest.zip"
+    "Changelog": "- Fixed: The border around highlighted nodes didn't respect the user-set scaling of the addon.\n- Fixed: The border around highlighted component nodes wasn’t shown when `AtkResNode` was null. It now falls back to `OwnerNode`.\n- Updated: It's now possible to copy values from the Addon Config table.\n- Updated: ClientStructs now at 62ea2008 (compare).",
+    "DownloadCount": 0,
+    "LastUpdate": 1752585008,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.29.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.29.1/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -37,7 +37,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "New Tweak: Enhanced Hunting Log\n\nConfiguration options:\n\n- Remember last selected class  \n  The game's default behaviour is to reset the window to the first tab.\n- Automatically select the current class  \n  Only works if a matching class was found. Overrides the option \\\"Remember last selected class\\\" in that case.\n- Automatically set the filter to \"Show Incomplete\" (Thanks to @Bloodsoul)",
-    "DownloadCount": 7164,
+    "DownloadCount": 7165,
     "LastUpdate": 1749774108,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v36.0.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v36.0.0/latest.zip"
