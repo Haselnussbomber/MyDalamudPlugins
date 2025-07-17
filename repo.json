@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Fixed: The border around highlighted nodes didn't respect the user-set scaling of the addon.\n- Fixed: The border around highlighted component nodes wasn’t shown when `AtkResNode` was null. It now falls back to `OwnerNode`.\n- Updated: It's now possible to copy values from the Addon Config table.\n- Updated: ClientStructs now at 62ea2008 (compare).",
-    "DownloadCount": 98,
+    "DownloadCount": 100,
     "LastUpdate": 1752585008,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.29.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.29.1/latest.zip"
@@ -24,7 +24,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "36.0.0",
+    "AssemblyVersion": "36.0.1",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -36,11 +36,11 @@
     "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/HaselTweaks/refs/heads/dev/HaselTweaks/Assets/Icon.png",
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "New Tweak: Enhanced Hunting Log\n\nConfiguration options:\n\n- Remember last selected class  \n  The game's default behaviour is to reset the window to the first tab.\n- Automatically select the current class  \n  Only works if a matching class was found. Overrides the option \\\"Remember last selected class\\\" in that case.\n- Automatically set the filter to \"Show Incomplete\" (Thanks to @Bloodsoul)",
-    "DownloadCount": 7251,
-    "LastUpdate": 1749774108,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v36.0.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v36.0.0/latest.zip"
+    "Changelog": "HaselTweaks\n\n- Removed: The window locking feature from the Aether Current Helper and Gear Set Grid title bars was removed. This functionality predated Dalamud's built-in window pinning, which should be used instead.\n\nGear Set Grid\n\n- Fixed: In some languages, the item category was incorrectly displaying soft hyphens.\n\nPortrait Helper\n\n- Fixed: Copying images in the Preset Browser used an incorrect method for clipboard memory handling. While copying images worked fine, the previous implementation could've caused memory leaks. This update now uses the proper Windows API calls.",
+    "DownloadCount": 0,
+    "LastUpdate": 1752761299,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v36.0.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v36.0.1/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
