@@ -37,7 +37,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "HaselTweaks\n\n- Removed: The window locking feature from the Aether Current Helper and Gear Set Grid title bars was removed. This functionality predated Dalamud's built-in window pinning, which should be used instead.\n\nGear Set Grid\n\n- Fixed: In some languages, the item category was incorrectly displaying soft hyphens.\n\nPortrait Helper\n\n- Fixed: Copying images in the Preset Browser used an incorrect method for clipboard memory handling. While copying images worked fine, the previous implementation could've caused memory leaks. This update now uses the proper Windows API calls.",
-    "DownloadCount": 4772,
+    "DownloadCount": 4852,
     "LastUpdate": 1752761299,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v36.0.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v36.0.1/latest.zip"
@@ -59,7 +59,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Fixed: Zones for Spearfishing spots in the Queue tab were incorrectly resolved.",
-    "DownloadCount": 1606,
+    "DownloadCount": 1611,
     "LastUpdate": 1743336876,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.3/latest.zip"
