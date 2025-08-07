@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselDebug",
     "InternalName": "HaselDebug",
-    "AssemblyVersion": "1.30.0",
+    "AssemblyVersion": "1.30.1",
     "Description": "For developers.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
-    "Changelog": "Update for 7.3.\n\n- Added: `InventoryItem.CrafterContentId` now shows a name, if available.\n- Added: The wedding date on InventoryItems is now displayed.\n- Added: Addon Factories tab was added.\n- Updated: Tabs now load data when they are opened for the first time, not when the plugin starts.\n- Updated: The address of ConfigOptions can be copied by holding shift.\n- Temporarily: Drag Drop Type tab is disabled due to new ImGui bindings not handling that many columns. Needs a rewrite.",
+    "Changelog": "- Fixed: The Outfits table was empty.",
     "DownloadCount": 0,
-    "LastUpdate": 1754569061,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.30.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.30.0/latest.zip"
+    "LastUpdate": 1754570530,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.30.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.30.1/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -37,7 +37,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Enhanced Target Info\n\n- Updated: Added some more safety checks to avoid crashes, just in case.",
-    "DownloadCount": 4546,
+    "DownloadCount": 4547,
     "LastUpdate": 1753813697,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v36.0.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v36.0.2/latest.zip"
