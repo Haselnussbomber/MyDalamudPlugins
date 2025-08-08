@@ -24,7 +24,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "36.1.0",
+    "AssemblyVersion": "36.1.1",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -36,11 +36,11 @@
     "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/HaselTweaks/refs/heads/dev/HaselTweaks/Assets/Icon.png",
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Preliminary update for Patch 7.3.  \nI didn't test it that much, because I was updating FFXIVClientStructs/Dalamud, but it seemed fine so far. Beware of crashes?!\n\nRemoved Tweak: Restore Golden City\n\nIf you know, you know. If you didn't know, well... now you know.",
-    "DownloadCount": 508,
-    "LastUpdate": 1754608472,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v36.1.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v36.1.0/latest.zip"
+    "Changelog": "Cast Bar Aetheryte Name\n\n- Fixed: Function signature resolved to the wrong function.",
+    "DownloadCount": 0,
+    "LastUpdate": 1754621960,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v36.1.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v36.1.1/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
