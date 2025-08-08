@@ -24,7 +24,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "36.1.1",
+    "AssemblyVersion": "36.1.2",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -36,11 +36,11 @@
     "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/HaselTweaks/refs/heads/dev/HaselTweaks/Assets/Icon.png",
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Cast Bar Aetheryte Name\n\n- Fixed: Function signature resolved to the wrong function.",
-    "DownloadCount": 606,
-    "LastUpdate": 1754621960,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v36.1.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v36.1.1/latest.zip"
+    "Changelog": "Character Class Switcher\n\n- Fixed: Clicking on a crafter would always show the desynthesis window.\n\nPortrait Helper\n\n- Fixed: Advanced Edit Overlay was temporarily disabled. It's back now.",
+    "DownloadCount": 0,
+    "LastUpdate": 1754661744,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v36.1.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v36.1.2/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
