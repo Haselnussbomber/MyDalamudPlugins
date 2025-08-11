@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselDebug",
     "InternalName": "HaselDebug",
-    "AssemblyVersion": "1.30.2",
+    "AssemblyVersion": "1.30.3",
     "Description": "For developers.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
-    "Changelog": "- Added: In the RaptureTextModule Definitions tab, the vfunc index is now displayed.\n- Fixed: In the RaptureTextModule Definitions tab, the parameters displayed garbage after the TotalParamCount was reached.\n- Fixed: Drawing AtkTextures no longer replaces the struct view, instead the texture is displayed inside the struct at the end.\n- Updated: ClientStructs now at a1b91b0b (compare).",
-    "DownloadCount": 93,
-    "LastUpdate": 1754751683,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.30.2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.30.2/latest.zip"
+    "Changelog": "- Added: More event handler type redirects: FateDirector and BattleLeveDirector. CompanyLeveDirector, CompanyLeveOfficer and GatheringLeveDirector use LeveDirector for now.\n- Updated: The Drag Drop Type tab was reworked into separate lists.\n- Updated: The flag enum input was changed so that it shows the bit and fills in unknown values.\n- Updated: ClientStructs now at 08480efc (compare).",
+    "DownloadCount": 0,
+    "LastUpdate": 1754871713,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.30.3/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.30.3/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -37,7 +37,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Enhanced Experience Bar\n\n- Updated: The Cosmic Research Bar should now work for the new Dataset, whenever it's added.\n- Fixed: Due to a human error when updating the code, the experience bar didn't show anything.",
-    "DownloadCount": 2676,
+    "DownloadCount": 3766,
     "LastUpdate": 1754666369,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v36.1.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v36.1.3/latest.zip"
@@ -59,7 +59,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Update for 7.3 (Dalamud API 13).",
-    "DownloadCount": 366,
+    "DownloadCount": 568,
     "LastUpdate": 1754742951,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.4/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.4/latest.zip"
