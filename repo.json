@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselDebug",
     "InternalName": "HaselDebug",
-    "AssemblyVersion": "1.30.3",
+    "AssemblyVersion": "1.30.4",
     "Description": "For developers.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
-    "Changelog": "- Added: More event handler type redirects: FateDirector and BattleLeveDirector. CompanyLeveDirector, CompanyLeveOfficer and GatheringLeveDirector use LeveDirector for now.\n- Updated: The Drag Drop Type tab was reworked into separate lists.\n- Updated: The flag enum input was changed so that it shows the bit and fills in unknown values.\n- Updated: ClientStructs now at 08480efc (compare).",
-    "DownloadCount": 152,
-    "LastUpdate": 1754871713,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.30.3/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.30.3/latest.zip"
+    "Changelog": "- Fixed: The signatures for generating addon name hashes in the Addon Config tab were outdated.\n- Updated: ClientStructs now at 48d43753 (compare).",
+    "DownloadCount": 0,
+    "LastUpdate": 1755103025,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.30.4/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.30.4/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -37,7 +37,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Auto-select Soil and Seed\n\n- Fixed: Used the wrong variable to check if items were selected already.",
-    "DownloadCount": 263,
+    "DownloadCount": 1277,
     "LastUpdate": 1755085615,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v37.0.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v37.0.1/latest.zip"
@@ -59,7 +59,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Update for 7.3 (Dalamud API 13).",
-    "DownloadCount": 794,
+    "DownloadCount": 797,
     "LastUpdate": 1754742951,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.4/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.4/latest.zip"
