@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Fixed: There was a substantial FPS loss when displaying structs with a lot of field due to inheritance checks for type redirects. The result of inheritance checks is now cached.\n- Fixed: Hovering over an uninitialized `Character.CompanionObject` to highlight the position would crash the game because VirtualTable was a nullptr.\n- Updated: ClientStructs now at 2d10f753 (compare).",
-    "DownloadCount": 177,
+    "DownloadCount": 181,
     "LastUpdate": 1755284123,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.30.5/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.30.5/latest.zip"
@@ -37,7 +37,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Portrait Helper\n\nReworked a bunch of code regarding Menu Bar and its overlays and how it writes data to the clipboard. Hopefully everything works!\n\n- Fixed: The Portrait Browser, when popped out due to interface scaling, will no longer throw \"Cannot access a disposed object.\" errors and become unusable.",
-    "DownloadCount": 4629,
+    "DownloadCount": 4741,
     "LastUpdate": 1755390835,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v37.0.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v37.0.2/latest.zip"
@@ -59,7 +59,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Update for 7.3 (Dalamud API 13).",
-    "DownloadCount": 938,
+    "DownloadCount": 944,
     "LastUpdate": 1754742951,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.4/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.4/latest.zip"
