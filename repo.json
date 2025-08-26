@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: Keybinds are now displayed in the Input tab.\n- Added: The Addon Config tab now has a sub-tab that lists all HudLayout configurable addons.\n- Updated: The GlobalParameters list in the RaptureTextModule tab was updated.\n- Updated: ClientStructs now at 0e5c2ea3 (compare).",
-    "DownloadCount": 48,
+    "DownloadCount": 54,
     "LastUpdate": 1756170706,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.31.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.31.0/latest.zip"
@@ -37,7 +37,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Portrait Helper\n\n- Fixed: The button for the Advanced Edit mode was incorrectly tied to the preset in clipboard detection. Copy/paste mistake, sorry.",
-    "DownloadCount": 0,
+    "DownloadCount": 287,
     "LastUpdate": 1756208250,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v37.0.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v37.0.3/latest.zip"
