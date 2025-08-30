@@ -24,7 +24,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "37.0.3",
+    "AssemblyVersion": "37.0.4",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -36,11 +36,11 @@
     "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/HaselTweaks/refs/heads/dev/HaselTweaks/Assets/Icon.png",
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Portrait Helper\n\n- Fixed: The button for the Advanced Edit mode was incorrectly tied to the preset in clipboard detection. Copy/paste mistake, sorry.",
-    "DownloadCount": 4249,
-    "LastUpdate": 1756208250,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v37.0.3/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v37.0.3/latest.zip"
+    "Changelog": "Enhanced Material List\n\n- Fixed: Code cleanup in 37.0.3 went too far and called an incorrect function, causing a crash when the Material List opens. Sorry about that!",
+    "DownloadCount": 0,
+    "LastUpdate": 1756518965,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v37.0.4/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v37.0.4/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
