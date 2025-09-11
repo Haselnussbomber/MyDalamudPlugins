@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselDebug",
     "InternalName": "HaselDebug",
-    "AssemblyVersion": "1.32.2",
+    "AssemblyVersion": "1.33.0",
     "Description": "For developers.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
-    "Changelog": "- Updated: ClientStructs now at dd9edd91 (compare).",
-    "DownloadCount": 171,
-    "LastUpdate": 1756937097,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.32.2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.32.2/latest.zip"
+    "Changelog": "- Added: The agent context menu in the Agents tab now has a \"Show Agent\"/\"Hide Agent\" option when the agent is activatable. Use at your own risk!\n- Added: Visible agents in the Agents tab are now listed in green.\n- Added: The Main Commands tab now displays stats recorded by the McAggreModule.\n- Fixed: Agents with an Unk entry in the AgentId enum are now once again using the addon name as fallback when it's open.\n- Updated: ClientStructs now at 59feea87 (compare).",
+    "DownloadCount": 0,
+    "LastUpdate": 1757627931,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.33.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.33.0/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -37,7 +37,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Cast Bar Aetheryte Names\n\n- Fixed: The destination name now is now displayed when the teleport was initiated via the Map, without opening the Teleport window first.\n\nLock Window Position\n\n- Fixed: The settings didn't save correctly.",
-    "DownloadCount": 3021,
+    "DownloadCount": 3297,
     "LastUpdate": 1757459693,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v38.0.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v38.0.3/latest.zip"
@@ -59,7 +59,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Update for 7.3 (Dalamud API 13).",
-    "DownloadCount": 1149,
+    "DownloadCount": 1157,
     "LastUpdate": 1754742951,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.4/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.4/latest.zip"
