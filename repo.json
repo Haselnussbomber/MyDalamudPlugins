@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: An \"Event Object Manager\" tab.\n- Added: New unlock tabs \"Chocobo Taxi Stands\" and \"HowTos\".\n- Added: An \"Unlock Span Length Test\" tab to quickly validate most bit arrays in UIState and PlayerState.\n- Fixed: `void*` no longer show their own address. Instead, the address it points to is shown.\n- Updated: ClientStructs now at c5652dd3 (compare).",
-    "DownloadCount": 0,
+    "DownloadCount": 71,
     "LastUpdate": 1758117594,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.34.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.34.0/latest.zip"
@@ -24,7 +24,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "38.0.4",
+    "AssemblyVersion": "38.0.5",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -36,11 +36,11 @@
     "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/HaselTweaks/refs/heads/dev/HaselTweaks/Assets/Icon.png",
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Portrait Helper\n\n- Fixed: Incorrect use of ImGui caused the game to crash when reordering presets in the Preset Browser. Sorry about that!",
-    "DownloadCount": 3483,
-    "LastUpdate": 1757945377,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v38.0.4/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v38.0.4/latest.zip"
+    "Changelog": "HaselTweaks\n\n- Fixed: Some textures weren't rendering since last update.",
+    "DownloadCount": 0,
+    "LastUpdate": 1758152684,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v38.0.5/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v38.0.5/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -59,7 +59,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Update for 7.3 (Dalamud API 13).",
-    "DownloadCount": 1227,
+    "DownloadCount": 1237,
     "LastUpdate": 1754742951,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.4/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.4/latest.zip"
