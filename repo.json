@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselDebug",
     "InternalName": "HaselDebug",
-    "AssemblyVersion": "1.33.0",
+    "AssemblyVersion": "1.34.0",
     "Description": "For developers.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
-    "Changelog": "- Added: The agent context menu in the Agents tab now has a \"Show Agent\"/\"Hide Agent\" option when the agent is activatable. Use at your own risk!\n- Added: Visible agents in the Agents tab are now listed in green.\n- Added: The Main Commands tab now displays stats recorded by the McAggreModule.\n- Fixed: Agents with an Unk entry in the AgentId enum are now once again using the addon name as fallback when it's open.\n- Updated: ClientStructs now at 59feea87 (compare).",
-    "DownloadCount": 184,
-    "LastUpdate": 1757627931,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.33.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.33.0/latest.zip"
+    "Changelog": "- Added: An \"Event Object Manager\" tab.\n- Added: New unlock tabs \"Chocobo Taxi Stands\" and \"HowTos\".\n- Added: An \"Unlock Span Length Test\" tab to quickly validate most bit arrays in UIState and PlayerState.\n- Fixed: `void*` no longer show their own address. Instead, the address it points to is shown.\n- Updated: ClientStructs now at c5652dd3 (compare).",
+    "DownloadCount": 0,
+    "LastUpdate": 1758117594,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.34.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.34.0/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -37,7 +37,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Portrait Helper\n\n- Fixed: Incorrect use of ImGui caused the game to crash when reordering presets in the Preset Browser. Sorry about that!",
-    "DownloadCount": 3430,
+    "DownloadCount": 3483,
     "LastUpdate": 1757945377,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v38.0.4/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v38.0.4/latest.zip"
@@ -59,7 +59,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Update for 7.3 (Dalamud API 13).",
-    "DownloadCount": 1226,
+    "DownloadCount": 1227,
     "LastUpdate": 1754742951,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.4/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.4/latest.zip"
