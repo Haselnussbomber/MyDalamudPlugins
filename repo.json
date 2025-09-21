@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselDebug",
     "InternalName": "HaselDebug",
-    "AssemblyVersion": "1.34.0",
+    "AssemblyVersion": "1.34.1",
     "Description": "For developers.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
-    "Changelog": "- Added: An \"Event Object Manager\" tab.\n- Added: New unlock tabs \"Chocobo Taxi Stands\" and \"HowTos\".\n- Added: An \"Unlock Span Length Test\" tab to quickly validate most bit arrays in UIState and PlayerState.\n- Fixed: `void*` no longer show their own address. Instead, the address it points to is shown.\n- Updated: ClientStructs now at c5652dd3 (compare).",
-    "DownloadCount": 144,
-    "LastUpdate": 1758117594,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.34.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.34.0/latest.zip"
+    "Changelog": "- Fixed: In the Addon Inspector, Text Nodes now correctly show Text Color keyframes instead of Part ID keyframes.\n- Updated: ClientStructs now at e6a625a0 (compare).",
+    "DownloadCount": 0,
+    "LastUpdate": 1758473273,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.34.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.34.1/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -37,7 +37,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "New Tweak: Glamour Dresser Keyboard Navigation\n\nEnables using arrow keys to select items in the Glamour Dresser.",
-    "DownloadCount": 3859,
+    "DownloadCount": 3940,
     "LastUpdate": 1758194713,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v39.0.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v39.0.0/latest.zip"
@@ -59,7 +59,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Update for 7.3 (Dalamud API 13).",
-    "DownloadCount": 1266,
+    "DownloadCount": 1267,
     "LastUpdate": 1754742951,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.4/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.4/latest.zip"
