@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselDebug",
     "InternalName": "HaselDebug",
-    "AssemblyVersion": "1.35.0",
+    "AssemblyVersion": "1.35.1",
     "Description": "For developers.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
-    "Changelog": "- Added: A Completion tab to search through auto-translate texts.\n- Updated: The \"Export Timeline\" button now copies code that is indented using tabs.\n- Updated: Updated Link macro expression names and added names for Description, WKSPioneeringTrail and MKDLore links.\n- Fixed: When using the \"Export Timeline\" button, `textColor` and `textOutlineColor` parameters had a closing bracket too much after the value.\n- Updated: ClientStructs now at 775e4363 (compare).",
+    "Changelog": "- Updated: Text in the \"Completion\" tab is now copyable.\n- Fixed: The categories in the \"Completion\" tab are now correctly force-opened when the search term has changed and exists.",
     "DownloadCount": 0,
-    "LastUpdate": 1758631533,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.35.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.35.0/latest.zip"
+    "LastUpdate": 1758632191,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.35.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.35.1/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -37,7 +37,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "New Tweak: Glamour Dresser Keyboard Navigation\n\nEnables using arrow keys to select items in the Glamour Dresser.",
-    "DownloadCount": 4560,
+    "DownloadCount": 4564,
     "LastUpdate": 1758194713,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v39.0.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v39.0.0/latest.zip"
