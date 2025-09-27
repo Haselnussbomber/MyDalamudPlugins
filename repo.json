@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Updated: Text in the \"Completion\" tab is now copyable.\n- Fixed: The categories in the \"Completion\" tab are now correctly force-opened when the search term has changed and exists.",
-    "DownloadCount": 128,
+    "DownloadCount": 136,
     "LastUpdate": 1758632191,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.35.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.35.1/latest.zip"
@@ -37,7 +37,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "New Tweak: Cosmic Research in Duty List\n\nDisplays the progress of Cosmic Research in the Duty List during Cosmic Exploration.\n\nConfiguration options:\n\n- Show class score for achievements after completing Cosmic Research (default on)\n- Show completed datasets (default on)\n\n<img width=\"389\" height=\"157\" alt=\"Screenshot\" src=\"https://github.com/user-attachments/assets/888cbf55-6211-4b3c-b5f7-06cb2b4d6a41\" />\n\nEnhanced Experience Bar\n\n- Removed: The Cosmic Research Bar has been replaced with the \"Cosmic Research in Duty List\" tweak.",
-    "DownloadCount": 2521,
+    "DownloadCount": 2861,
     "LastUpdate": 1758824743,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v40.0.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v40.0.0/latest.zip"
@@ -59,7 +59,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Update for 7.3 (Dalamud API 13).",
-    "DownloadCount": 1299,
+    "DownloadCount": 1301,
     "LastUpdate": 1754742951,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.4/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.4/latest.zip"
