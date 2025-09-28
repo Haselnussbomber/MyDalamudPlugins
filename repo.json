@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Updated: Text in the \"Completion\" tab is now copyable.\n- Fixed: The categories in the \"Completion\" tab are now correctly force-opened when the search term has changed and exists.",
-    "DownloadCount": 156,
+    "DownloadCount": 157,
     "LastUpdate": 1758632191,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.35.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.35.1/latest.zip"
@@ -24,7 +24,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "40.0.0",
+    "AssemblyVersion": "40.0.1",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -36,11 +36,11 @@
     "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/HaselTweaks/refs/heads/dev/HaselTweaks/Assets/Icon.png",
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "New Tweak: Cosmic Research in Duty List\n\nDisplays the progress of Cosmic Research in the Duty List during Cosmic Exploration.\n\nConfiguration options:\n\n- Show class score for achievements after completing Cosmic Research (default on)\n- Show completed datasets (default on)\n\n<img width=\"389\" height=\"157\" alt=\"Screenshot\" src=\"https://github.com/user-attachments/assets/888cbf55-6211-4b3c-b5f7-06cb2b4d6a41\" />\n\nEnhanced Experience Bar\n\n- Removed: The Cosmic Research Bar has been replaced with the \"Cosmic Research in Duty List\" tweak.",
-    "DownloadCount": 3433,
-    "LastUpdate": 1758824743,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v40.0.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v40.0.0/latest.zip"
+    "Changelog": "Cosmic Research in Duty List\n\n- Fixed: A rounding issue that causes datasets to be marked as complete when they actually weren't.",
+    "DownloadCount": 0,
+    "LastUpdate": 1759073271,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v40.0.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v40.0.1/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -59,7 +59,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Update for 7.3 (Dalamud API 13).",
-    "DownloadCount": 1305,
+    "DownloadCount": 1307,
     "LastUpdate": 1754742951,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.4/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.4/latest.zip"
