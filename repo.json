@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: Golden Agent/Addon navigation links in the Addon Inspector and Agents tabs.\n- Added: The Addon Inspector now shows the callback handler, including EventKind.\n- Added: ByteColor structs now also show the color in CSS hex color notation (8 digits), the UIColor RowId (if found for the current theme) and a small visual preview.\n- Added: Type redirect for MassivePcContentDirector.\n- Updated: ClientStructs now at b41eccb6 (compare).",
-    "DownloadCount": 200,
+    "DownloadCount": 205,
     "LastUpdate": 1759098360,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.36.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.36.0/latest.zip"
@@ -37,7 +37,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Cosmic Research in Duty List\n\n- Fixed: A rounding issue that causes datasets to be marked as complete when they actually weren't.",
-    "DownloadCount": 5775,
+    "DownloadCount": 5958,
     "LastUpdate": 1759073271,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v40.0.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v40.0.1/latest.zip"
@@ -59,7 +59,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Update for 7.3 (Dalamud API 13).",
-    "DownloadCount": 1356,
+    "DownloadCount": 1359,
     "LastUpdate": 1754742951,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.4/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.4/latest.zip"
