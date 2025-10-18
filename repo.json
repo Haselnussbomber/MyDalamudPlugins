@@ -24,7 +24,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "40.0.1",
+    "AssemblyVersion": "40.0.2",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -36,11 +36,11 @@
     "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/HaselTweaks/refs/heads/dev/HaselTweaks/Assets/Icon.png",
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Cosmic Research in Duty List\n\n- Fixed: A rounding issue that causes datasets to be marked as complete when they actually weren't.",
-    "DownloadCount": 6891,
-    "LastUpdate": 1759073271,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v40.0.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v40.0.1/latest.zip"
+    "Changelog": "Glamour Dresser Keyboard Navigation\n\n- Fixed: Items didn't switch correctly when using arrow keys.",
+    "DownloadCount": 0,
+    "LastUpdate": 1760792477,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v40.0.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v40.0.2/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -59,7 +59,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Update for 7.3 (Dalamud API 13).",
-    "DownloadCount": 1392,
+    "DownloadCount": 1393,
     "LastUpdate": 1754742951,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.4/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.4/latest.zip"
