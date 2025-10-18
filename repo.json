@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: A Furniture Catalog tab to preview all indoor and outdoor furniture, including those that aren't listed in the games list.\n- Added: A Gaiji Fontdata (gfd) tab, including names of Dalamuds BitmapFontIcon.\n- Updated: Currency Manager tab now shows currency icons and items have a context menu.\n- Updated: Added support for the following sheets to the Unlock Links table: BGMSwitch, DescriptionSection, EmjVoiceNpc, EventTutorial, MKDLore and PatchMark.\n- Updated: Added support for Occult Record Items to the Unlock Links table.\n- Updated: ClientStructs now at b1dabe8d (compare).\n- Fixed: The width of the Sheet/Row column in the Unlock Links table has been increased slightly to fit the text.\n- Fixed: Filtered out 3 unobtainable Chocobo Taxi Stands.\n- Fixed: Filtered out Emotes without a value in the Order column.",
-    "DownloadCount": 163,
+    "DownloadCount": 164,
     "LastUpdate": 1760309412,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.37.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.37.0/latest.zip"
@@ -37,7 +37,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Cosmic Research in Duty List\n\n- Fixed: A rounding issue that causes datasets to be marked as complete when they actually weren't.",
-    "DownloadCount": 6843,
+    "DownloadCount": 6891,
     "LastUpdate": 1759073271,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v40.0.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v40.0.1/latest.zip"
@@ -59,7 +59,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Update for 7.3 (Dalamud API 13).",
-    "DownloadCount": 1391,
+    "DownloadCount": 1392,
     "LastUpdate": 1754742951,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.4/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.4/latest.zip"
