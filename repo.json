@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: New unlock tab \"Items\".\n- Added: Type redirect for FishingEventHandler.\n- Added: Support to switch to experimental sheets in the \"Excel (v2)\" tab.\n- Added: A Patch column was added to the \"Recipes\" unlock tab.\n- Added: The missing 4 new unknown columns to the \"UIColor\" tab.\n- Added: \"Unlock Span Length Test\" tab now lists arrays from QuestManager.\n- Fixed: \"UIColor\" inputs are now correctly spanning the whole width of the column.\n- Fixed: PlaceNames in the \"Territory Intended Use\" tab are now correctly using the UI language.\n- Updated: The \"Territory Intended Use\" and \"Item Action Type\" tabs now load their data asynchronously.\n- Updated: ClientStructs now at f2341514 (compare).",
-    "DownloadCount": 218,
+    "DownloadCount": 222,
     "LastUpdate": 1761607609,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.38.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.38.0/latest.zip"
@@ -37,7 +37,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Commands\n\n- Fixed: `/reloadui` wasn't usable when on the Free Trial. (Thanks to @Enriath)",
-    "DownloadCount": 6210,
+    "DownloadCount": 6282,
     "LastUpdate": 1761691811,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v40.0.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v40.0.3/latest.zip"
@@ -59,7 +59,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Update for 7.3 (Dalamud API 13).",
-    "DownloadCount": 1507,
+    "DownloadCount": 1508,
     "LastUpdate": 1754742951,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.4/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.4/latest.zip"
