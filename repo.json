@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselDebug",
     "InternalName": "HaselDebug",
-    "AssemblyVersion": "1.38.0",
+    "AssemblyVersion": "1.39.0",
     "Description": "For developers.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
-    "Changelog": "- Added: New unlock tab \"Items\".\n- Added: Type redirect for FishingEventHandler.\n- Added: Support to switch to experimental sheets in the \"Excel (v2)\" tab.\n- Added: A Patch column was added to the \"Recipes\" unlock tab.\n- Added: The missing 4 new unknown columns to the \"UIColor\" tab.\n- Added: \"Unlock Span Length Test\" tab now lists arrays from QuestManager.\n- Fixed: \"UIColor\" inputs are now correctly spanning the whole width of the column.\n- Fixed: PlaceNames in the \"Territory Intended Use\" tab are now correctly using the UI language.\n- Updated: The \"Territory Intended Use\" and \"Item Action Type\" tabs now load their data asynchronously.\n- Updated: ClientStructs now at f2341514 (compare).",
-    "DownloadCount": 252,
-    "LastUpdate": 1761607609,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.38.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.38.0/latest.zip"
+    "Changelog": "- Added: Excel (v2) now supports displaying untyped sheets and now has a global search (Thanks to @Oblituarius!)\n  - I made the following changes after the PR has been merged:\n    - Added: A toggle allows searching for strings as macro strings.\n    - Added: Subrow sheets are now supported in the global search.\n    - Updated: Improved performace for global search by adding parallelization and checking column types.\n- Fixed: The \"Outfits\" table is now refreshed when logging in.\n- Fixed: The \"Unlocks\" summary table now renders correctly again.\n- Fixed: The tables in the \"Drag Drop Type\" tab now have a fixed height of 600px, so they are actually usable.\n- Changed: The \"Item Action Type\" tab was renamed to \"Item Actions\". The ItemAction sheet a mapping between the Item and the Action sheet. Who knew?\n- Changed: A couple services now load asynchronously to make opening the window faster and not hang the game for a couple seconds.\n- Updated: The RowIds in the \"Excel (v2)\" tab can now be copied.\n- Updated: ClientStructs now at 94e37492 (compare).",
+    "DownloadCount": 0,
+    "LastUpdate": 1763986033,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.39.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.39.0/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -37,7 +37,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Commands\n\n- Fixed: `/reloadui` wasn't usable when on the Free Trial. (Thanks to @Enriath)",
-    "DownloadCount": 7155,
+    "DownloadCount": 7188,
     "LastUpdate": 1761691811,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v40.0.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v40.0.3/latest.zip"
@@ -59,7 +59,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Update for 7.3 (Dalamud API 13).",
-    "DownloadCount": 1555,
+    "DownloadCount": 1558,
     "LastUpdate": 1754742951,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.4/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.4/latest.zip"
