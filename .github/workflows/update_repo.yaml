@@ -10,7 +10,7 @@ on:
 jobs:
   update:
     name: Update Repo
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-slim
     steps:
       - uses: denoland/setup-deno@v2
         with:
