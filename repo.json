@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: A new Beast Tribe tab. Nothing special, just displaying some values.\n- Fixed: `ImGuiHelpers.SeStringWrapped` from Dalamud now requires the font to be set when passing in a draw list (used to calculate tooltip text sizes in here).",
-    "DownloadCount": 0,
+    "DownloadCount": 51,
     "LastUpdate": 1764872735,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.40.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.40.1/latest.zip"
@@ -37,7 +37,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Commands\n\n- Fixed: `/reloadui` wasn't usable when on the Free Trial. (Thanks to @Enriath)",
-    "DownloadCount": 7674,
+    "DownloadCount": 7684,
     "LastUpdate": 1761691811,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v40.0.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v40.0.3/latest.zip"
