@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselDebug",
     "InternalName": "HaselDebug",
-    "AssemblyVersion": "1.40.1",
+    "AssemblyVersion": "1.41.0",
     "Description": "For developers.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
-    "Changelog": "- Added: A new Beast Tribe tab. Nothing special, just displaying some values.\n- Fixed: `ImGuiHelpers.SeStringWrapped` from Dalamud now requires the font to be set when passing in a draw list (used to calculate tooltip text sizes in here).",
-    "DownloadCount": 81,
-    "LastUpdate": 1764872735,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.40.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.40.1/latest.zip"
+    "Changelog": "- Added: Addon Inspector now shows field names or possible field offsets for nodes in cyan.\n- Added: A new option to enable pointer validation (default on). This is resource-intensive, but might prevent crashes.\n- Fixed: A crash when setting an empty text for a TextNode.\n- Fixed: A possible crash when hovering nodes.\n- Updated: ClientStructs now at 6f339d8f (compare).",
+    "DownloadCount": 0,
+    "LastUpdate": 1764982913,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.41.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.41.0/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -37,7 +37,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Commands\n\n- Fixed: `/reloadui` wasn't usable when on the Free Trial. (Thanks to @Enriath)",
-    "DownloadCount": 7700,
+    "DownloadCount": 7737,
     "LastUpdate": 1761691811,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v40.0.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v40.0.3/latest.zip"
@@ -59,7 +59,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Update for 7.3 (Dalamud API 13).",
-    "DownloadCount": 1604,
+    "DownloadCount": 1608,
     "LastUpdate": 1754742951,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.4/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.4/latest.zip"
