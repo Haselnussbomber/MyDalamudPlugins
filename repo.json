@@ -37,7 +37,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Commands\n\n- Fixed: `/reloadui` wasn't usable when on the Free Trial. (Thanks to @Enriath)",
-    "DownloadCount": 8258,
+    "DownloadCount": 8259,
     "LastUpdate": 1761691811,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v40.0.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v40.0.3/latest.zip"
