@@ -24,7 +24,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "40.1.0",
+    "AssemblyVersion": "40.1.1",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -36,11 +36,11 @@
     "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/HaselTweaks/refs/heads/main/HaselTweaks/Assets/Icon.png",
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Update for 7.4.\n\nCommands\n\n- Updated: `/whatbarding` can now print the bardings of the targets mount.\n\nGear Set Grid\n\n- Added: The Average Item Level is now shown in the tooltip of the Gear Set entry.\n\nGlamour Dresser Keyboard Navigation\n\n- Updated: Selection now also works when the \"Glamour Plate Creation\" window is focused.\n\nScrollable Tabs\n\n- Note: The new Command Panel has this feature built-in already. This is not happening because of this tweak and I am not responsible for the clicky sounds it makes.\n- Added: Scrolling in the Facewear window is now supported.",
+    "Changelog": "Outfit Glamour Try On\n\n- Fixed: Context menu entry didn't work correctly due to offset changes.",
     "DownloadCount": 0,
-    "LastUpdate": 1766090043,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v40.1.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v40.1.0/latest.zip"
+    "LastUpdate": 1766107822,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v40.1.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v40.1.1/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
