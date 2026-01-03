@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselDebug",
     "InternalName": "HaselDebug",
-    "AssemblyVersion": "1.42.7",
+    "AssemblyVersion": "1.43.0",
     "Description": "For developers.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
-    "Changelog": "- Fixed: Possible crash when hovering invalid GameObjects. Before grabbing its position for the highlight-line, it will check if the object is listed in the object table (GameObjectManager).",
-    "DownloadCount": 393,
-    "LastUpdate": 1766877850,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.42.7/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.42.7/latest.zip"
+    "Changelog": "Happy new year!\n\n- Changed: Addons starting with `KTK_Overlay` are now sorted to the bottom of the node picker list.\n- Updated: The node list search in the Addon Inspector was slightly improved, so that you can specify more precisely what to search.  \n  Supported tags are:\n\n  - Node ids with `id:15` or just `#15`\n  - Node types with `type:res`\n  - Node addresses with `addr:0x28EFEDA19F0`, `addr:2813184317936`\n  - ImageNode IconId with `img:123456`\n  - ImageNode Filename with `img:ui/uld/ChatLog_hr1.tex`\n  - ImageNode PartId with `part:15`\n  - TextNode NodeText with `text:Title` or with space `text:\"Free Company\"`\n\n  It's possible to exclude these tags by prefixing them with a `-`.  \n  Naturally these are mixable with each other and still work without prefix.\n- Updated: Holding shift while the node picker is active will now display nodes inside components.\n- Updated: The struct displayed in the Atk Event tab is now automatically changed for further events:\n  - `AtkEventType.ChildAddonAttached` uses `AtkEventData.AtkAddonControlData`\n  - `AtkEventType.ValueUpdate` uses `AtkEventData.AtkValueData`\n  - `AtkEventType.TimelineActiveLabelChanged` uses `AtkEventData.AtkTimelineData`\n- Fixed: The highlight rectangle when hovering a node did not take the game windows position into account when playing in windowed mode.",
+    "DownloadCount": 0,
+    "LastUpdate": 1767478437,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.43.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.43.0/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -37,7 +37,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Happy new year!\n\nTweak reworked: Bigger Character Previews\n\nPreviously called Bigger Item Dyeing Preview. The config was not migrated due to new config options.\n\n- Added: Support for the windows Character, Examine and Fitting Room.\n- Added: Config options to increase the sharpness of the preview images.  \n  I think it disables some kind of downscaling. It's disabled for the Character window by default, because I think it looks worse there when it's on. But it's your choice!",
-    "DownloadCount": 0,
+    "DownloadCount": 287,
     "LastUpdate": 1767474872,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v41.0.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v41.0.0/latest.zip"
@@ -59,7 +59,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Update for 7.4 (Dalamud API 14).",
-    "DownloadCount": 1318,
+    "DownloadCount": 1320,
     "LastUpdate": 1766113008,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.5/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.5/latest.zip"
@@ -81,7 +81,7 @@
     "Punchline": "Tracking assistant for Yo-kai Watch rewards",
     "AcceptsFeedback": true,
     "Changelog": "- Added: The server info bar entry can not be clicked to open the plugin window.\n- Added: The server info bar entry now shows the locations in which you can farm the medals in the tooltip.\n- Added: In the table, the medal count of each weapon now also has a tooltip that shows the locations in which you can farm them. A location displayed in a green color is your current location.\n- Added: In the table, the minion name can now be clicked to summon it and will be shown in a green color when it is currently summoned.\n- Changed: The server info bar entry is now based on the currently summoned minion (previously it was based on inventory changes - the medals that were added) and will persist between zones until the minion is sent away or the weapon has been acquired.",
-    "DownloadCount": 1117,
+    "DownloadCount": 1118,
     "LastUpdate": 1714178614,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/YokaiCheck/releases/download/v1.2.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/YokaiCheck/releases/download/v1.2.0/latest.zip"
