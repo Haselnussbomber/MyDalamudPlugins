@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: The Addon Inspector now displays the class name of KTK nodes. (Thanks to @MidoriKami)\n  - A config option \"Better readable KTK Node Names\" allows to toggle whether the original class name should be preserved ('ExampleName'), or if it should split on a capital letter ('Example Name', default).\n- Changed: Types are now loaded asynchronously when the plugin loads. This should fix an issue when the \"Auto-open HaselDebug\" option was enabled, where the last selected tab wasn't restored due to instances not being loaded.",
-    "DownloadCount": 229,
+    "DownloadCount": 244,
     "LastUpdate": 1767489338,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.44.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.44.0/latest.zip"
@@ -37,7 +37,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Happy new year!\n\nTweak reworked: Bigger Character Previews\n\nPreviously called Bigger Item Dyeing Preview. The config was not migrated due to new config options.\n\n- Added: Support for the windows Character, Examine and Fitting Room.\n- Added: Config options to increase the sharpness of the preview images.  \n  I think it disables some kind of downscaling. It's disabled for the Character window by default, because I think it looks worse there when it's on. But it's your choice!",
-    "DownloadCount": 4530,
+    "DownloadCount": 4860,
     "LastUpdate": 1767474872,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v41.0.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v41.0.0/latest.zip"
@@ -59,7 +59,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Update for 7.4 (Dalamud API 14).",
-    "DownloadCount": 1412,
+    "DownloadCount": 1425,
     "LastUpdate": 1766113008,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.5/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.5/latest.zip"
@@ -81,7 +81,7 @@
     "Punchline": "Tracking assistant for Yo-kai Watch rewards",
     "AcceptsFeedback": true,
     "Changelog": "- Added: The server info bar entry can not be clicked to open the plugin window.\n- Added: The server info bar entry now shows the locations in which you can farm the medals in the tooltip.\n- Added: In the table, the medal count of each weapon now also has a tooltip that shows the locations in which you can farm them. A location displayed in a green color is your current location.\n- Added: In the table, the minion name can now be clicked to summon it and will be shown in a green color when it is currently summoned.\n- Changed: The server info bar entry is now based on the currently summoned minion (previously it was based on inventory changes - the medals that were added) and will persist between zones until the minion is sent away or the weapon has been acquired.",
-    "DownloadCount": 1170,
+    "DownloadCount": 1181,
     "LastUpdate": 1714178614,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/YokaiCheck/releases/download/v1.2.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/YokaiCheck/releases/download/v1.2.0/latest.zip"
