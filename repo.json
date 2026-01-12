@@ -37,7 +37,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "HaselTweaks\n\n- Switched 3 ReceiveEvent hooks to the new IAgentLifecycle service from Dalamud: Aether Current Helper, Enhanced Material List, Enhanced Hunting Log.\n- The fuzzy matcher used for the search bar of Enhanced Isleworks Agenda was updated to kizers code from an open pull request to Dalamud.\n\nBigger Character Previews\n\n- Fixed: Added missing translations. I had a single option to sharpen all previews at first, before reworking it into multiple, per-window options.\n\nPortrait Helper\n\n- Fixed: The gear mismatch notification would trigger incorrectly while using the Duty Recorder.",
-    "DownloadCount": 0,
+    "DownloadCount": 23,
     "LastUpdate": 1768221677,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v41.0.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v41.0.1/latest.zip"
