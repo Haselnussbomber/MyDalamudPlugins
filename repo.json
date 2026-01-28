@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselDebug",
     "InternalName": "HaselDebug",
-    "AssemblyVersion": "1.46.0",
+    "AssemblyVersion": "1.47.0",
     "Description": "For developers.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
-    "Changelog": "- Changed: Renamed Pointer Inspector to Address Inspector.\n- Added: Right-clicking on a nodes/components address, addon or agent now opens a context menu to open the address in the Address Inspector.\n- Added: Spawn Object Log and Spawn Treasure Log tabs.\n- Updated: Excel sheet property names and values are now copyable in the inspector.\n- Updated: The SeString preview is now copyable in the inspector.\n- Updated: The SeString preview now shows the macro string when holding shift, also letting you copy it.\n- Fixed: Opening SeStrings in Excel sheets didn't work properly.\n- Fixed: In the Address Inspector, some FixedArrays weren't displayed and pointers of type `Pointer<T>` are now unboxed.\n- Updated: ClientStructs now at 5b9ecbd8 (compare).",
-    "DownloadCount": 150,
-    "LastUpdate": 1769504915,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.46.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.46.0/latest.zip"
+    "Changelog": "- Changed: The plugin window now hides itself when picking a node in the Addon Inspector.\n- Added: It is now possible to pick nodes in `AtkUnitBase.AdditionalFocusableNodes`, for example the docked detail window in the Mogpendium.\n- Added: Added an Actor Control Log tab to log ActorControl packets that the client receives (only non-recorded packets and only stored in memory, so don't forget to disable it again).",
+    "DownloadCount": 0,
+    "LastUpdate": 1769607130,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.47.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.47.0/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -37,7 +37,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "- Updated ClientStructs for Patch 7.41.\n- Simplified code for Scrollable Tabs.",
-    "DownloadCount": 1673,
+    "DownloadCount": 1848,
     "LastUpdate": 1769582917,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v41.1.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v41.1.1/latest.zip"
