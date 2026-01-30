@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Changed: The plugin window now hides itself when picking a node in the Addon Inspector.\n- Added: It is now possible to pick nodes in `AtkUnitBase.AdditionalFocusableNodes`, for example the docked detail window in the Mogpendium.\n- Added: Added an Actor Control Log tab to log ActorControl packets that the client receives (only non-recorded packets and only stored in memory, so don't forget to disable it again).",
-    "DownloadCount": 171,
+    "DownloadCount": 178,
     "LastUpdate": 1769607130,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.47.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.47.0/latest.zip"
@@ -24,7 +24,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "41.1.1",
+    "AssemblyVersion": "41.1.2",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -36,11 +36,11 @@
     "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/HaselTweaks/refs/heads/main/HaselTweaks/Assets/Icon.png",
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "- Updated ClientStructs for Patch 7.41.\n- Simplified code for Scrollable Tabs.",
-    "DownloadCount": 4777,
-    "LastUpdate": 1769582917,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v41.1.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v41.1.1/latest.zip"
+    "Changelog": "Cosmic Research in Duty List\n\n- Fixed: Latest Dataset wasn't taken into account. (Thanks to @Scrxtchy)",
+    "DownloadCount": 0,
+    "LastUpdate": 1769773109,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v41.1.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v41.1.2/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -59,7 +59,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Update for 7.4 (Dalamud API 14).",
-    "DownloadCount": 1798,
+    "DownloadCount": 1803,
     "LastUpdate": 1766113008,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.5/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.5/latest.zip"
