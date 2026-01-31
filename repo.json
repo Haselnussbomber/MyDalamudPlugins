@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Changed: The plugin window now hides itself when picking a node in the Addon Inspector.\n- Added: It is now possible to pick nodes in `AtkUnitBase.AdditionalFocusableNodes`, for example the docked detail window in the Mogpendium.\n- Added: Added an Actor Control Log tab to log ActorControl packets that the client receives (only non-recorded packets and only stored in memory, so don't forget to disable it again).",
-    "DownloadCount": 198,
+    "DownloadCount": 201,
     "LastUpdate": 1769607130,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.47.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.47.0/latest.zip"
@@ -24,7 +24,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "41.1.3",
+    "AssemblyVersion": "41.1.4",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -36,11 +36,11 @@
     "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/HaselTweaks/refs/heads/main/HaselTweaks/Assets/Icon.png",
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Character Class Switcher\n\n- Fixed: Switching to a crafter job would unintentionally open the Desynthesis Skill window briefly.\n\nScrollable Tabs\n\n- Fixed: Scrolling on the character preview in the Character window would unintentionally scroll the tabs.",
-    "DownloadCount": 2409,
-    "LastUpdate": 1769813599,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v41.1.3/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v41.1.3/latest.zip"
+    "Changelog": "Scrollable Tabs\n\n- Fixed: Scrolling in the Character window while Classes/Jobs or Repute was disabled would not work as intended.",
+    "DownloadCount": 0,
+    "LastUpdate": 1769874332,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v41.1.4/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v41.1.4/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
