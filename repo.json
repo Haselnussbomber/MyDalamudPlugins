@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Updated: ClientStructs now at c1430546 (compare).",
-    "DownloadCount": 177,
+    "DownloadCount": 191,
     "LastUpdate": 1770335256,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.47.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.47.2/latest.zip"
@@ -37,7 +37,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "HaselTweaks\n\n- Changed: Reworked some internal item-related code. If you notice anything weird, please report it. Thanks!\n- Fixed: A debug subcommand was accidentally enabled in release builds and was additionally causing a harmless error when the plugin unloaded.",
-    "DownloadCount": 4520,
+    "DownloadCount": 4865,
     "LastUpdate": 1770363499,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v41.1.5/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v41.1.5/latest.zip"
@@ -59,7 +59,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Update for 7.4 (Dalamud API 14).",
-    "DownloadCount": 1879,
+    "DownloadCount": 1882,
     "LastUpdate": 1766113008,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.5/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.5/latest.zip"
