@@ -37,7 +37,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "HaselTweaks\n\n- Changed: Reworked some internal item-related code. If you notice anything weird, please report it. Thanks!\n- Fixed: A debug subcommand was accidentally enabled in release builds and was additionally causing a harmless error when the plugin unloaded.",
-    "DownloadCount": 5988,
+    "DownloadCount": 6048,
     "LastUpdate": 1770363499,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v41.1.5/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v41.1.5/latest.zip"
