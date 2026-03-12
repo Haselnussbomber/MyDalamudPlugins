@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselDebug",
     "InternalName": "HaselDebug",
-    "AssemblyVersion": "1.50.0",
+    "AssemblyVersion": "1.51.0",
     "Description": "For developers.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
-    "Changelog": "- Added: A LogMessage Log tab that lists all dispatched IChatGui.LogMessage events.\n- Added: A new Sound Manager tab for playing around with sounds.\n- Added: Highlighting a positional SoundData entry will draw a line to its position.\n- Updated: ClientStructs now at 008914bf (compare).",
-    "DownloadCount": 187,
-    "LastUpdate": 1772323902,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.50.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.50.0/latest.zip"
+    "Changelog": "- Added: The Addon Inspector now has an \"Observe Events\" button on addons, which opens a window to log ReceiveEvent calls.\n- Fixed: Only one field at an offset were shown. I forgot unions existed.\n- Updated: Handler names in the Atk Handler Calls tab were updated.\n- Updated: ClientStructs now at 1757d8f3 (compare).",
+    "DownloadCount": 0,
+    "LastUpdate": 1773280732,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.51.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.51.0/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -37,7 +37,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "- Updated ClientStructs for Patch 7.45 HotFix.",
-    "DownloadCount": 0,
+    "DownloadCount": 1600,
     "LastUpdate": 1773240769,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v41.1.8/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v41.1.8/latest.zip"
