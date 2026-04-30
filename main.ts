@@ -6,7 +6,7 @@ const repos = [
   "YokaiCheck",
 ];
 
-const clearText = (str) => {
+const clearText = (str: string) => {
   return str
     .replace(/\p{Extended_Pictographic}/gu, "") // remove emojis
     .replace(/\*\*(.*)\*\*/g, "$1") // extract markdown bold text
@@ -17,10 +17,9 @@ const clearText = (str) => {
 };
 
 const output = await Promise.all(repos.map(async (repo) => {
-  let res = await fetch(`https://api.github.com/repos/${user}/${repo}/releases/latest`);
+  const res = await fetch(`https://api.github.com/repos/${user}/${repo}/releases/latest`);
   const latest = await res.json();
   let out = {
-    AssemblyVersion: latest.tag_name.replace(/^v/, ""),
     Changelog: clearText(latest.body),
     DownloadCount: latest.assets[0].download_count,
     LastUpdate: new Date(latest.published_at).valueOf() / 1000,
