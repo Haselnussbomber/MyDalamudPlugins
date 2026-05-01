@@ -14,8 +14,8 @@
     "LoadPriority": 0,
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
-    "Changelog": "- Added: Event Play and Event Yield Log tab to inspect data from those packets.\n- Added: A new Lgb Inspector tab to display information of the active layout.\n- Updated: Scene.Objects are now highlighted when hovering over them.\n- Updated: The following Scene.Object sub-classes are now resolved based on the type: Terrain, BgObject, VfxObject, Light, EnvSpace, EnvLocation and Decal.\n- Updated: The following ILayoutInstance-implementing classes are now resolved based on the type: BgPart, Sound, MapRange, Timeline, CollisionBox and DoorRange.\n- Updated: The type of AtkValues is now shown.\n- Updated: The Unlock Span Length Test now also lists `UIState.TitleList.UnlockedTitles`, which is a BitArray now.\n- Fixed: Names in Atk Handler Calls tab tab were updated (their index shifted by 1 this patch).\n- Fixed: Clicking on BitField addresses while holding shift copied an incorrect address.\n- Updated: ClientStructs now at d95cb0d6 (compare).",
-    "DownloadCount": 379,
+    "Changelog": "- Added: Event Play and Event Yield Log tab to inspect data from those packets.\n- Added: A new Lgb Inspector tab to display information of the active layout.\n- Updated: Scene.Objects are now highlighted when hovering over them.\n- Updated: The following Scene.Object sub-classes are now resolved based on the type: Terrain, BgObject, VfxObject, Light, EnvSpace, EnvLocation and Decal.\n- Updated: The following ILayoutInstance-implementing classes are now resolved based on the type: BgPart, Sound, MapRange, Timeline, CollisionBox and DoorRange.\n- Updated: The type of AtkValues is now shown.\n- Updated: The Unlock Span Length Test now also lists `UIState.TitleList.UnlockedTitles`, which is a BitArray now.\n- Fixed: Names in Atk Handler Calls tab were updated (their index shifted by 1 this patch).\n- Fixed: Clicking on BitField addresses while holding shift copied an incorrect address.\n- Updated: ClientStructs now at d95cb0d6 (compare).",
+    "DownloadCount": 416,
     "LastUpdate": 1777548618,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.55.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.55.0/latest.zip"
@@ -37,7 +37,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "HaselTweaks\n\n- Updated for Patch 7.45.\n- Slightly updated the main plugin window. It's now possible to search for tweaks.\n\nNew Tweak: Armoire Quick Store\n\nShows a button above the \"Armoire\" window to place the first item in the list into the armoire.\n\nGear Set Grid\n\n- Changed: The soul crystals item level is now hidden. It's always 30.\n\nGlamour Dresser Armoire Alert\n\n- Added: Outfits can now be withdrawn from the Glamour Dresser.  \n  Note: It will extract all items of an outfit. If you have the game's setting enabled to store items in the Inventory, make sure to have enough space or it will throw excess items into your Armoury.",
-    "DownloadCount": 5865,
+    "DownloadCount": 6823,
     "LastUpdate": 1777548027,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v42.0.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v42.0.0/latest.zip"
@@ -59,7 +59,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Update for 7.5 (Dalamud API 15).",
-    "DownloadCount": 1062,
+    "DownloadCount": 1208,
     "LastUpdate": 1777545202,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.6/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.6/latest.zip"
