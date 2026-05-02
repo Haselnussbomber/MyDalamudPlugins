@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselDebug",
     "InternalName": "HaselDebug",
-    "AssemblyVersion": "1.55.0.0",
+    "AssemblyVersion": "1.56.0.0",
     "Description": "For developers.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
-    "Changelog": "- Added: Event Play and Event Yield Log tab to inspect data from those packets.\n- Added: A new Lgb Inspector tab to display information of the active layout.\n- Updated: Scene.Objects are now highlighted when hovering over them.\n- Updated: The following Scene.Object sub-classes are now resolved based on the type: Terrain, BgObject, VfxObject, Light, EnvSpace, EnvLocation and Decal.\n- Updated: The following ILayoutInstance-implementing classes are now resolved based on the type: BgPart, Sound, MapRange, Timeline, CollisionBox and DoorRange.\n- Updated: The type of AtkValues is now shown.\n- Updated: The Unlock Span Length Test now also lists `UIState.TitleList.UnlockedTitles`, which is a BitArray now.\n- Fixed: Names in Atk Handler Calls tab were updated (their index shifted by 1 this patch).\n- Fixed: Clicking on BitField addresses while holding shift copied an incorrect address.\n- Updated: ClientStructs now at d95cb0d6 (compare).",
-    "DownloadCount": 500,
-    "LastUpdate": 1777548618,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.55.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.55.0/latest.zip"
+    "Changelog": "- Added: The Input tab now has a button to copy the values for the InputId enum.\n- Added: The Input tab now compares game values vs. InputId enum and will highlight if they match or not.\n- Fixed: The UIColor tab was updated to use new names in the experimental UIColor Lumina sheet.\n- Updated: ClientStructs now at fcb5a932 (compare).",
+    "DownloadCount": 0,
+    "LastUpdate": 1777764127,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.56.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.56.0/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -37,7 +37,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Armoire Quick Store\n\n- Fixed: The tweak now skips items that are already stored in the Armoire and will find the next eligible one.",
-    "DownloadCount": 0,
+    "DownloadCount": 1730,
     "LastUpdate": 1777752557,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v42.1.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v42.1.2/latest.zip"
@@ -59,7 +59,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Update for 7.5 (Dalamud API 15).",
-    "DownloadCount": 1653,
+    "DownloadCount": 1671,
     "LastUpdate": 1777545202,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.6/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.6/latest.zip"
