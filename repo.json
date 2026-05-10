@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: Director Update Log tab to inspect data from that packet.\n- Fixed: The Outfits tab was displaying unlocked items which are part of a set incorrectly. I hope that works properly now.^^\n- Updated: ClientStructs now at b23bf540 (compare).",
-    "DownloadCount": 0,
+    "DownloadCount": 134,
     "LastUpdate": 1778339337,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.57.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.57.0/latest.zip"
@@ -37,7 +37,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Enhanced Experience Bar\n\n- Fixed: The text was unintentionally depending on Dalamuds UI language, rather than the clients language.\n- Fixed: The experience numbers were not formatted as you'd expect.",
-    "DownloadCount": 6274,
+    "DownloadCount": 7485,
     "LastUpdate": 1778245591,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v42.1.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v42.1.3/latest.zip"
@@ -59,7 +59,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Update for 7.5 (Dalamud API 15).",
-    "DownloadCount": 1992,
+    "DownloadCount": 2007,
     "LastUpdate": 1777545202,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.6/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.6/latest.zip"
