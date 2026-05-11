@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Fixed: Inherited fields of classes with multiple inheritance were displayed at incorrect offsets, because only the first vtable was taken into account.\n- Updated: ClientStructs now at a4901d90 (compare).",
-    "DownloadCount": 0,
+    "DownloadCount": 53,
     "LastUpdate": 1778449549,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.57.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.57.2/latest.zip"
@@ -37,7 +37,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Enhanced Experience Bar\n\n- Fixed: The text was unintentionally depending on Dalamuds UI language, rather than the clients language.\n- Fixed: The experience numbers were not formatted as you'd expect.",
-    "DownloadCount": 8442,
+    "DownloadCount": 8767,
     "LastUpdate": 1778245591,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v42.1.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v42.1.3/latest.zip"
@@ -59,7 +59,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Update for 7.5 (Dalamud API 15).",
-    "DownloadCount": 2034,
+    "DownloadCount": 2041,
     "LastUpdate": 1777545202,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.6/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.6/latest.zip"
