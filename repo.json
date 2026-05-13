@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Updated: The Outfits table now has a toggle to only display sets with items storable in the Armoire.\n- Updated: The contrast between collected and non-collected items in the Outfits table was improved.\n- Fixed: The amount of collected sets didn't take sets stored in the Armoire into account.\n- Updated: ClientStructs now at 6e03f96a (compare).",
-    "DownloadCount": 173,
+    "DownloadCount": 177,
     "LastUpdate": 1778542626,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.57.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.57.3/latest.zip"
@@ -37,7 +37,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "New Tweak: Enhanced Glamour Dresser\n\nNot so sure about this yet, but it's a start.\n\nConfiguration options:\n\n- Automatically select missing items from the inventory when opening the Outfit Glamour Creation\n\nTweak reworked: Glamour Dresser Alert\n\nPreviously called Glamour Dresser Armoire Alert.\n\nThe window now also lists items that can be stored as outfit set.",
-    "DownloadCount": 0,
+    "DownloadCount": 1107,
     "LastUpdate": 1778670690,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v44.0.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v44.0.0/latest.zip"
@@ -59,7 +59,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Update for 7.5 (Dalamud API 15).",
-    "DownloadCount": 2089,
+    "DownloadCount": 2093,
     "LastUpdate": 1777545202,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.6/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.6/latest.zip"
