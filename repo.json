@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Updated: The Outfits table now has a toggle to only display sets with items storable in the Armoire.\n- Updated: The contrast between collected and non-collected items in the Outfits table was improved.\n- Fixed: The amount of collected sets didn't take sets stored in the Armoire into account.\n- Updated: ClientStructs now at 6e03f96a (compare).",
-    "DownloadCount": 165,
+    "DownloadCount": 173,
     "LastUpdate": 1778542626,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.57.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.57.3/latest.zip"
@@ -24,7 +24,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "43.0.0.0",
+    "AssemblyVersion": "44.0.0.0",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -36,11 +36,11 @@
     "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/HaselTweaks/refs/heads/main/HaselTweaks/Assets/Icon.png",
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "New Tweak: Enhanced Crafting Log\n\nConfiguration options:\n\n- Remember search history  \n  Saves search terms between game sessions and restores them upon login.\n\nNew Tweak: Flash Taskbar\n\nFlashes the window on the taskbar when specific events are triggered.\n\nConfiguration options:\n\n- Flash on Alarm  \n  Triggers when a notification from the game's /alarm feature is printed in chat.\n- Flash on Combat  \n  Triggers when your character is drawn into combat.\n\nPlease note: I will not re-implement scenarios that are already covered by existing plugins.\n\nGlamour Dresser Armoire Alert\n\n- Added: An option to ignore items that are dyed.\n- Fixed: The window wouldn't hide itself when editing glamour plates.",
-    "DownloadCount": 6201,
-    "LastUpdate": 1778522355,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v43.0.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v43.0.0/latest.zip"
+    "Changelog": "New Tweak: Enhanced Glamour Dresser\n\nNot so sure about this yet, but it's a start.\n\nConfiguration options:\n\n- Automatically select missing items from the inventory when opening the Outfit Glamour Creation\n\nTweak reworked: Glamour Dresser Alert\n\nPreviously called Glamour Dresser Armoire Alert.\n\nThe window now also lists items that can be stored as outfit set.",
+    "DownloadCount": 0,
+    "LastUpdate": 1778670690,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v44.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v44.0.0/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -59,7 +59,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Update for 7.5 (Dalamud API 15).",
-    "DownloadCount": 2082,
+    "DownloadCount": 2089,
     "LastUpdate": 1777545202,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.6/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.6/latest.zip"
