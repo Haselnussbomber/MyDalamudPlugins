@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Updated: The Outfits table now has a toggle to only display sets with items storable in the Armoire.\n- Updated: The contrast between collected and non-collected items in the Outfits table was improved.\n- Fixed: The amount of collected sets didn't take sets stored in the Armoire into account.\n- Updated: ClientStructs now at 6e03f96a (compare).",
-    "DownloadCount": 106,
+    "DownloadCount": 165,
     "LastUpdate": 1778542626,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.57.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.57.3/latest.zip"
@@ -37,7 +37,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "New Tweak: Enhanced Crafting Log\n\nConfiguration options:\n\n- Remember search history  \n  Saves search terms between game sessions and restores them upon login.\n\nNew Tweak: Flash Taskbar\n\nFlashes the window on the taskbar when specific events are triggered.\n\nConfiguration options:\n\n- Flash on Alarm  \n  Triggers when a notification from the game's /alarm feature is printed in chat.\n- Flash on Combat  \n  Triggers when your character is drawn into combat.\n\nPlease note: I will not re-implement scenarios that are already covered by existing plugins.\n\nGlamour Dresser Armoire Alert\n\n- Added: An option to ignore items that are dyed.\n- Fixed: The window wouldn't hide itself when editing glamour plates.",
-    "DownloadCount": 4596,
+    "DownloadCount": 6201,
     "LastUpdate": 1778522355,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v43.0.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v43.0.0/latest.zip"
@@ -59,7 +59,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Update for 7.5 (Dalamud API 15).",
-    "DownloadCount": 2071,
+    "DownloadCount": 2082,
     "LastUpdate": 1777545202,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.6/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.6/latest.zip"
