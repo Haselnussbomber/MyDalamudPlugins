@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Updated: The Outfits table now has a toggle to only display sets with items storable in the Armoire.\n- Updated: The contrast between collected and non-collected items in the Outfits table was improved.\n- Fixed: The amount of collected sets didn't take sets stored in the Armoire into account.\n- Updated: ClientStructs now at 6e03f96a (compare).",
-    "DownloadCount": 288,
+    "DownloadCount": 291,
     "LastUpdate": 1778542626,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.57.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.57.3/latest.zip"
@@ -24,7 +24,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "45.0.0.0",
+    "AssemblyVersion": "45.0.1.0",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -36,11 +36,11 @@
     "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/HaselTweaks/refs/heads/main/HaselTweaks/Assets/Icon.png",
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "New Tweak: Enhanced Fitting Room\n\nConfiguration options:\n\n- Keep Facewear on  \n  When hiding your gear with the \"Display Gear\" button, your facewear remains visible.\n\nGlamour Dresser Alert\n\n- Added: A new config option \"Ignore items that are already present in the armoire\". Useful if you want to collect duplicates.\n\nPortrait Helper\n\nRemoved SixLabors.ImageSharp as dependency due to new licensing requirements and rewrote the code to use Windows Imaging Component (WIC) instead.\n\nAs a result of this migration:\n\n- Preset codes, which were written to the Exif metadata as `UserComment`, are now written as `Comment` to the metadata, because WIC does not support EXIF metadata in PNG files.\n- Thumbnail file sizes may be slightly larger, because WIC does not expose control over PNG compression strength.",
+    "Changelog": "Enhanced Glamour Dresser\n\n- Fixed: The game would silently fail to add missing items to a set when an item in your inventory was already part of the same set.",
     "DownloadCount": 0,
-    "LastUpdate": 1778939390,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v45.0.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v45.0.0/latest.zip"
+    "LastUpdate": 1778945355,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v45.0.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v45.0.1/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -59,7 +59,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Update for 7.5 (Dalamud API 15).",
-    "DownloadCount": 2190,
+    "DownloadCount": 2193,
     "LastUpdate": 1777545202,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.6/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.6/latest.zip"
@@ -81,7 +81,7 @@
     "Punchline": "Tracking assistant for Yo-kai Watch rewards",
     "AcceptsFeedback": true,
     "Changelog": "- Added: The server info bar entry can not be clicked to open the plugin window.\n- Added: The server info bar entry now shows the locations in which you can farm the medals in the tooltip.\n- Added: In the table, the medal count of each weapon now also has a tooltip that shows the locations in which you can farm them. A location displayed in a green color is your current location.\n- Added: In the table, the minion name can now be clicked to summon it and will be shown in a green color when it is currently summoned.\n- Changed: The server info bar entry is now based on the currently summoned minion (previously it was based on inventory changes - the medals that were added) and will persist between zones until the minion is sent away or the weapon has been acquired.",
-    "DownloadCount": 1363,
+    "DownloadCount": 1364,
     "LastUpdate": 1714178614,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/YokaiCheck/releases/download/v1.2.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/YokaiCheck/releases/download/v1.2.0/latest.zip"
