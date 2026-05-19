@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselDebug",
     "InternalName": "HaselDebug",
-    "AssemblyVersion": "1.58.1.0",
+    "AssemblyVersion": "1.58.2.0",
     "Description": "For developers.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
-    "Changelog": "- Updated: Gathering Items tab now shows collectible icon on names and has a new Type column (except for Key Items, because I don't care).\n- Updated: ClientStructs now at 4909a842 (compare).",
+    "Changelog": "- Updated: Clicking on the set name in the Outfits tab now previews the full set.\n- Updated: ClientStructs now at 1c23f405 (compare).",
     "DownloadCount": 0,
-    "LastUpdate": 1779192737,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.58.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.58.1/latest.zip"
+    "LastUpdate": 1779194616,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.58.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.58.2/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -37,7 +37,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Enhanced Fitting Room\n\n- Fixed: The first try on after login would not show facewear. The tweak now falls back to the local players facewear when the try on window has no facewear saved yet.\n\nEnhanced Glamour Dresser\n\n- Fixed: The tweak now automatically selects items when switching sets too, not just when the Outfit Glamour Creation window was first opened.",
-    "DownloadCount": 8048,
+    "DownloadCount": 8062,
     "LastUpdate": 1778955677,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v45.0.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v45.0.2/latest.zip"
