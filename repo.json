@@ -24,7 +24,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "45.0.2.0",
+    "AssemblyVersion": "46.0.0.0",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -36,11 +36,11 @@
     "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/HaselTweaks/refs/heads/main/HaselTweaks/Assets/Icon.png",
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Enhanced Fitting Room\n\n- Fixed: The first try on after login would not show facewear. The tweak now falls back to the local players facewear when the try on window has no facewear saved yet.\n\nEnhanced Glamour Dresser\n\n- Fixed: The tweak now automatically selects items when switching sets too, not just when the Outfit Glamour Creation window was first opened.",
-    "DownloadCount": 10583,
-    "LastUpdate": 1778955677,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v45.0.2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v45.0.2/latest.zip"
+    "Changelog": "HaselTweaks\n\n- Added: Japanese translations by @kxffkx. Thanks!\n\nNew Tweak: Disable Reward Popups\n\nDisables reward popups from appearing after completing activities.\n\nConfiguration options:\n\n- Hide for FATE rewards\n- Hide for MGP rewards in the Gold Saucer\n- Hide for Stellar Mission rewards in the Cosmic Exploration\n\nShop Item Icons\n\n- Added: Support for icons in the Retainer Buyback window.",
+    "DownloadCount": 0,
+    "LastUpdate": 1779631646,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v46.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v46.0.0/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
