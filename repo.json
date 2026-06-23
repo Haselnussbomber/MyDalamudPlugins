@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselDebug",
     "InternalName": "HaselDebug",
-    "AssemblyVersion": "1.60.2.0",
+    "AssemblyVersion": "1.60.3.0",
     "Description": "For developers.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
-    "Changelog": "- Fixed: The plugin wouldn't load properly due to outdated sig for TypeBase in the Inventory Operations tab.",
+    "Changelog": "- Fixed: The TypeBase type was incorrect now. I'm not paying enough attention.",
     "DownloadCount": 0,
-    "LastUpdate": 1782219832,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.60.2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.60.2/latest.zip"
+    "LastUpdate": 1782220101,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.60.3/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.60.3/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
