@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: A context menu was added to the Beast Tribes and Custom Deliveries names to open the location on the map.\n- Fixed: The coordinates of the closest aetherytes (used for Beast Tribes and Custom Deliveries) were not calculated correctly.",
-    "DownloadCount": 0,
+    "DownloadCount": 89,
     "LastUpdate": 1783614949,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.62.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.62.1/latest.zip"
@@ -24,8 +24,8 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "48.1.1.0",
-    "Description": "Keep on tweaking.",
+    "AssemblyVersion": "49.0.0.0",
+    "Description": "There is a lot of tweaks with a bunch of options.\r\nFor a detailed description please visit the plugins repository or open /haseltweaks when installed.\r\n\r\n- Achievement Link Tooltip\r\n- Aether Current Helper\r\n- Always Face Camera\r\n- Auto Sorter\r\n- Auto-open Recipe\r\n- Auto-select Soil and Seed\r\n- Background Music Keybind\r\n- Bigger Character Previews\r\n- Armoire Quick Store\r\n- Cast Bar Aetheryte Names\r\n- Character Class Switcher\r\n- Character Reputation Teleport\r\n- Commands\r\n    - /itemlink [id]\r\n    - /whatmount\r\n    - /whatemote\r\n    - /whatbarding\r\n    - /glamourplate [id]\r\n- Companion Color Preview\r\n- Cosmic Research in Duty List\r\n- Custom Chat Message Formats\r\n- Custom Chat Timestamp\r\n- DTR\r\n    - Busy status\r\n    - FPS\r\n    - Instance number\r\n- Disable Reward Popups\r\n- Enhanced Crafting Log\r\n    - Remember search history\r\n- Enhanced Experience Bar\r\n    - Companion Bar\r\n    - Island Sanctuary Bar\r\n    - PvP Series Bar \r\n- Enhanced Fitting Room\r\n    - Keep Facewear on\r\n- Enhanced Glamour Dresser\r\n    - Automatically select missing items from the inventory when opening the Outfit Glamour Creation\r\n- Enhanced Hunting Log\r\n    - Remember last selected class\r\n    - Automatically select the current class\r\n    - Automatically set the filter to \"Show Incomplete\"\r\n- Enhanced Isleworks Agenda\r\n    - Search Bar\r\n    - Disable item tooltips in the list\r\n- Enhanced Login/Logout\r\n    - Skip Logo\r\n    - Show pets in character selection\r\n    - Play emote in character selection\r\n    - Preload territory when queued\r\n    - Clear tell history on logout\r\n- Enhanced Material List\r\n    - Zone names of where to find the material\r\n    - Click to open the map of where to find the material\r\n    - Auto-refresh Material List/Recipe Tree\r\n    - Restore Material List on Login\r\n    - \"Search for Item by Crafting Method\" context menu entry\r\n- Enhanced Target Info\r\n    - Mounted status\r\n    - Fashion Accessory status\r\n    - Remove leading zero in HP under 10%\r\n- Expert Deliveries\r\n- Faster Decompression\r\n- Fast Mouse Click Fix\r\n- Flash Taskbar\r\n    - Flash on alarm\r\n    - Flash on combat\r\n    - Flash on synthesis completion\r\n- Fix Inventory Open Tab\r\n- Forced Cutscene Sounds\r\n- Gear Set Grid\r\n- Glamour Dresser Alert\r\n- Glamour Dresser Keyboard Navigation\r\n- Hide MSQ Complete\r\n- Inventory Highlight\r\n- Keep Screen Awake\r\n- Lock Window Position\r\n- Market Board Item Preview\r\n- Material Allocation\r\n- Minimap Adjustments\r\n    - Square Collision (for custom minimap mask textures)\r\n    - Default Opacity\r\n    - Hover Opacity\r\n    - Hide Coordinates\r\n    - Hide Weather\r\n    - Hide Time Indicator\r\n    - Hide Cardinal Directions\r\n- Portrait Helper\r\n    - Fine-grained controls for editing portraits\r\n    - Import/Export preset codes\r\n    - Load/Save presets\r\n    - Alignment Tool\r\n- Prevent Reel-In from Movement\r\n- Reveal Duty Requirements\r\n- Safer Market Board Price Check\r\n- Scrollable Tabs\r\n- Search the markets\r\n- Shop Item Icons\r\n- Simple Aethernet List\r\n    ",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
     "DalamudApiLevel": 15,
@@ -36,11 +36,11 @@
     "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/HaselTweaks/refs/heads/main/HaselTweaks/Assets/Icon.png",
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "I accidentally released v48.1.0 from an experimental branch in which I tried to build HaselTweaks.Native.dll under Linux.  \nThis was not ready yet. We're now back on the main branch where it builds on Windows. Sorry about that!",
-    "DownloadCount": 9975,
-    "LastUpdate": 1782783583,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v48.1.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v48.1.1/latest.zip"
+    "Changelog": "HaselTweaks\n\n- Updated description for the Plugin Installer. It just lists all the tweaks now.\n\nNew Tweak: Character Reputation Teleport\n\nClicking an Allied Society in the Character window teleports you to the nearest Aetheryte instead of opening the map. Hold Shift to open the map normally.\n\nEnhanced Login/Logout\n\n- Changed/Fixed?: To prevent that the character is spawning with a T-Pose, the emote now plays once the character is visible.",
+    "DownloadCount": 0,
+    "LastUpdate": 1783641503,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v49.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v49.0.0/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -59,7 +59,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Update for 7.5 (Dalamud API 15).",
-    "DownloadCount": 3938,
+    "DownloadCount": 3947,
     "LastUpdate": 1777545202,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.6/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.6/latest.zip"
@@ -81,7 +81,7 @@
     "Punchline": "Tracking assistant for Yo-kai Watch rewards",
     "AcceptsFeedback": true,
     "Changelog": "- Added: The server info bar entry can not be clicked to open the plugin window.\n- Added: The server info bar entry now shows the locations in which you can farm the medals in the tooltip.\n- Added: In the table, the medal count of each weapon now also has a tooltip that shows the locations in which you can farm them. A location displayed in a green color is your current location.\n- Added: In the table, the minion name can now be clicked to summon it and will be shown in a green color when it is currently summoned.\n- Changed: The server info bar entry is now based on the currently summoned minion (previously it was based on inventory changes - the medals that were added) and will persist between zones until the minion is sent away or the weapon has been acquired.",
-    "DownloadCount": 2536,
+    "DownloadCount": 2544,
     "LastUpdate": 1714178614,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/YokaiCheck/releases/download/v1.2.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/YokaiCheck/releases/download/v1.2.0/latest.zip"
