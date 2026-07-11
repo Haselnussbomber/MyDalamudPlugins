@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: A context menu was added to the Beast Tribes and Custom Deliveries names to open the location on the map.\n- Fixed: The coordinates of the closest aetherytes (used for Beast Tribes and Custom Deliveries) were not calculated correctly.",
-    "DownloadCount": 188,
+    "DownloadCount": 203,
     "LastUpdate": 1783614949,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.62.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.62.1/latest.zip"
@@ -37,7 +37,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "HaselTweaks\n\nUpdated description for the Plugin Installer. It just lists all the tweaks now.\n\nNew Tweak: Character Reputation Teleport\n\nClicking an Allied Society in the Character window teleports you to the nearest Aetheryte instead of opening the map. Hold Shift to open the map normally.\n\nEnhanced Login/Logout\n\n- Changed/Fixed?: To prevent that the character is spawning with a T-Pose, the emote now plays once the character is visible.",
-    "DownloadCount": 4493,
+    "DownloadCount": 5157,
     "LastUpdate": 1783641503,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v49.0.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v49.0.0/latest.zip"
