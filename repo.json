@@ -24,7 +24,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "49.0.1.0",
+    "AssemblyVersion": "49.1.0.0",
     "Description": "There is a lot of tweaks with a bunch of options.\r\nFor a detailed description please visit the plugins repository or open /haseltweaks when installed.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -131,11 +131,11 @@
     "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/HaselTweaks/refs/heads/main/HaselTweaks/Assets/Icon.png",
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "HaselTweaks\n\n- The description was too long for my taste. Moved the tweak names into tags, so the plugin pops up in search results (theoretically).\n\nEnhanced Login/Logout\n\n- Fixed: Non-emotes were playing repeatedly. Sorry about that!\n\nFaster Decompression\n\n- Changed: The implementation now replaces the whole ReadSqpkChunk function in order to get rid of an unnecessary memcpy call.",
+    "Changelog": "Enhanced Login/Logout\n\n- Added: Added an option to play non-looping emotes repeatedly. This is saved per-character.",
     "DownloadCount": 0,
-    "LastUpdate": 1783856519,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v49.0.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v49.0.1/latest.zip"
+    "LastUpdate": 1783857766,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v49.1.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v49.1.0/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
