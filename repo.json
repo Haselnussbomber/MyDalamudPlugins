@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: A context menu was added to the Beast Tribes and Custom Deliveries names to open the location on the map.\n- Fixed: The coordinates of the closest aetherytes (used for Beast Tribes and Custom Deliveries) were not calculated correctly.",
-    "DownloadCount": 271,
+    "DownloadCount": 278,
     "LastUpdate": 1783614949,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.62.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.62.1/latest.zip"
@@ -132,7 +132,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Enhanced Login/Logout\n\n- Added: An option to play non-looping emotes repeatedly. This is saved per-character.",
-    "DownloadCount": 5773,
+    "DownloadCount": 6375,
     "LastUpdate": 1783857766,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v49.1.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v49.1.0/latest.zip"
