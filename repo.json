@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: The Config tab now has a tab to inspect the DevConfig.\n- Updated: ClientStructs now at af24e2e9 (compare).",
-    "DownloadCount": 202,
+    "DownloadCount": 207,
     "LastUpdate": 1784147098,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.63.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.63.0/latest.zip"
@@ -24,7 +24,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "49.1.0.0",
+    "AssemblyVersion": "49.2.0.0",
     "Description": "There is a lot of tweaks with a bunch of options.\r\nFor a detailed description please visit the plugins repository or open /haseltweaks when installed.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -131,11 +131,11 @@
     "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/HaselTweaks/refs/heads/main/HaselTweaks/Assets/Icon.png",
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Enhanced Login/Logout\n\n- Added: An option to play non-looping emotes repeatedly. This is saved per-character.",
-    "DownloadCount": 8024,
-    "LastUpdate": 1783857766,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v49.1.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v49.1.0/latest.zip"
+    "Changelog": "Tweak removed: Faster Decompression\n\nThis was added to Dalamud. Still not sure if it actually increases loading performance...",
+    "DownloadCount": 0,
+    "LastUpdate": 1784372600,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v49.2.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v49.2.0/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -154,7 +154,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Update for 7.5 (Dalamud API 15).",
-    "DownloadCount": 4009,
+    "DownloadCount": 4012,
     "LastUpdate": 1777545202,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.6/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.6/latest.zip"
