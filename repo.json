@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: The Config tab now has a tab to inspect the DevConfig.\n- Updated: ClientStructs now at af24e2e9 (compare).",
-    "DownloadCount": 271,
+    "DownloadCount": 275,
     "LastUpdate": 1784147098,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.63.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.63.0/latest.zip"
@@ -132,7 +132,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Tweak removed: Faster Decompression\n\nThis was added to Dalamud. Still not sure if it actually increases loading performance...",
-    "DownloadCount": 8134,
+    "DownloadCount": 8373,
     "LastUpdate": 1784372600,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v49.2.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v49.2.0/latest.zip"
@@ -154,7 +154,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Update for 7.5 (Dalamud API 15).",
-    "DownloadCount": 4041,
+    "DownloadCount": 4042,
     "LastUpdate": 1777545202,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.6/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.6/latest.zip"
