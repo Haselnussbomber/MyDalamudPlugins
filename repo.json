@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselDebug",
     "InternalName": "HaselDebug",
-    "AssemblyVersion": "1.65.1.0",
+    "AssemblyVersion": "1.65.2.0",
     "Description": "For developers.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
-    "Changelog": "Second update for Patch 7.55.\n\n- Fixed: Broken sig in InventoryOperationsTab preventing the plugin from loading.\n- Updated: ClientStructs now at 3e2b738f (compare).",
+    "Changelog": "- Added: ILayoutInstances type redirect for TreasureLayoutInstance.\n- Added: ILayoutInstances type redirect for types Aetheryte, Gathering, EventObject and Character. These are currently using the parent class GameObjectLayoutInstance.\n- Fixed: Active ILayoutInstances were greyed out. (That still doesn't mean active ones are visible, hmm..)\n- Updated: ClientStructs now at cc474ca9 (compare).",
     "DownloadCount": 0,
-    "LastUpdate": 1785241109,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.65.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.65.1/latest.zip"
+    "LastUpdate": 1785250483,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.65.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.65.2/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
