@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: ILayoutInstances type redirect for TreasureLayoutInstance.\n- Added: ILayoutInstances type redirect for types Aetheryte, Gathering, EventObject and Character. These are currently using the parent class GameObjectLayoutInstance.\n- Fixed: Active ILayoutInstances were greyed out. (That still doesn't mean active ones are visible, hmm..)\n- Updated: ClientStructs now at cc474ca9 (compare).",
-    "DownloadCount": 86,
+    "DownloadCount": 123,
     "LastUpdate": 1785250483,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.65.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.65.2/latest.zip"
@@ -132,7 +132,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "HaselTweaks\n\n- Updated ClientStructs for Patch 7.51 HotFix.\n\nAuto-open Recipe\n\n- Changed: Increased the delay between items being added and the check for daily quest with recipe step from 100ms to 500ms and added an optional second check after 1 second.",
-    "DownloadCount": 2764,
+    "DownloadCount": 4318,
     "LastUpdate": 1785239932,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v49.2.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v49.2.1/latest.zip"
@@ -154,7 +154,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Update for 7.5 (Dalamud API 15).",
-    "DownloadCount": 4069,
+    "DownloadCount": 4070,
     "LastUpdate": 1777545202,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.6/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.6/latest.zip"
