@@ -132,7 +132,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "HaselTweaks\n\n- Updated ClientStructs for Patch 7.51 HotFix.\n\nAuto-open Recipe\n\n- Changed: Increased the delay between items being added and the check for daily quest with recipe step from 100ms to 500ms and added an optional second check after 1 second.",
-    "DownloadCount": 5692,
+    "DownloadCount": 5699,
     "LastUpdate": 1785239932,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v49.2.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v49.2.1/latest.zip"
