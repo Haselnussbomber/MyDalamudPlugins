@@ -3,7 +3,6 @@ const repos = [
   "HaselDebug",
   "HaselTweaks",
   "LeveHelper",
-  "YokaiCheck",
 ];
 
 const clearText = (str: string) => {
