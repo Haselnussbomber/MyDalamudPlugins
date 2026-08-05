@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "6-7, hehe.\n\n- Added: A Resource Handle tab to load and inspect resource handles by path.\n- Updated: ClientStructs now at de18d8b2 (compare).",
-    "DownloadCount": 377,
+    "DownloadCount": 397,
     "LastUpdate": 1785498126,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.67.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.67.0/latest.zip"
@@ -132,7 +132,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "HaselTweaks\n\n- Updated ClientStructs for Patch 7.51 HotFix.\n\nAuto-open Recipe\n\n- Changed: Increased the delay between items being added and the check for daily quest with recipe step from 100ms to 500ms and added an optional second check after 1 second.",
-    "DownloadCount": 8062,
+    "DownloadCount": 8175,
     "LastUpdate": 1785239932,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v49.2.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v49.2.1/latest.zip"
@@ -154,7 +154,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Update for 7.5 (Dalamud API 15).",
-    "DownloadCount": 4245,
+    "DownloadCount": 4260,
     "LastUpdate": 1777545202,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.6/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.6/latest.zip"
