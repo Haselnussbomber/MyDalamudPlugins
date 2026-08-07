@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "Update for Patch 7.55hf1.\n\n- Added: Type redirects for Atk components XBMItem and XBMContentStageEventMap.\n- Added: A MKDRelicGrowth tab to test QuestCustomTodoManager, and to be an example of how it works. This requires to be on the quest \"Aether, Aether, Everywhere\".\n- Added: A Server Request Callback Log tab to log server responses for those requests. Due to how it's coded, it's not under the Packet Logs category and only shows the payload as hex, sorry.\n- Added: EventSceneTaskInterface type redirects, based on their EventSceneTaskType, for PlayCutSceneTask and PlayStaffRollTask.\n- Updated: The Tasks tab in the Event Framework tab now draws the EventSceneTaskInterface struct.\n- Fixed: Packet Log tabs did not free the allocated memory for packet copies when clearing records or on unloading the plugin.\n- Updated: ClientStructs now at 8121cbbc (compare).",
-    "DownloadCount": 2,
+    "DownloadCount": 27,
     "LastUpdate": 1786107216,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.68.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.68.0/latest.zip"
@@ -24,7 +24,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "49.2.1.0",
+    "AssemblyVersion": "49.2.2.0",
     "Description": "There is a lot of tweaks with a bunch of options.\r\nFor a detailed description please visit the plugins repository or open /haseltweaks when installed.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -131,11 +131,11 @@
     "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/HaselTweaks/refs/heads/main/HaselTweaks/Assets/Icon.png",
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "HaselTweaks\n\n- Updated ClientStructs for Patch 7.51 HotFix.\n\nAuto-open Recipe\n\n- Changed: Increased the delay between items being added and the check for daily quest with recipe step from 100ms to 500ms and added an optional second check after 1 second.",
-    "DownloadCount": 8543,
-    "LastUpdate": 1785239932,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v49.2.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v49.2.1/latest.zip"
+    "Changelog": "HaselTweaks\n\n- Updated ClientStructs for Patch 7.55 HotFix.\n\nEnhanced Login/Logout\n\n- Fixed: When character data is not available due to congestion, pets would not properly despawn on hovering other characters.\n\nForced Cutscene Sounds\n\n- Updated: The tweak now checks and unmutes sounds whenever a cutscene-related event task was found. For example, this allows the tweak to unmute sounds while the games credits are playing.\n\nScrollable Tabs\n\n- Fixed: In the Fish Guide, scrolling the search results list will no longer incorrectly scroll the tabs.",
+    "DownloadCount": 0,
+    "LastUpdate": 1786118194,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v49.2.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v49.2.2/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -154,7 +154,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Update for 7.5 (Dalamud API 15).",
-    "DownloadCount": 4327,
+    "DownloadCount": 4330,
     "LastUpdate": 1777545202,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.6/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.6/latest.zip"
