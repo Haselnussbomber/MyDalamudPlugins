@@ -3,7 +3,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselDebug",
     "InternalName": "HaselDebug",
-    "AssemblyVersion": "1.68.1.0",
+    "AssemblyVersion": "1.69.0.0",
     "Description": "For developers.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
@@ -14,11 +14,11 @@
     "LoadPriority": 0,
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
-    "Changelog": "- Fixed: The TypeBase in the Inventory Operations tab was incorrect since it grew out of byte range.",
-    "DownloadCount": 182,
-    "LastUpdate": 1786205027,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.68.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.68.1/latest.zip"
+    "Changelog": "Got some *nice* updates for ya! :)\n\n- Added: Excel columns that contain a collection are now clickable and open the collection in a new window!\n- Fixed: Nested structs in excel sheets like Quest and SpecialShop are now properly drawn in the TreeNode view, instead of just drawing their full type name.\n- Fixed: Pinned instances are now sorted by their displayed title.\n- Updated: ClientStructs now at dc21e187 (compare).",
+    "DownloadCount": 0,
+    "LastUpdate": 1786305334,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.69.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.69.0/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -132,7 +132,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Glamour Dresser Alert\n\n- Fixed: An incorrect translation key was used for the armoire-storable items tree node.",
-    "DownloadCount": 5391,
+    "DownloadCount": 6006,
     "LastUpdate": 1786190860,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v49.2.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v49.2.3/latest.zip"
@@ -154,7 +154,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Update for 7.5 (Dalamud API 15).",
-    "DownloadCount": 4401,
+    "DownloadCount": 4413,
     "LastUpdate": 1777545202,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.6/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.6/latest.zip"
