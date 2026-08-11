@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "Got some *nice* updates for ya! :)\n\n- Added: Excel columns that contain a collection are now clickable and open the collection in a new window!\n- Fixed: Nested structs in excel sheets like Quest and SpecialShop are now properly drawn in the TreeNode view, instead of just drawing their full type name.\n- Fixed: Pinned instances are now sorted by their displayed title.\n- Updated: ClientStructs now at dc21e187 (compare).",
-    "DownloadCount": 239,
+    "DownloadCount": 240,
     "LastUpdate": 1786305334,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.69.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.69.0/latest.zip"
@@ -24,7 +24,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "49.2.4.0",
+    "AssemblyVersion": "49.3.0.0",
     "Description": "There is a lot of tweaks with a bunch of options.\r\nFor a detailed description please visit the plugins repository or open /haseltweaks when installed.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -131,11 +131,11 @@
     "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/HaselTweaks/refs/heads/main/HaselTweaks/Assets/Icon.png",
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Commands\n\n- Changed: `/reloadui` now waits 100ms between changing scenes. Maybe this fixes some textures not unload properly.",
-    "DownloadCount": 4521,
-    "LastUpdate": 1786378804,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v49.2.4/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v49.2.4/latest.zip"
+    "Changelog": "Armoire Quick Store\n\n- Added: A config option to ignore items that are part of gear sets.",
+    "DownloadCount": 0,
+    "LastUpdate": 1786455595,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v49.3.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v49.3.0/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
