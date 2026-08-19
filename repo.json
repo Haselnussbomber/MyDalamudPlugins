@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "Update for Patch 7.55hf2.\n\n- Added: ILayoutInstances type redirects for the following types:\n  - PositionMarkerLayoutInstance\n  - QuestMarkerLayoutInstance\n  - ClientPathLayoutInstance\n  - ServerPathLayoutInstance\n  - TargetMarkerLayoutInstance\n  - SphereCastRangeLayoutInstance\n  - WaterRangeLayoutInstance\n  - ShowHideRangeLayoutInstance\n  - GameContentsRangeLayoutInstance\n  - EventEffectRangeLayoutInstance\n  - CullingBoxLayoutInstance\n  - VolumetricCloudLayoutInstance\n- Updated: The a3 field in the Event Complete Log tab was renamed to LuaState and a6 was added.\n- Updated: ClientStructs now at 50e46a84 (compare).",
-    "DownloadCount": 346,
+    "DownloadCount": 363,
     "LastUpdate": 1786717870,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.70.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.70.0/latest.zip"
@@ -132,7 +132,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Commands\n\n- Changed: `/reloadui` now uses a different function, changing the game scene to Lobby and back to Game within 10 ticks. Works on my machine.  \n  Fun fact: the Aesthetician also moves you into the Lobby scene, which is why UI mods are applied when you cancel out of it and load back to the Game scene. :)",
-    "DownloadCount": 7547,
+    "DownloadCount": 7875,
     "LastUpdate": 1786847078,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v49.4.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v49.4.2/latest.zip"
@@ -154,7 +154,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Update for 7.5 (Dalamud API 15).",
-    "DownloadCount": 4667,
+    "DownloadCount": 4687,
     "LastUpdate": 1777545202,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.6/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.6/latest.zip"
