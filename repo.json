@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: A Reaction Event Object Manager tab for, well, objects from the ReactionEventObjectManager.\n- Added: Type redirect for RetainerBuybackEventHandler.\n- Changed: Renamed Lgb Inspector to Layout Inspector.\n- Updated: ClientStructs now at 7ef0af2c (compare).",
-    "DownloadCount": 439,
+    "DownloadCount": 443,
     "LastUpdate": 1787368808,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.71.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.71.0/latest.zip"
@@ -24,7 +24,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "49.4.2.0",
+    "AssemblyVersion": "50.0.0.0",
     "Description": "There is a lot of tweaks with a bunch of options.\r\nFor a detailed description please visit the plugins repository or open /haseltweaks when installed.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -85,7 +85,6 @@
       "Fashion Accessory status",
       "Remove leading zero in HP under 10%",
       "Expert Deliveries",
-      "Faster Decompression",
       "Fast Mouse Click Fix",
       "Flash Taskbar",
       "Flash on alarm",
@@ -118,9 +117,7 @@
       "Prevent Reel-In from Movement",
       "Reveal Duty Requirements",
       "Safer Market Board Price Check",
-      "Scrollable Tabs",
       "Search the markets",
-      "Shop Item Icons",
       "Simple Aethernet List"
     ],
     "DalamudApiLevel": 15,
@@ -131,11 +128,11 @@
     "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/HaselTweaks/refs/heads/main/HaselTweaks/Assets/Icon.png",
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Commands\n\n- Changed: `/reloadui` now uses a different function, changing the game scene to Lobby and back to Game within 10 ticks. Works on my machine.  \n  Fun fact: the Aesthetician also moves you into the Lobby scene, which is why UI mods are applied when you cancel out of it and load back to the Game scene. :)",
-    "DownloadCount": 11279,
-    "LastUpdate": 1786847078,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v49.4.2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v49.4.2/latest.zip"
+    "Changelog": "Tweak removed: Scrollable Tabs\n\nThis is now a standalone plugin on the Dalamud main repository. Please install Scrollable Tabs via the Plugin Installer.\n\nTweak removed: Shop Item Icons\n\nThis is now a standalone plugin on the Dalamud main repository. Please install Shop Item Icons via the Plugin Installer.",
+    "DownloadCount": 0,
+    "LastUpdate": 1787917117,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v50.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v50.0.0/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
@@ -154,7 +151,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Update for 7.5 (Dalamud API 15).",
-    "DownloadCount": 4964,
+    "DownloadCount": 4965,
     "LastUpdate": 1777545202,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.6/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.6/latest.zip"
