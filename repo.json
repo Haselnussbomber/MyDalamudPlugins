@@ -24,7 +24,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "50.0.0.0",
+    "AssemblyVersion": "50.0.1.0",
     "Description": "There is a lot of tweaks with a bunch of options.\r\nFor a detailed description please visit the plugins repository or open /haseltweaks when installed.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -128,11 +128,11 @@
     "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/HaselTweaks/refs/heads/main/HaselTweaks/Assets/Icon.png",
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Tweak removed: Scrollable Tabs\n\nThis is now a standalone plugin on the Dalamud main repository. Please install Scrollable Tabs via the Plugin Installer.\n\nTweak removed: Shop Item Icons\n\nThis is now a standalone plugin on the Dalamud main repository. Please install Shop Item Icons via the Plugin Installer.",
-    "DownloadCount": 10550,
-    "LastUpdate": 1787917117,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v50.0.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v50.0.0/latest.zip"
+    "Changelog": "HaselTweaks\n\n- Updated ClientStructs for Patch 7.56.\n- Tweaks now load asynchronously.",
+    "DownloadCount": 0,
+    "LastUpdate": 1788866608,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v50.0.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v50.0.1/latest.zip"
   },
   {
     "Author": "Haselnussbomber",
