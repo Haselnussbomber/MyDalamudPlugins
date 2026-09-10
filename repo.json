@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "Update for Patch 7.56.\n\n- Added: Type redirect for GuildleveAssignmentEventHandler.\n- Added: The Outfits unlock tab now has a Online Store column, displaying whether the set can be bought.\n- Updated: The plugin now disposes asynchronously, concurrently and on the Framework thread.\n- Updated: The GameWindow tab was removed because a special case for the Arguments pointer was added to draw them as array.\n- Updated: ClientStructs now at 1f10edb6 (compare).",
-    "DownloadCount": 227,
+    "DownloadCount": 257,
     "LastUpdate": 1788865960,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.74.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.74.0/latest.zip"
@@ -129,7 +129,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "HaselTweaks\n\n- Updated ClientStructs for Patch 7.56.\n- Tweaks now load asynchronously.",
-    "DownloadCount": 6580,
+    "DownloadCount": 7531,
     "LastUpdate": 1788866608,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v50.0.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v50.0.1/latest.zip"
@@ -151,7 +151,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Update for 7.5 (Dalamud API 15).",
-    "DownloadCount": 5266,
+    "DownloadCount": 5269,
     "LastUpdate": 1777545202,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.6/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.6/latest.zip"
