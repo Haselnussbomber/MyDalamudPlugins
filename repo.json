@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "Update for Patch 7.57.\n\n- Updated: ClientStructs now at 78975d83 (compare).",
-    "DownloadCount": 350,
+    "DownloadCount": 353,
     "LastUpdate": 1791925416,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.75.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.75.3/latest.zip"
@@ -129,7 +129,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "HaselTweaks\n\n- Updated ClientStructs for Patch 7.56 HotFix 2.",
-    "DownloadCount": 13268,
+    "DownloadCount": 13297,
     "LastUpdate": 1789650039,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v50.0.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v50.0.2/latest.zip"
