@@ -128,8 +128,8 @@
     "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/HaselTweaks/refs/heads/main/HaselTweaks/Assets/Icon.png",
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Hide MSQ Complete\n\n- Added: The tweak now also checks if you have access to the expansion required for the next Main Scenario Quest. (Thanks to @alydev)",
-    "DownloadCount": 0,
+    "Changelog": "Hide MSQ Complete\n\n- Added: The tweak now also checks if you have access to the expansion required for the next Main Scenario Quest. (Thanks to @alydevs)",
+    "DownloadCount": 418,
     "LastUpdate": 1793293793,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v50.0.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v50.0.3/latest.zip"
