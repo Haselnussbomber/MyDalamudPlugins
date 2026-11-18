@@ -15,7 +15,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: Execute Command Log tab to inspect parameters from ExecuteCommand calls.\n- Added: Execute Location Command Log tab to inspect parameters from ExecuteLocationCommandLogTab calls.\n- Changed: Expanded nodes in the Addon Inspector will now stay expanded throughout closing and reopening an addon.\n  - How it works: Instead of relaying on the address of either a AtkUnitBase or AtkResNode, it generates a hash from the addons name and uses the nodes id for the ImGui TreeNode id.",
-    "DownloadCount": 28,
+    "DownloadCount": 111,
     "LastUpdate": 1794940036,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.76.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.76.0/latest.zip"
@@ -129,7 +129,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "HaselTweaks\n\n- Updated ClientStructs for Patch 7.58.",
-    "DownloadCount": 8924,
+    "DownloadCount": 9107,
     "LastUpdate": 1794363122,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v50.0.4/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v50.0.4/latest.zip"
